@@ -5,7 +5,7 @@ DBError = psycopg2.Error
 class DatabaseManager:
     """ Manages SQL operations on the Weasel database """
     
-    def __init__(self, db_host, db_catalog, db_user):
+    def __init__(self, db_host, db_catalog, db_port, db_user, db_password):
         """ Initializes a bot manager with the given configuration.
             
             Keyword arguments:
@@ -13,14 +13,28 @@ class DatabaseManager:
             db_catalog -- The catalog to connect to
             db_user -- The database user to connect as
         """
-        password = os.environ['FRCOG-PASSWORD']
-        self.db_conn = psycopg2.connect(host=config.db_host, database=config.db_catalog, 
-                                        user=config.db_user, password=password)
+        self.db_conn = psycopg2.connect(host=db_host, database=db_catalog, 
+                                        user=db_user, port=db_port, password=db_password)
 
     def shutdown(self):
         """ Closes the database connection and decommits any active transactions"""
         self.db_conn.rollback()
         self.db_conn.close()
+
+    def get_wells_view(self):
+        results = self.exec_query("""
+            select dep_well_id, street_address1, 
+                 street_address2, city, latitude, longitude
+                 municipalies_id, R.name as well_type,
+                 M.name as municipality_name
+
+                 from wells W inner join well_types R
+                 on W.well_types_id= R.id
+
+                 inner join municipalities M
+                 on M.id = W.municipalities_id""")
+        return results;
+
 
     def exec_query(self, command, *args):
         """ Executes an SQL query with the specified set of parameter values

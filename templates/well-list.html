@@ -1,0 +1,20 @@
+{% include "header.html" %}
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Well ID</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for well in wells %}
+            <tr>
+                <td>{{ well.dep_well_id }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+
+{% include "footer.html" %}
