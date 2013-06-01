@@ -1,4 +1,6 @@
 import psycopg2, os
+from collections import namedtuple
+from psycopg2.extras import NamedTupleConnection
 
 DBError = psycopg2.Error
 
@@ -23,12 +25,12 @@ class DatabaseManager:
 
     def get_wells_view(self):
         results = self.exec_query("""
-            select dep_well_id, street_address1, 
-                 street_address2, city, latitude, longitude
+            select dep_well_id, well_street_1, 
+                 well_street_2, owner_city, latitude, longitude
                  municipalies_id, R.name as well_type,
                  M.name as municipality_name
 
-                 from wells W inner join well_types R
+                 from wells W inner join wells_types R
                  on W.well_types_id= R.id
 
                  inner join municipalities M
@@ -44,7 +46,7 @@ class DatabaseManager:
             command -- The command to execute
             *args -- Non-keyword arguments, specify positional parameter values to command
         """
-        c = self.db_conn.cursor()
+        c = self.db_conn.cursor(cursor_factory=psycopg2.extras.NamedTupleCursor)
         try:
            c.execute(command, args) 
            results = c.fetchall()
@@ -67,7 +69,7 @@ class DatabaseManager:
                         inserted row should be returned.
         """
         lastrow = None
-        c = self.db_conn.cursor()
+        c = self.db_conn.cursor(cursor_factory=psycopg2.extras.NamedTupleCursor)
         try:
            c.execute(command, args) 
            if 'lastrow' in kwargs and kwargs['lastrow']:
