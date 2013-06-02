@@ -57,12 +57,11 @@ def reports():
 
 @app.route('/map-feed', methods=['GET'])
 def get_map_data():
-    TestMapData = namedtuple('TestMapData', ['latitude', 'longitude', 
-                        'well_street_1', 'well_street_2'], verbose=True)
+    #TestMapData = namedtuple('TestMapData', ['latitude', 'longitude', 
+                        #'well_street_1', 'well_street_2'], verbose=True)
     
-    entries = [TestMapData(42.5947, -72.6012, '1 Walnut Street', ''),
-               TestMapData(42.6020, -72.5865, '2 Center Street', '')]
-    #log_entries = Well.query.all()
+    entries = Well.query.filter(Well.longitude is not None 
+                        and Well.latitude is not None).all()
     json_content = {"type" : "FeatureCollection", 
                     "features" : 
                     [
@@ -72,13 +71,18 @@ def get_map_data():
                             "coordinates" : [entry.longitude, entry.latitude]
                          },
                         "type" : "Feature",
-                        "properties" : {"address" : "{0} {1}".format(entry.well_street_1, 
-                                                                    entry.well_street_2) }
+                        "properties" : {"address" : "{0} {1} {2}".format(entry.well_street_1, 
+                                                                    entry.well_street_2, entry.municipality.name) }
                         }
                     for entry in entries
                     ]
                     }
     return json.dumps(json_content)
+
+@app.route('/upload-file', methods=['POST'])
+def upload_file():
+    return  None
+
 
 @app.route('/reports/edit', methods=['GET', 'POST'])
 def edit_report():

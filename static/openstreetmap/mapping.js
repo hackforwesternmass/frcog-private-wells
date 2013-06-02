@@ -10,7 +10,7 @@ var styleContext = {
 };
 
 var defaultStyle = new OpenLayers.Style({
-        pointRadius: 10,
+        pointRadius: 4,
         strokeWidth: 3,
         strokeColor: "red",
         fillColor: "red",
