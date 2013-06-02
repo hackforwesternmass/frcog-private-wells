@@ -1,0 +1,79 @@
+from django.db import models
+from django.contrib.auth.models import User
+from django.utils.translation import ugettext_lazy as _
+from django.contrib.localflavor.us.us_states import US_STATES
+
+from municipalities.models import Municipality
+
+
+class WellType(models.Model):
+    name = models.CharField(max_length=100)
+    created_on = models.DateTimeField(auto_now_add=True)
+    created_by = models.ForeignKey(User, related_name='well_type_created_by')
+    modified_on = models.DateTimeField(auto_now=True)
+    modified_by = models.ForeignKey(User, related_name='well_type_modified_by')
+
+    class Meta:
+        verbose_name = _('Well Type')
+        verbose_name_plural = _('Well Types')
+
+    def __unicode__(self):
+        return self.name
+
+
+class Well(models.Model):
+    deep_well_id = models.IntegerField()
+    owner_name = models.CharField(max_length=100, blank=True)
+    owner_street_1 = models.CharField(max_length=100, blank=True)
+    owner_street_2 = models.CharField(max_length=100, blank=True)
+    owner_city = models.CharField(max_length=100, blank=True)
+    owner_state = models.CharField(max_length=2, choices=US_STATES, default='MA', blank=True)
+    owner_zip = models.CharField(max_length=10, blank=True)
+    well_street_1 = models.CharField(max_length=100, blank=True)
+    well_street_2 = models.CharField(max_length=100, blank=True)
+    latitude = models.DecimalField(max_digits=11, decimal_places=6)
+    longitude = models.DecimalField(max_digits=11, decimal_places=6)
+    total_depth = models.IntegerField()
+    depth_to_bedrock = models.IntegerField()
+    assessors_map = models.CharField(max_length=10, blank=True)
+    assessors_lot = models.CharField(max_length=10, blank=True)
+    boh_date_issues = models.DateField(null=True, blank=True)
+    boh_permit = models.CharField(max_length=10, blank=True)
+    comments = models.TextField(blank=True)
+    wc_date = models.DateField(null=True, blank=True)
+    firm = models.CharField(max_length=100, blank=True)
+    supervising_driller = models.CharField(max_length=100, blank=True)
+    field_notes = models.TextField(blank=True)
+    municipality = models.ForeignKey(Municipality)
+    well_type = models.ForeignKey(WellType)
+    created_on = models.DateTimeField(auto_now_add=True)
+    created_by = models.ForeignKey(User, related_name='well_created_by')
+    modified_on = models.DateTimeField(auto_now=True)
+    modified_by = models.ForeignKey(User, related_name='well_modified_by')
+
+    class Meta:
+        verbose_name = _('Well')
+        verbose_name_plural = _('Wells')
+
+    def __unicode__(self):
+        return self.name
+
+
+class WellYield(models.Model):
+    date = models.DateField(blank=True, null=True)
+    rate = models.FloatField()
+    description = models.TextField()
+    well = models.ForeignKey('Well')
+    created_on = models.DateTimeField(auto_now_add=True)
+    created_by = models.ForeignKey(User, related_name='well_yield_created_by')
+    modified_on = models.DateTimeField(auto_now=True)
+    modified_by = models.ForeignKey(User, related_name='well_yield_modified_by')
+
+    class Meta:
+        verbose_name = _('Well Yield')
+        verbose_name_plural = _('Well Yields')
+
+    def __unicode__(self):
+        return '%s: %s - %s' % (self.well, self.date, self.rate)
+
+
