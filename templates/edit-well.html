@@ -1,15 +1,7 @@
 {% include "header.html" %}
 
 <body>
-    <table>
-        <thead>
-            <tr>
-                <th></th>
-                <th>Well ID</th>
-                <th>Owner Name</th>
-                <th>Street Address</th>
-            </tr>
-        </thead>
+    <input name="id" type="hidden">{{ well.id }}</input>
         <tbody>
             {% for well in wells %}
             <tr>
