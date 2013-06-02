@@ -1,0 +1,12 @@
+INSERT INTO wells_types(name, created_by, modified_by) VALUES ('Cathodic Protection',1,1);
+INSERT INTO wells_types(name, created_by, modified_by) VALUES ('Domestic',1,1);
+INSERT INTO wells_types(name, created_by, modified_by) VALUES ('Geoconstruction',1,1);
+INSERT INTO wells_types(name, created_by, modified_by) VALUES ('Geothermal Closed Loop',1,1);
+INSERT INTO wells_types(name, created_by, modified_by) VALUES ('Geothermal Open Loop',1,1);
+INSERT INTO wells_types(name, created_by, modified_by) VALUES ('Industrial',1,1);
+INSERT INTO wells_types(name, created_by, modified_by) VALUES ('Cathodic Protection',1,1);
+INSERT INTO wells_types(name, created_by, modified_by) VALUES ('Domestic',1,1);
+INSERT INTO wells_types(name, created_by, modified_by) VALUES ('Geoconstruction',1,1);
+INSERT INTO wells_types(name, created_by, modified_by) VALUES ('Geothermal Closed Loop',1,1);
+INSERT INTO wells_types(name, created_by, modified_by) VALUES ('Geothermal Open Loop',1,1);
+INSERT INTO wells_types(name, created_by, modified_by) VALUES ('Industrial',1,1);

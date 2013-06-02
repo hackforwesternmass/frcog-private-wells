@@ -71,12 +71,28 @@ CREATE TABLE measurements_types (
 
 CREATE TABLE wells (
 	id			SERIAL PRIMARY KEY,
-	dep_well_id		integer null,
-	street_address1		varchar(100) null,
-	street_address2		varchar(100) null,
-	city			varchar(100) null,
-	latitude		float null,
-	longitude		float null,
+	dep_well_id 		integer,
+	owner_name 		varchar(100) null,
+	owner_street_1 		varchar(100) null,
+	owner_street_2 		varchar(100) null,
+	owner_city 		varchar(100) null,
+	owner_state 		varchar(100) null,
+	owner_zip 		varchar(100) null,
+	well_street_1 		varchar(100) null,
+	well_street_2 		varchar(100) null,
+	latitude 		double precision,
+	longitude 		double precision,
+	total_depth 		integer,
+	depth_to_bedrock 	integer,
+	assessors_map 		varchar(10) null,
+	assessors_lot 		varchar(10) null,
+	boh_date_issued 	date null,
+	boh_permit		varchar(100) null,
+	comments		text null,
+	wc_date			date null,
+	firm			varchar(100) null,
+	supervising_driller	varchar(100) null,
+	field_notes		text,
 	municipalities_id	integer references municipalities(id),
 	well_types_id		integer references wells_types(id),
 	created_on  		date not null default CURRENT_DATE,
@@ -147,5 +163,5 @@ ALTER TABLE xref_users_municipalities ADD CONSTRAINT xref_users_municipalities_u
 ------------------------------------------
 
 INSERT INTO users (username, password, email, first_name, last_name) values ('admin', 'admin', 'rpitre@gmail.com', 'data', 'init');
-INSERT INTO municipalities (name, created_by, modified_by) values ('northampton', 1, 1);
+
 
