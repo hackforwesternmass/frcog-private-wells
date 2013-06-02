@@ -1,7 +1,7 @@
 from sqlalchemy.orm import scoped_session, sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import create_engine
-import ConfigParser, os
+import ConfigParser, os, logging, sys
 
 # read some database configuration from the config 
 # file, get private info from environment variable

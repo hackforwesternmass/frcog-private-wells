@@ -1,10 +1,11 @@
-import os, ConfigParser, logging, sys
+import os, ConfigParser, logging, sys, json
 from flask import Flask, render_template
 from logging.handlers import RotatingFileHandler
 from database import db_session
 from models import *
 from flask.ext.wtf import Form
 from wtforms.ext.sqlalchemy.orm import model_form
+from collections import namedtuple
 
 app = Flask(__name__)
 
@@ -49,10 +50,35 @@ def edit_well(id):
     else:
         form = WellForm(request.POST, model)
         return render_template('edit-well.html', form=form)
-
+        
 @app.route('/reports', methods=['GET'])
 def reports():
     return render_template('reports.html')
+
+@app.route('/map-feed', methods=['GET'])
+def get_map_data():
+    TestMapData = namedtuple('TestMapData', ['latitude', 'longitude', 
+                        'well_street_1', 'well_street_2'], verbose=True)
+    
+    entries = [TestMapData(42.5947, -72.6012, '1 Walnut Street', ''),
+               TestMapData(42.6020, -72.5865, '2 Center Street', '')]
+    #log_entries = Well.query.all()
+    json_content = {"type" : "FeatureCollection", 
+                    "features" : 
+                    [
+                        {"geometry" : 
+                         {
+                            "type" : "Point",
+                            "coordinates" : [entry.longitude, entry.latitude]
+                         },
+                        "type" : "Feature",
+                        "properties" : {"address" : "{0} {1}".format(entry.well_street_1, 
+                                                                    entry.well_street_2) }
+                        }
+                    for entry in entries
+                    ]
+                    }
+    return json.dumps(json_content)
 
 @app.route('/reports/edit', methods=['GET', 'POST'])
 def edit_report():

@@ -7,13 +7,10 @@ var styleContext = {
         //return Math.min(feature.attributes["crime_count"] * 0.1, 1);
         return 0.4
     },
-    getPointRadius: function(feature) {
-        return Math.sqrt(feature.attributes["crime_count"] * 2 / Math.PI)  
-    } 
 };
 
 var defaultStyle = new OpenLayers.Style({
-        pointRadius: "${getPointRadius}",
+        pointRadius: 10,
         strokeWidth: 3,
         strokeColor: "red",
         fillColor: "red",
@@ -35,7 +32,7 @@ var map = new OpenLayers.Map('map', { projection: projWGS84})
 var geojson_layer = new OpenLayers.Layer.Vector("GeoJSON", {
             strategies: [new OpenLayers.Strategy.Fixed()],
             protocol: new OpenLayers.Protocol.HTTP({
-                url: "http://dgarant.dyndns.org/CrimeVisualization/mapservice",
+                url: "/map-feed",
                 format: new OpenLayers.Format.GeoJSON({
                     "internalProjection" : map.getProjectionObject(),
                     "externalProjection" : projWGS84
@@ -80,10 +77,7 @@ function showFeatureInfo(evt) {
     popup = new OpenLayers.Popup.Anchored("featurePopup",
             feature.geometry.getBounds().getCenterLonLat(),
             new OpenLayers.Size(200,100),
-            "<h2>"+feature.attributes["short_address"]+ "</h2>" + 
-            "Number of events: " + 
-            feature.attributes["crime_count"] + "<br/><br/>" + 
-            "Click for detail",
+            "<h2>"+feature.attributes["address"]+ "</h2>",
             null, true, onHoverPopupClose);
     feature.popup = popup;
     popup.feature = feature;
@@ -100,22 +94,10 @@ var selectControl = new OpenLayers.Control.SelectFeature(geojson_layer, {
    clickout: true,
     onSelect: function(feature)  {
         $.getJSON(
-        "http://dgarant.dyndns.org/CrimeVisualization/mapservice",
+        "/map-feed",
           { "address" : feature.attributes["address"]},
             function(data) {
-                popupContent = "<h2>"+feature.attributes["short_address"]+ "</h2>" + 
-                                "<p>Number of events: " + feature.attributes["crime_count"] + "</p>" + 
-                                "<table border='1'>" + 
-                                "<tr>" + 
-                                "<td>Time</td><td>Description</td><td># Officers</td></tr>"
-                for(var i = 0; i < data.length; i++) {
-                   popupContent += "<tr>" 
-                   popupContent += "<td>" + data[i]["time"] + "</td>"
-                   popupContent += "<td>" + data[i]["description"] + "</td>"
-                   popupContent += "<td>" + data[i]["num_responding"] + "</td>"
-                   popupContent += "</tr>" 
-                }
-                popupContent += "</table>"
+                popupContent = "<h2>"+feature.attributes["address"]+ "</h2>"
 
                 popup = new OpenLayers.Popup.Anchored("featurePopup",
                     feature.geometry.getBounds().getCenterLonLat(),
@@ -134,6 +116,6 @@ map.addControl(selectControl);
 selectControl.activate();
 
 map.setCenter(
-    new OpenLayers.LonLat(-72.278, 42.934).transform(
+    new OpenLayers.LonLat(-72.71, 42.38).transform(
         projWGS84, map.getProjectionObject()), 
-        15);
+        9);
