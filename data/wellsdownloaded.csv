@@ -1,0 +1,1655 @@
+WELL_ID,TOWN,STREET_NUMBER,STREET_NAME,Address,LATITUDE,LONGITUDE,DATE_COMPLETE,WELL_TYPE,WORKPERFORMED,TOTAL_DEPTH,DEPTH_TO_BEDROCK,WATER_LEVEL,Numeric Water Level
+548,Hawley,24,East Mawley Road,24 East Mawley Road Hawley MA,,,3/7/2001,Domestic,New Well,260,226,47,47
+653,Hawley,28,East Hawley Road,28 East Hawley Road Hawley MA,,,3/9/2001,Domestic,New Well,380,214,40,40
+12906,Hawley,232,West Hawley Road,232 West Hawley Road Hawley MA,,,2/19/2002,Domestic,,100,35,flowing,0
+17255,Hawley,74,East Hawley Road,74 East Hawley Road Hawley MA,,,7/11/2003,Domestic,,500,89,100,100
+103863,Hawley,,Hunt Road, Hunt Road Hawley MA,,,8/13/2001,Domestic,New Well,280,10,10,10
+103931,Hawley,42,East Hawley Road,42 East Hawley Road Hawley MA,,,10/25/2001,Domestic,Replacement,265,24,18,18
+107559,Hawley,101,Forget Road,101 Forget Road Hawley MA,,,11/9/2001,Domestic,New Well,320,10,30,30
+109426,Hawley,38,Plainfield Road,38 Plainfield Road Hawley MA,,,3/28/2002,Domestic,New Well,220,88,8,8
+109489,Hawley,386,Dozrah Road,386 Dozrah Road Hawley MA,,,5/24/2002,Domestic,New Well,320,137,15,15
+114302,Hawley,Lot 7,E. Hawley Rd.,Lot 7 E. Hawley Rd. Hawley MA,,,9/24/2002,Domestic,New Well,260,5,24,24
+118372,Hawley,81,East Hawley Rd.,81 East Hawley Rd. Hawley MA,,,10/23/2002,Domestic,New Well,360,63,10,10
+122460,Hawley,17,Ashfield Road,17 Ashfield Road Hawley MA,,,7/2/2003,Domestic,New Well,265,0,45,45
+124193,Hawley,396,West Hawley Road,396 West Hawley Road Hawley MA,,,10/9/2003,Domestic,New Well,300,122,18,18
+127870,Hawley,12,Pudding Hollow Road,12 Pudding Hollow Road Hawley MA,,,3/8/2004,Domestic,New Well,320,54,40,40
+127871,Hawley,,East Hawley Road, East Hawley Road Hawley MA,,,3/4/2004,,New Well,200,50,6,6
+127872,Hawley,8,Pudding Hollow Road,8 Pudding Hollow Road Hawley MA,,,3/3/2004,Domestic,New Well,440,120,30,30
+132015,Hawley,15,Pond Road,15 Pond Road Hawley MA,,,9/8/2004,Domestic,New Well,120,50,flowing,0
+133467,Hawley,59,East Hawley Road,59 East Hawley Road Hawley MA,,,7/7/2004,Domestic,Deepen,440,127,60,60
+137073,Hawley,23,North Street,23 North Street Hawley MA,,,4/12/2006,Domestic,New Well,160,16,20,20
+143029,Hawley,26,Dodge Corner Road,26 Dodge Corner Road Hawley MA,,,9/30/2005,Domestic,New Well,220,46,30,30
+143040,Hawley,,West Hawley Road / Route 8A, West Hawley Road / Route 8A Hawley MA,,,,,,140,100,overflows,0
+148963,Hawley,49,E. Hawley Road,49 E. Hawley Road Hawley MA,42.61015,-72.891017,9/30/2007,Domestic,New Well,482,60,40,40
+149014,Hawley,200,West Hawley Road,200 West Hawley Road Hawley MA,42.60015,-72.9338,11/3/2006,Domestic,New Well,120,30,Overflow,0
+149055,Hawley,28,Dodge Road,28 Dodge Road Hawley MA,42.5981,-72.842017,12/4/2006,Domestic,New Well,260,2,7,7
+151220,Hawley,58,East Road,58 East Road Hawley MA,42.609067,-72.879283,6/21/2007,Domestic,New Well,123,67,0,0
+155360,Hawley,112,Forget Road,112 Forget Road Hawley MA,42.581533,-72.860733,5/10/2008,Domestic,New Well,362,4,30,30
+251663,Hawley,127,East Hawley Rd,127 East Hawley Rd Hawley MA,42.597017,-72.88745,5/28/2008,Domestic,New Well,220,18,40,40
+251735,Hawley,,Burlington Road, Burlington Road Hawley MA,,,6/29/1988,Domestic,New Well,220,29,,0
+252342,Hawley,,Middle  Road, Middle  Road Hawley MA,,,11/3/1999,Domestic,Deepen,280,,22,22
+252344,Hawley,,Labelle Road, Labelle Road Hawley MA,,,6/29/2000,Domestic,New Well,325,46,12,12
+252346,Hawley,,Forge Hill Road, Forge Hill Road Hawley MA,,,9/9/1999,Domestic,New Well,165,115,2,2
+252347,Hawley,,Charlemont Road, Charlemont Road Hawley MA,,,6/6/1999,Domestic,New Well,300,5,20,20
+252348,Hawley,,Plainfield Road, Plainfield Road Hawley MA,,,5/18/1999,Domestic,New Well,265,50,18,18
+264848,Hawley,24,Bozrah Road,24 Bozrah Road Hawley MA,42.60825,-72.88565,10/1/2009,Domestic,Replacement,145,60,0,0
+280643,Hawley,,Labelle Road, Labelle Road Hawley MA,,,4/28/1999,Domestic,New Well,325,57,15,15
+280644,Hawley,,East Hawley Road, East Hawley Road Hawley MA,,,7/15/1997,Domestic,New Well,200,85,10,10
+280645,Hawley,,Pudding Hollow Road, Pudding Hollow Road Hawley MA,,,3/4/1997,Domestic,New Well,200,90,35,35
+280646,Hawley,128,West Hawley Road,128 West Hawley Road Hawley MA,,,10/4/1996,Domestic,New Well,520,152,65,65
+280648,Hawley,,Middle Road, Middle Road Hawley MA,,,12/27/1995,Domestic,New Well,140,64,,0
+280649,Hawley,,West Hill Road, West Hill Road Hawley MA,,,10/10/1995,Domestic,New Well,400,6,,0
+280650,Hawley,,Route 8A, Route 8A Hawley MA,,,7/15/1995,Domestic,New Well,140,47,,0
+280651,Hawley,,East Road, East Road Hawley MA,,,11/22/1994,Domestic,New Well,180,90,0,0
+280652,Hawley,,West Hill Road, West Hill Road Hawley MA,,,9/9/1994,Domestic,New Well,200,7,20,20
+280653,Hawley,,East Hawley Road, East Hawley Road Hawley MA,,,8/18/1994,Domestic,New Well,200,15,15,15
+280654,Hawley,,Route 8A, Route 8A Hawley MA,,,7/15/1994,Domestic,New Well,180,137,20,20
+280655,Hawley,,East Hawley Road, East Hawley Road Hawley MA,,,9/16/1993,Domestic,New Well,140,30,30,30
+280656,Hawley,,Labelle Road, Labelle Road Hawley MA,,,8/4/1993,Domestic,New Well,195,28,30,30
+280657,Hawley,,Savoy Road, Savoy Road Hawley MA,,,5/26/1993,Domestic,New Well,160,96,20,20
+280658,Hawley,,Bozrah Road, Bozrah Road Hawley MA,,,11/5/1992,Domestic,New Well,220,169,20,20
+280659,Hawley,,East Hawley Road, East Hawley Road Hawley MA,,,7/24/1992,Domestic,New Well,235,75,121,121
+280660,Hawley,,Route 8A, Route 8A Hawley MA,,,7/14/1992,Domestic,New Well,100,33,,0
+280661,Hawley,,East Hawley Road, East Hawley Road Hawley MA,,,11/20/1991,Domestic,New Well,180,20,58,58
+280662,Hawley,,Route 8A, Route 8A Hawley MA,,,7/2/1991,Domestic,New Well,170,160,30,30
+280663,Hawley,,Forget Road, Forget Road Hawley MA,,,4/30/1991,Domestic,New Well,180,45,65,65
+280664,Hawley,,Ashfield Road, Ashfield Road Hawley MA,,,8/28/1990,Domestic,New Well,150,8,18,18
+280666,Hawley,,East Hawley Road, East Hawley Road Hawley MA,,,12/1/1989,Domestic,New Well,150,63,20,20
+280667,Hawley,,Pudding Hollow Road, Pudding Hollow Road Hawley MA,,,11/3/1989,Domestic,New Well,240,8,10,10
+280668,Hawley,,West Hawley Road, West Hawley Road Hawley MA,,,7/14/1989,Domestic,New Well,200,168,10,10
+280669,Hawley,,West Hawley Road, West Hawley Road Hawley MA,,,7/14/1989,Domestic,New Well,200,168,10,10
+280670,Hawley,,Forget Road, Forget Road Hawley MA,,,6/23/1989,Domestic,New Well,100,,30,30
+280671,Hawley,,,  Hawley MA,,,6/16/1989,Domestic,New Well,130,110,5,5
+280672,Hawley,,Pudding Hollow Road, Pudding Hollow Road Hawley MA,,,3/18/1989,Domestic,New Well,130,50,30,30
+280673,Hawley,,Route 8A, Route 8A Hawley MA,,,12/9/1988,Domestic,New Well,105,40,20,20
+280674,Hawley,,Ashfield Road, Ashfield Road Hawley MA,,,11/15/1988,Domestic,New Well,140,10,10,10
+280675,Hawley,,,  Hawley MA,,,8/3/1988,Domestic,New Well,200,119,20,20
+280676,Hawley,,East Road, East Road Hawley MA,,,7/21/1988,Domestic,New Well,260,105,10,10
+280677,Hawley,,Ashfield Road, Ashfield Road Hawley MA,,,7/1/1988,Domestic,New Well,320,34,25,25
+280678,Hawley,,West Hawley Road, West Hawley Road Hawley MA,,,2/23/1988,Domestic,New Well,380,80,20,20
+280679,Hawley,,Hunt Road, Hunt Road Hawley MA,,,10/29/1986,Domestic,New Well,200,2,30,30
+280680,Hawley,,Buckland Road, Buckland Road Hawley MA,,,10/18/1986,Domestic,New Well,160,1,20,20
+280681,Hawley,,East Hawley Road, East Hawley Road Hawley MA,,,9/11/1986,Domestic,New Well,,126,35,35
+280682,Hawley,,,  Hawley MA,,,7/7/1986,Domestic,New Well,360,20,10,10
+280683,Hawley,,,  Hawley MA,,,6/9/1986,Domestic,New Well,260,4,20,20
+280685,Hawley,,,  Hawley MA,,,6/8/1986,Domestic,New Well,140,1,10,10
+280686,Hawley,,,  Hawley MA,,,5/30/1986,Domestic,New Well,180,15,26,26
+280687,Hawley,,,  Hawley MA,,,5/15/1986,Domestic,New Well,160,39,30,30
+280688,Hawley,,,  Hawley MA,,,4/15/1986,Domestic,New Well,220,17,6,6
+280689,Hawley,,,  Hawley MA,,,3/18/1986,Domestic,New Well,100,3,4,4
+280691,Hawley,,Route 8A, Route 8A Hawley MA,,,2/27/1986,Public Water Supply,New Well,300,2,300,300
+280692,Hawley,,Forget Road, Forget Road Hawley MA,,,8/5/1985,Domestic,New Well,240,0.167,,0
+280693,Hawley,,Dodge Road, Dodge Road Hawley MA,,,6/22/1984,Domestic,New Well,100,11,7,7
+280694,Hawley,,,  Hawley MA,,,3/8/1984,Domestic,New Well,260,25,,0
+280696,Hawley,,Buckland Road, Buckland Road Hawley MA,,,10/1/1983,Domestic,New Well,205,16,,0
+280701,Hawley,,Pond Road, Pond Road Hawley MA,,,9/29/1981,Domestic,New Well,260,4,30,30
+280702,Hawley,,Pudding Hollow Road, Pudding Hollow Road Hawley MA,,,9/25/1981,Domestic,New Well,220,77,20,20
+280703,Hawley,,Route 8A, Route 8A Hawley MA,,,7/14/1981,Domestic,New Well,160,103,40,40
+280704,Hawley,,Route 8A, Route 8A Hawley MA,,,7/10/1981,Domestic,New Well,300,12,15,15
+280705,Hawley,,Route 8A, Route 8A Hawley MA,,,6/10/1981,Domestic,New Well,200,90,35,35
+280706,Hawley,,Pudding Hollow Road, Pudding Hollow Road Hawley MA,,,1/21/1981,Domestic,New Well,220,82,50,50
+280707,Hawley,,East Road, East Road Hawley MA,,,12/1/1979,Domestic,New Well,150,92,,0
+280708,Hawley,,Middle Road, Middle Road Hawley MA,,,8/1/1979,Domestic,New Well,155,28,,0
+280709,Hawley,,West Hill Road, West Hill Road Hawley MA,,,8/30/1979,Select,New Well,205,11,14,14
+280711,Hawley,,,  Hawley MA,,,12/20/1978,Domestic,New Well,,,75,75
+280712,Hawley,,East Road, East Road Hawley MA,,,12/14/1978,Domestic,New Well,355,50,50,50
+280713,Hawley,,West Hawley Road, West Hawley Road Hawley MA,,,10/30/1978,Domestic,New Well,110,2,,0
+280715,Hawley,,Plainfield Road, Plainfield Road Hawley MA,,,3/16/1978,Domestic,New Well,,9,22,22
+280716,Hawley,,West Hill Road, West Hill Road Hawley MA,,,9/1/1973,Domestic,New Well,150,23,20,20
+280717,Hawley,,,  Hawley MA,,,7/1/1973,Domestic,New Well,125,10,,0
+280718,Hawley,,,  Hawley MA,,,12/20/1972,Domestic,New Well,100,10,20,20
+280719,Hawley,,Middle Road, Middle Road Hawley MA,,,6/28/1972,Domestic,New Well,130,60,30,30
+280721,Hawley,,,  Hawley MA,,,6/12/1972,Domestic,New Well,125,5,,0
+280726,Hawley,,East Hawley Road, East Hawley Road Hawley MA,,,10/14/1971,Domestic,New Well,150,35,,0
+280727,Hawley,,West Hawley Road, West Hawley Road Hawley MA,,,1/26/1971,Domestic,New Well,80,,20,20
+280728,Hawley,,West Hawley Road, West Hawley Road Hawley MA,,,10/10/1969,Select,New Well,60,,,0
+280729,Hawley,,West Hawley Road, West Hawley Road Hawley MA,,,8/20/1968,Domestic,New Well,250,5,50,50
+280730,Hawley,,West Hill Road, West Hill Road Hawley MA,,,5/15/1964,Domestic,New Well,125,,5,5
+600039,Hawley,,FORGET ROAD, FORGET ROAD Hawley MA,,,6/28/2010,,,345,25,20,20
+600127,Hawley,6,PUDDING HOLLOW ROAD,6 PUDDING HOLLOW ROAD Hawley MA,,,9/2/2010,,,245,105,20,20
+602438,Hawley,00,WEST HAWLEY ROAD,00 WEST HAWLEY ROAD Hawley MA,,,,,,,,,0
+1031,Ashfield,,Watson Spruce Cornor Road, Watson Spruce Cornor Road Ashfield MA,,,11/22/1999,Domestic,New Well,380,5,18,18
+1032,Ashfield,519,Baptist Corner Road,519 Baptist Corner Road Ashfield MA,,,10/15/1999,Domestic,New Well,260,12,20,20
+1033,Ashfield,,From Rte 112 Take Bug Hill Road 1.7 On Left, From Rte 112 Take Bug Hill Road 1.7 On Left Ashfield MA,,,9/29/1999,Domestic,New Well,165,25,60,60
+1034,Ashfield,2003,Conway Road,2003 Conway Road Ashfield MA,,,9/25/1999,Domestic,New Well,180,32,20,20
+1035,Ashfield,743,Bug Hill Road,743 Bug Hill Road Ashfield MA,,,9/23/1999,Domestic,New Well,220,10,15,15
+1036,Ashfield,153,Dyer Road,153 Dyer Road Ashfield MA,,,9/19/2000,Domestic,New Well,440,25,8,8
+1037,Ashfield,1025,Hawley Road,1025 Hawley Road Ashfield MA,,,8/31/2000,Domestic,New Well,320,6,40,40
+1038,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,7/30/1999,Domestic,New Well,220,5,20,20
+17943,Ashfield,,Smith Road, Smith Road Ashfield MA,,,7/19/1999,Domestic,,440,15,50,50
+100785,Ashfield,1020,Route 12,1020 Route 12 Ashfield MA,,,10/23/2001,Domestic,New Well,200,83,18,18
+103868,Ashfield,,Spruce Corner Road, Spruce Corner Road Ashfield MA,,,8/14/2001,Domestic,New Well,440,50,10,10
+103900,Ashfield,26,Flora Toxio Lane,26 Flora Toxio Lane Ashfield MA,,,8/1/2001,Domestic,New Well,200,5,40,40
+103923,Ashfield,304,March Road,304 March Road Ashfield MA,,,9/12/2001,Domestic,Deepen,445,150,15,15
+107451,Ashfield,569,John Ford Road,569 John Ford Road Ashfield MA,,,3/4/2002,Domestic,Replacement,125,7,30,30
+107528,Ashfield,1587,Conway Road,1587 Conway Road Ashfield MA,,,10/20/2001,Domestic,New Well,200,115,flowing,0
+107544,Ashfield,42,Lilliput Road,42 Lilliput Road Ashfield MA,,,10/31/2001,Domestic,New Well,160,8,20,20
+108344,Ashfield,38,Barnas Road,38 Barnas Road Ashfield MA,,,11/26/2001,Domestic,New Well,160,55,30,30
+109360,Ashfield,,Cummington Road, Cummington Road Ashfield MA,,,1/18/2002,Domestic,New Well,320,10,30,30
+109423,Ashfield,,Bear Mountain Road, Bear Mountain Road Ashfield MA,,,3/28/2002,Domestic,New Well,140,10,15,15
+109452,Ashfield,3392,West Road,3392 West Road Ashfield MA,,,3/11/2002,Domestic,New Well,400,8,8,8
+109467,Ashfield,369,March Road,369 March Road Ashfield MA,,,4/5/2002,Domestic,New Well,340,22,29,29
+111110,Ashfield,544,Spruce Corner Road,544 Spruce Corner Road Ashfield MA,,,8/20/2003,Domestic,New Well,280,5,20,20
+111139,Ashfield,lot #2,Plainfield Road,lot #2 Plainfield Road Ashfield MA,,,7/16/2002,Domestic,New Well,280,80,10,10
+111435,Ashfield,,Bug Hill Road, Bug Hill Road Ashfield MA,,,8/23/2002,Domestic,New Well,485,8,25,25
+113363,Ashfield,,Williamsburg road, Williamsburg road Ashfield MA,,,8/8/2002,Domestic,New Well,440,70,overflow,0
+116112,Ashfield,,Route 112, Route 112 Ashfield MA,,,5/23/2003,Monitoring,New Well,56,0,50,50
+118243,Ashfield,1170,Bog Hill Road,1170 Bog Hill Road Ashfield MA,,,11/15/2002,Domestic,New Well,120,5,11,11
+118382,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,11/7/2002,Domestic,New Well,220,4,20,20
+118389,Ashfield,835,Baptist Corner Road,835 Baptist Corner Road Ashfield MA,,,11/5/2002,Domestic,New Well,320,45,overtop,0
+118393,Ashfield,369,Baptist Corner Road,369 Baptist Corner Road Ashfield MA,,,11/6/2002,Domestic,New Well,440,32,5,5
+118496,Ashfield,69,Norton Hill Road,69 Norton Hill Road Ashfield MA,,,5/1/2003,Domestic,New Well,500,15,,0
+122482,Ashfield,1994,Hawley Road,1994 Hawley Road Ashfield MA,,,8/29/2003,Domestic,New Well,225,5,10,10
+122497,Ashfield,,Baptist Corner Road, Baptist Corner Road Ashfield MA,,,10/20/2003,Domestic,New Well,205,22,20,20
+122538,Ashfield,17,Bailey Road,17 Bailey Road Ashfield MA,,,5/3/2004,Domestic,New Well,365,18,40,40
+124195,Ashfield,45,Old Stage Road,45 Old Stage Road Ashfield MA,,,12/8/2003,Domestic,New Well,120,35,6,6
+124199,Ashfield,69,Norton Hill Road,69 Norton Hill Road Ashfield MA,,,5/22/2003,Domestic,New Well,220,20,20,20
+126091,Ashfield,,Dyer Road, Dyer Road Ashfield MA,,,7/8/2003,Domestic,New Well,320,58,20,20
+126111,Ashfield,,Watson Spruce Corner, Watson Spruce Corner Ashfield MA,,,8/20/2003,Domestic,New Well,160,21,10,10
+127177,Ashfield,,Spruce Corner Road, Spruce Corner Road Ashfield MA,,,1/6/2004,Domestic,New Well,240,25,overflow,0
+127455,Ashfield,163,Horton Hill Road,163 Horton Hill Road Ashfield MA,,,4/22/2004,Domestic,New Well,140,10,20,20
+127793,Ashfield,98,Tatro Road,98 Tatro Road Ashfield MA,,,10/23/2003,Domestic,New Well,320,60,overflow,0
+127798,Ashfield,37,Tatro Road,37 Tatro Road Ashfield MA,,,10/24/2003,Domestic,New Well,400,90,40,40
+127809,Ashfield,221,Pfersick Road,221 Pfersick Road Ashfield MA,,,11/5/2003,Domestic,New Well,380,48,1,1
+130414,Ashfield,1330,Spruce Corner Road,1330 Spruce Corner Road Ashfield MA,,,4/30/2004,Domestic,New Well,420,39,5,5
+131307,Ashfield,Lot 40,Baptist Corner Road,Lot 40 Baptist Corner Road Ashfield MA,,,4/21/2005,Domestic,New Well,405,25,27,27
+133482,Ashfield,1482,Cape Street,1482 Cape Street Ashfield MA,,,7/28/2004,Domestic,New Well,260,55,10,10
+133524,Ashfield,143,South Street,143 South Street Ashfield MA,,,9/3/2004,Domestic,New Well,440,10,40,40
+135482,Ashfield,998,Williamsburg Road,998 Williamsburg Road Ashfield MA,,,5/19/2005,Domestic,New Well,120,25,5,5
+135502,Ashfield,Lot 2,John Ford Road,Lot 2 John Ford Road Ashfield MA,,,1/27/2006,Domestic,New Well,320,18,20,20
+136080,Ashfield,24,Watson Spruce Corner Road,24 Watson Spruce Corner Road Ashfield MA,,,3/11/2005,Domestic,New Well,422,5,60,60
+136727,Ashfield,1179,Spruce Corner Road (Route 116),1179 Spruce Corner Road (Route 116) Ashfield MA,,,3/15/2005,Domestic,New Well,320,40,7,7
+138334,Ashfield,,Cape Street / Route 112, Cape Street / Route 112 Ashfield MA,,,5/9/2005,Industrial,New Well,250,5,15,15
+140500,Ashfield,297,Commington Road,297 Commington Road Ashfield MA,,,9/6/2005,Domestic,New Well,220,66,8,8
+140510,Ashfield,444,Bellus Road,444 Bellus Road Ashfield MA,,,10/3/2005,Domestic,New Well,120,7,20,20
+140540,Ashfield,133,Dyer Road,133 Dyer Road Ashfield MA,,,6/29/2006,Domestic,New Well,260,9,10,10
+141240,Ashfield,17,Watson Spruce Road,17 Watson Spruce Road Ashfield MA,,,5/4/2006,Domestic,New Well,245,9,20,20
+143085,Ashfield,Lot 68,John Ford Road,Lot 68 John Ford Road Ashfield MA,,,12/9/2005,Domestic,New Well,360,50,10,10
+146472,Ashfield,1439,West Street,1439 West Street Ashfield MA,,,9/14/2006,Domestic,New Well,,0,20,20
+147771,Ashfield,888,Ashfield Road,888 Ashfield Road Ashfield MA,42.553717,-72.8032,12/29/2006,Domestic,New Well,445,25,,0
+147778,Ashfield,888,Ashfield Mt. Road,888 Ashfield Mt. Road Ashfield MA,42.553717,-72.8032,1/17/2007,Domestic,Hydrofracture,445,0,12,12
+148200,Ashfield,199,Stonewall Drive,199 Stonewall Drive Ashfield MA,42.50965,-7.414867,11/10/2006,Domestic,New Well,320,12,1,1
+148279,Ashfield,Lot 4,Watson Spruce Corner Road,Lot 4 Watson Spruce Corner Road Ashfield MA,42.52065,-72.856933,3/20/2007,Domestic,New Well,220,19,45,45
+148972,Ashfield,366,West Road,366 West Road Ashfield MA,42.5068,-72.8025,10/8/2007,Domestic,New Well,225,4,5,5
+148984,Ashfield,369,Bullitt Road,369 Bullitt Road Ashfield MA,42.5044,-72.753417,11/29/2007,Domestic,New Well,502,8,32,32
+148998,Ashfield,402a,Apple Valley Road,402a Apple Valley Road Ashfield MA,42.55905,-72.812133,10/19/2007,Domestic,New Well,201,108,25,25
+151219,Ashfield,687,Baptist Corner Road,687 Baptist Corner Road Ashfield MA,42.544567,-72.78855,6/9/2007,Domestic,New Well,300,10,30,30
+155356,Ashfield,369,Bullitt Road,369 Bullitt Road Ashfield MA,42.504433,-72.7539,5/8/2008,Domestic,Decommission,150,0,18.5,18.5
+155357,Ashfield,369,Bullitt Road,369 Bullitt Road Ashfield MA,42.505433,-72.754117,5/8/2008,Domestic,Decommission,200,0,3.5,3.5
+156833,Ashfield,106,Bird Hill Road,106 Bird Hill Road Ashfield MA,42.4915,-72.771733,10/28/2008,Domestic,New Well,282,40,70,70
+157692,Ashfield,,North Warger Road, North Warger Road Ashfield MA,42.560833,-72.740367,4/20/2009,Domestic,New Well,120,18,10,10
+157716,Ashfield,214,South Warger Road,214 South Warger Road Ashfield MA,42.548833,-72.7381,7/21/2009,Domestic,New Well,200,84,0,0
+159908,Ashfield,69,Pfersick Road,69 Pfersick Road Ashfield MA,42.550267,-72.746933,12/2/2009,Domestic,New Well,143,86,35,35
+161620,Ashfield,228,Plainfield Road,228 Plainfield Road Ashfield MA,42.49845,-72.853733,9/26/2010,Domestic,New Well,460,12,50,50
+250582,Ashfield,152C,John Ford Rd,152C John Ford Rd Ashfield MA,42.498417,-72.855533,8/27/2007,Domestic,New Well,300,5,50,50
+251351,Ashfield,102,Plainfield Road,102 Plainfield Road Ashfield MA,42.50165,-72.852333,3/12/2008,Domestic,Replacement,305,9,20,20
+251543,Ashfield,1530,Williamsburg Road,1530 Williamsburg Road Ashfield MA,42.474067,-72.764517,5/2/2008,Domestic,New Well,440,16,10,10
+256972,Ashfield,243,Graves  Road,243 Graves  Road Ashfield MA,,,8/8/1997,Domestic,New Well,440,4,6,6
+256977,Ashfield,,Route 116, Route 116 Ashfield MA,,,11/7/1997,Domestic,New Well,260,118,17,17
+256982,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,7/10/1997,Domestic,New Well,120,10,10,10
+256985,Ashfield,,Suburban Drive, Suburban Drive Ashfield MA,,,8/18/1997,Domestic,New Well,220,8,10,10
+256987,Ashfield,,Watson Spruce Corner Road, Watson Spruce Corner Road Ashfield MA,,,11/15/1998,Domestic,New Well,120,23,12,12
+256992,Ashfield,,Beldingville Road, Beldingville Road Ashfield MA,,,12/14/1998,Domestic,New Well,150,143,47,47
+256995,Ashfield,,Watson Spruce Corner Road, Watson Spruce Corner Road Ashfield MA,,,12/11/1998,Domestic,New Well,200,10,7,7
+257006,Ashfield,266,Ranney Corner Road,266 Ranney Corner Road Ashfield MA,,,1/3/1998,Domestic,New Well,280,63,17,17
+257007,Ashfield,199,Ranney Corner Road,199 Ranney Corner Road Ashfield MA,,,1/5/1999,Domestic,New Well,180,54,19,19
+257008,Ashfield,,Murray Road, Murray Road Ashfield MA,,,4/14/1999,Domestic,New Well,180,40,24,24
+257009,Ashfield,,Watson Spruce Corner Road, Watson Spruce Corner Road Ashfield MA,,,2/4/1999,Domestic,New Well,180,38,11,11
+257010,Ashfield,,Cape Street, Cape Street Ashfield MA,,,4/30/1998,Domestic,New Well,440,8,60,60
+257011,Ashfield,,Swamp Road, Swamp Road Ashfield MA,,,10/22/1997,Domestic,New Well,125,2,15,15
+257012,Ashfield,,Bug Hill Road, Bug Hill Road Ashfield MA,,,10/22/1997,Domestic,New Well,375,6,,0
+257013,Ashfield,,Marsh Road, Marsh Road Ashfield MA,,,6/30/1998,Domestic,New Well,225,14,10,10
+257014,Ashfield,868,Cape Street,868 Cape Street Ashfield MA,,,5/27/1998,Domestic,New Well,70,44,10,10
+257015,Ashfield,125,Suburban Drive,125 Suburban Drive Ashfield MA,,,5/29/1998,Domestic,New Well,80,32,10,10
+257016,Ashfield,,West Road, West Road Ashfield MA,,,8/29/1998,Domestic,New Well,200,23,20,20
+257017,Ashfield,,Norton Hill Road, Norton Hill Road Ashfield MA,,,3/8/1994,Domestic,New Well,160,60,15,15
+257019,Ashfield,,Norton Hill Road, Norton Hill Road Ashfield MA,,,3/7/1994,Domestic,New Well,380,40,40,40
+257022,Ashfield,,Bug Hill Road, Bug Hill Road Ashfield MA,,,12/8/1993,Domestic,New Well,100,5,20,20
+257023,Ashfield,152A,John Ford Road,152A John Ford Road Ashfield MA,,,8/24/1998,Domestic,New Well,360,8,8,8
+257024,Ashfield,,Steady Lane Road, Steady Lane Road Ashfield MA,,,12/2/1996,Domestic,New Well,120,68,6,6
+257026,Ashfield,395,Beldingville road,395 Beldingville road Ashfield MA,,,8/12/1998,Domestic,New Well,240,92,15,15
+257027,Ashfield,,Creamery Road, Creamery Road Ashfield MA,,,10/7/1993,Domestic,New Well,180,63,1,1
+257028,Ashfield,,Bear Mountain Road, Bear Mountain Road Ashfield MA,,,8/25/1993,Domestic,New Well,200,28,15,15
+257029,Ashfield,,Farm Road, Farm Road Ashfield MA,,,10/7/1981,Domestic,New Well,300,10,60,60
+257030,Ashfield,,Route 116, Route 116 Ashfield MA,,,8/28/1993,Domestic,New Well,260,149,3,3
+257031,Ashfield,,Bird Hill Road, Bird Hill Road Ashfield MA,,,8/17/1993,Domestic,New Well,160,55,20,20
+257032,Ashfield,199,Ashfield Road,199 Ashfield Road Ashfield MA,,,1/6/1993,Domestic,New Well,180,17,0,0
+257034,Ashfield,,Bear Mountain Drive, Bear Mountain Drive Ashfield MA,,,12/30/1992,Domestic,New Well,140,32,40,40
+257035,Ashfield,,Bear Mountain Drive, Bear Mountain Drive Ashfield MA,,,12/22/1992,Domestic,New Well,200,69,16,16
+257036,Ashfield,,West Road, West Road Ashfield MA,,,9/23/1992,Domestic,New Well,140,47,10,10
+257037,Ashfield,,Tatro Road, Tatro Road Ashfield MA,,,9/15/1992,Domestic,New Well,415,42,40,40
+257039,Ashfield,,Bear Mountain Drive, Bear Mountain Drive Ashfield MA,,,7/30/1992,Domestic,New Well,320,52,15,15
+257040,Ashfield,,Baptist Corner Road, Baptist Corner Road Ashfield MA,,,7/24/1992,Domestic,New Well,320,99,40,40
+257044,Ashfield,,Bug Hill Road, Bug Hill Road Ashfield MA,,,11/4/1981,Domestic,New Well,100,44,5,5
+257047,Ashfield,,Bran Road, Bran Road Ashfield MA,,,10/1/1981,Domestic,New Well,160,14,10,10
+257048,Ashfield,,Pfersick Road, Pfersick Road Ashfield MA,,,5/11/1997,Domestic,New Well,260,72,20,20
+257049,Ashfield,634,Bellus Road,634 Bellus Road Ashfield MA,,,12/9/1996,Domestic,New Well,240,38,Overflow,0
+257050,Ashfield,,Brown Road, Brown Road Ashfield MA,,,7/21/1992,Domestic,New Well,260,14,8,8
+257051,Ashfield,211,Spruce Corner Road,211 Spruce Corner Road Ashfield MA,,,11/29/1996,Domestic,New Well,200,47,5,5
+257052,Ashfield,,Route 112, Route 112 Ashfield MA,,,11/12/1996,Domestic,New Well,120,58,25,25
+257053,Ashfield,,Graves Road, Graves Road Ashfield MA,,,6/11/1992,Domestic,New Well,260,10,0,0
+257054,Ashfield,,Smith Road, Smith Road Ashfield MA,,,6/9/1992,Domestic,New Well,355,8,10,10
+257055,Ashfield,,West Road, West Road Ashfield MA,,,11/4/1996,Domestic,New Well,140,3.5,0,0
+257056,Ashfield,,Bear Swamp Road, Bear Swamp Road Ashfield MA,,,5/26/1992,Public Water Supply,New Well,500,13,12,12
+257057,Ashfield,,Bear Swamp Road, Bear Swamp Road Ashfield MA,,,5/19/1992,Domestic,New Well,500,34,,0
+257058,Ashfield,,Main Street, Main Street Ashfield MA,,,3/17/1992,Industrial,Decommission,154,35,,0
+257059,Ashfield,,Main Street, Main Street Ashfield MA,,,3/17/1992,Industrial,Decommission,354,54,,0
+257060,Ashfield,,Main Street, Main Street Ashfield MA,,,3/17/1992,Industrial,Decommission,354,80,,0
+257061,Ashfield,,Main Street, Main Street Ashfield MA,,,3/17/1992,Industrial,Decommission,154,38,,0
+257062,Ashfield,,West Road, West Road Ashfield MA,,,10/31/1996,Domestic,New Well,140,3.5,Overflow,0
+257064,Ashfield,1216,Conway Road,1216 Conway Road Ashfield MA,,,10/10/1991,Domestic,New Well,120,38,Overflow,0
+257065,Ashfield,,Watson Road, Watson Road Ashfield MA,,,12/10/1991,Domestic,New Well,140,5,,0
+257066,Ashfield,,Briar Hill Road, Briar Hill Road Ashfield MA,,,9/25/1991,Domestic,New Well,220,89,15,15
+257067,Ashfield,,Murray Road, Murray Road Ashfield MA,,,7/23/1996,Domestic,New Well,260,20,40,40
+257068,Ashfield,,March Road, March Road Ashfield MA,,,9/25/1991,Domestic,New Well,220,5,20,20
+257069,Ashfield,,Shelburne Road, Shelburne Road Ashfield MA,,,9/11/1991,Domestic,New Well,200,5,20,20
+257070,Ashfield,,Bear Mountain Road, Bear Mountain Road Ashfield MA,,,6/28/1996,GeoConstruction,New Well,240,35,35,35
+257071,Ashfield,2,Beldingville Road,2 Beldingville Road Ashfield MA,,,8/21/1991,Domestic,New Well,160,94,20,20
+257072,Ashfield,,Shelburne Road, Shelburne Road Ashfield MA,,,8/13/1991,Domestic,New Well,240,106,0,0
+257073,Ashfield,46,South Street,46 South Street Ashfield MA,,,6/8/1996,Domestic,New Well,240,27,40,40
+257074,Ashfield,1544,Baptist Corner Road,1544 Baptist Corner Road Ashfield MA,,,6/4/1996,Domestic,New Well,120,22,10,10
+257075,Ashfield,,Apple Valley Road, Apple Valley Road Ashfield MA,,,8/7/1991,Domestic,New Well,160,33,30,30
+257076,Ashfield,,Bear Mountain Drive, Bear Mountain Drive Ashfield MA,,,6/13/1991,Domestic,New Well,214,12,20,20
+257077,Ashfield,,March Road, March Road Ashfield MA,,,4/19/1991,Domestic,New Well,125,8,10,10
+257078,Ashfield,,Route 116, Route 116 Ashfield MA,,,5/24/1996,Public Water Supply,New Well,240,55,14,14
+257079,Ashfield,,Beldingville Road, Beldingville Road Ashfield MA,,,2/3/1991,Domestic,New Well,280,106,30,30
+257080,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,11/2/1990,Domestic,New Well,160,10,45,45
+257081,Ashfield,,Hill Road, Hill Road Ashfield MA,,,3/15/1996,Domestic,New Well,455,90,4,4
+257082,Ashfield,,Baptist Corner Road, Baptist Corner Road Ashfield MA,,,10/19/1990,Domestic,New Well,200,147,20,20
+257083,Ashfield,,Old Stage Road, Old Stage Road Ashfield MA,,,1/23/1996,Domestic,New Well,220,8,8,8
+257084,Ashfield,,Bailey Road, Bailey Road Ashfield MA,,,10/18/1990,Domestic,New Well,400,5,50,50
+257085,Ashfield,,Baptist Corner Road, Baptist Corner Road Ashfield MA,,,10/6/1990,Domestic,New Well,140,71,20,20
+257086,Ashfield,,West Road, West Road Ashfield MA,,,9/26/1990,Domestic,New Well,160,40,8,8
+257087,Ashfield,,Murray Road, Murray Road Ashfield MA,,,12/20/1995,Domestic,New Well,280,50,40,40
+257088,Ashfield,,Main Street, Main Street Ashfield MA,,,7/1/1990,Domestic,New Well,160,110,20,20
+257089,Ashfield,,Main Street, Main Street Ashfield MA,,,5/17/1990,Domestic,New Well,120,70,0,0
+257090,Ashfield,,Baptist Corner Road, Baptist Corner Road Ashfield MA,,,4/30/1990,Domestic,New Well,200,60,20,20
+257091,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,4/3/1990,Domestic,New Well,140,29,5,5
+257092,Ashfield,,Route 112, Route 112 Ashfield MA,,,1/3/1990,Domestic,New Well,285,40,,0
+257093,Ashfield,,Route 112 South, Route 112 South Ashfield MA,,,11/7/1989,Domestic,New Well,300,7,0,0
+257094,Ashfield,,March Road, March Road Ashfield MA,,,11/2/1989,Domestic,New Well,320,3,40,40
+257095,Ashfield,,Beldingville Road, Beldingville Road Ashfield MA,,,10/12/1989,Domestic,New Well,200,150,20,20
+257097,Ashfield,,Murrary Road, Murrary Road Ashfield MA,,,12/5/1995,Domestic,New Well,225,30,30,30
+257098,Ashfield,,Watson Spruce Corner Road, Watson Spruce Corner Road Ashfield MA,,,9/28/1989,Domestic,New Well,140,25,10,10
+257099,Ashfield,,Bug Hill Road, Bug Hill Road Ashfield MA,,,9/28/1989,Domestic,New Well,140,12,12,12
+257100,Ashfield,,Baptist Corner Road, Baptist Corner Road Ashfield MA,,,11/15/1995,Domestic,New Well,260,100,22,22
+257102,Ashfield,,Bailey Road, Bailey Road Ashfield MA,,,10/31/1995,Domestic,New Well,335,8,62,62
+257105,Ashfield,,Spruce Corner Road, Spruce Corner Road Ashfield MA,,,8/24/1989,Domestic,New Well,325,27,50,50
+257106,Ashfield,,Route 112, Route 112 Ashfield MA,,,9/26/1989,Domestic,New Well,220,6,22,22
+257113,Ashfield,52,South Street,52 South Street Ashfield MA,,,9/29/1995,Domestic,New Well,140,41,11,11
+257116,Ashfield,,Spruce Corner Road, Spruce Corner Road Ashfield MA,,,9/7/1995,Public Water Supply,New Well,380,83,Overflow,0
+257119,Ashfield,,Watson Spruce Corner Road, Watson Spruce Corner Road Ashfield MA,,,9/27/1995,Domestic,New Well,140,6,20,20
+257121,Ashfield,,Steady Lane Road, Steady Lane Road Ashfield MA,,,8/28/1995,Domestic,New Well,120,42,0,0
+257136,Ashfield,1679,West Road,1679 West Road Ashfield MA,,,7/19/1995,Domestic,New Well,240,10,50,50
+257137,Ashfield,,Briar Hill Road, Briar Hill Road Ashfield MA,,,6/1/1996,Domestic,New Well,,5,35,35
+257141,Ashfield,,March Road, March Road Ashfield MA,,,5/10/1995,Domestic,New Well,320,5,15,15
+257143,Ashfield,,Elmers Corner Road, Elmers Corner Road Ashfield MA,,,3/29/1995,Domestic,New Well,102,86,Overflow,0
+257144,Ashfield,,Steady Lane Road, Steady Lane Road Ashfield MA,,,11/30/1994,Domestic,New Well,100,33,20,20
+257145,Ashfield,,Bug Hill Road, Bug Hill Road Ashfield MA,,,10/27/1994,Domestic,New Well,120,4,10,10
+257146,Ashfield,,Cape Street, Cape Street Ashfield MA,,,9/30/1999,Domestic,New Well,180,4,2,2
+257148,Ashfield,,Baptist Corner Road, Baptist Corner Road Ashfield MA,,,9/27/1999,Domestic,New Well,300,44,,0
+257149,Ashfield,,Beldenville Road, Beldenville Road Ashfield MA,,,7/26/1994,Domestic,New Well,180,40,8,8
+257153,Ashfield,,Route 116, Route 116 Ashfield MA,,,7/15/1994,Domestic,New Well,415,148,82,82
+257155,Ashfield,,Bellus Road, Bellus Road Ashfield MA,,,6/23/1994,Domestic,New Well,290,7,35,35
+257156,Ashfield,,Bear Mountain Road, Bear Mountain Road Ashfield MA,,,5/2/1994,Domestic,New Well,200,52,20,20
+257168,Ashfield,,Watson Road, Watson Road Ashfield MA,,,4/24/1989,Domestic,New Well,100,2.5,10,10
+257171,Ashfield,,Baptist Corner Road, Baptist Corner Road Ashfield MA,,,4/14/1989,Domestic,New Well,180,5,,0
+257172,Ashfield,,West Road, West Road Ashfield MA,,,12/29/1988,Domestic,New Well,280,6,20,20
+257173,Ashfield,,Hill Road, Hill Road Ashfield MA,,,12/28/1988,Domestic,New Well,190,138,20,20
+257174,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,12/23/1988,Domestic,New Well,200,4,20,20
+257176,Ashfield,,Watson Spruce Corner, Watson Spruce Corner Ashfield MA,,,5/20/1988,Domestic,New Well,120,13,,0
+257184,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,5/9/1988,Domestic,New Well,260,21,,0
+257244,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,5/9/1988,Domestic,New Well,100,22,,0
+257245,Ashfield,482,Watson Spruce Corner Road,482 Watson Spruce Corner Road Ashfield MA,,,8/15/1989,Domestic,New Well,125,7,20,20
+257246,Ashfield,,Watson Road, Watson Road Ashfield MA,,,7/19/1989,Domestic,New Well,105,7,15,15
+257247,Ashfield,,Emmett Road, Emmett Road Ashfield MA,,,7/13/1989,Domestic,New Well,160,5,20,20
+257248,Ashfield,,Bug Hill Road, Bug Hill Road Ashfield MA,,,7/7/1989,Domestic,New Well,140,50,20,20
+257249,Ashfield,,March Road, March Road Ashfield MA,,,6/27/1989,Domestic,New Well,,,45,45
+257250,Ashfield,,Watson Road, Watson Road Ashfield MA,,,6/15/1989,Domestic,New Well,220,1.5,20,20
+257251,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,5/25/1989,Domestic,New Well,160,4,20,20
+257252,Ashfield,,Buckland Road, Buckland Road Ashfield MA,,,3/22/1988,Domestic,New Well,240,51,,0
+257253,Ashfield,,Watson Road, Watson Road Ashfield MA,,,5/22/1989,Domestic,New Well,120,3,20,20
+257254,Ashfield,,Beldingville Road, Beldingville Road Ashfield MA,,,3/7/1988,Domestic,New Well,240,6,,0
+257255,Ashfield,,Creamery Road, Creamery Road Ashfield MA,,,5/6/1989,Domestic,New Well,180,66,0,0
+257256,Ashfield,1120,Conway Road,1120 Conway Road Ashfield MA,,,5/1/1989,Domestic,New Well,140,81,0,0
+257257,Ashfield,,Route 116, Route 116 Ashfield MA,,,5/1/1989,Domestic,New Well,220,15,14,14
+257258,Ashfield,,Watson Road, Watson Road Ashfield MA,,,2/24/1988,Domestic,New Well,180,3,,0
+257259,Ashfield,,Plainfield Road, Plainfield Road Ashfield MA,,,5/1/1989,Domestic,New Well,240,14,14,14
+257261,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,2/23/1988,Domestic,New Well,140,18,,0
+257262,Ashfield,,Route 112, Route 112 Ashfield MA,,,3/23/1986,Domestic,New Well,155,12,10,10
+257263,Ashfield,,Sears Road, Sears Road Ashfield MA,,,1/3/1986,Domestic,New Well,200,100,15,15
+257264,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,2/2/1988,Domestic,New Well,265,24,1,1
+257265,Ashfield,,Watson Spruce Corner Road, Watson Spruce Corner Road Ashfield MA,,,12/8/1985,Domestic,New Well,260,8,25,25
+257266,Ashfield,,Tatro Road, Tatro Road Ashfield MA,,,12/6/1985,Domestic,New Well,70,,15,15
+257267,Ashfield,,Spruce Corner Road, Spruce Corner Road Ashfield MA,,,10/14/1988,Domestic,New Well,180,15,,0
+257268,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,11/6/1985,Domestic,New Well,180,19,,0
+257269,Ashfield,,Watson Road, Watson Road Ashfield MA,,,10/24/1985,Domestic,New Well,100,2,30,30
+257270,Ashfield,,March Road, March Road Ashfield MA,,,10/3/1988,Domestic,New Well,140,3,30,30
+257271,Ashfield,,Conway Road, Conway Road Ashfield MA,,,10/23/1985,Domestic,New Well,180,140,7,7
+257272,Ashfield,1425,West Road,1425 West Road Ashfield MA,,,10/10/1985,Domestic,New Well,300,,40,40
+257273,Ashfield,,Bear Swamp Road, Bear Swamp Road Ashfield MA,,,9/20/1985,Domestic,New Well,520,10,20,20
+257274,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,9/13/1985,Domestic,New Well,325,20,,0
+257275,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,8/15/1985,Domestic,New Well,300,4,45,45
+257276,Ashfield,,Brier Road, Brier Road Ashfield MA,,,8/10/1985,Domestic,New Well,73,,10,10
+257277,Ashfield,,Spruce Corner Road, Spruce Corner Road Ashfield MA,,,9/11/1988,Domestic,New Well,400,5,25,25
+257278,Ashfield,,Apple Valley Road, Apple Valley Road Ashfield MA,,,8/18/1988,Domestic,New Well,120,50,,0
+257279,Ashfield,,Phillips Road, Phillips Road Ashfield MA,,,8/6/1985,Domestic,New Well,200,4,,0
+257280,Ashfield,,March Road, March Road Ashfield MA,,,8/17/1988,Domestic,New Well,180,6,12,12
+257281,Ashfield,,West Road, West Road Ashfield MA,,,8/11/1988,Domestic,New Well,235,,Overflowing,0
+257282,Ashfield,,Strahaker Road, Strahaker Road Ashfield MA,,,8/8/1988,Domestic,New Well,160,30,,0
+257283,Ashfield,,Brown Road, Brown Road Ashfield MA,,,8/3/1988,Domestic,New Well,200,5,,0
+257285,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,7/24/1985,Domestic,New Well,204,14,40,40
+257286,Ashfield,,Route 112, Route 112 Ashfield MA,,,6/29/1988,Domestic,New Well,140,17,,0
+257287,Ashfield,,Ranney Corner Road, Ranney Corner Road Ashfield MA,,,7/3/1985,Domestic,New Well,180,126,40,40
+257288,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,6/10/1988,Domestic,New Well,100,13,,0
+257289,Ashfield,,Route 116, Route 116 Ashfield MA,,,7/2/1985,Domestic,New Well,140,6,15,15
+257290,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,6/10/1988,Domestic,New Well,80,8,,0
+257291,Ashfield,,West Road, West Road Ashfield MA,,,12/1/1987,Domestic,New Well,100,31,,0
+257292,Ashfield,,,  Ashfield MA,,,4/8/1985,Domestic,New Well,140,100,2,2
+257293,Ashfield,,,  Ashfield MA,,,3/27/1985,Domestic,New Well,140,2,23,23
+257294,Ashfield,,West Road, West Road Ashfield MA,,,12/1/1987,Domestic,New Well,80,,,0
+257295,Ashfield,,Creamery Road, Creamery Road Ashfield MA,,,12/18/1984,Domestic,New Well,280,57,15,15
+257296,Ashfield,,Spruce Corner Road, Spruce Corner Road Ashfield MA,,,12/3/1987,Domestic,New Well,305,62,40,40
+257297,Ashfield,,Watson Road, Watson Road Ashfield MA,,,11/11/1987,Domestic,New Well,80,9,20,20
+257298,Ashfield,,March Road, March Road Ashfield MA,,,11/7/1984,Domestic,New Well,220,10,,0
+257299,Ashfield,,West Street, West Street Ashfield MA,,,9/26/1984,Domestic,New Well,200,78,25,25
+257300,Ashfield,,West Road, West Road Ashfield MA,,,8/31/1984,Domestic,New Well,150,15,45,45
+257301,Ashfield,,Bullitt Road, Bullitt Road Ashfield MA,,,8/10/1984,Domestic,New Well,80,,18,18
+257302,Ashfield,,Route 112, Route 112 Ashfield MA,,,7/7/1984,Domestic,New Well,295,16,10,10
+257304,Ashfield,,Route 112, Route 112 Ashfield MA,,,7/10/1984,Domestic,New Well,88,,4,4
+257305,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,10/26/1987,Domestic,New Well,180,4,25,25
+257307,Ashfield,,Route 112, Route 112 Ashfield MA,,,7/7/1984,Domestic,New Well,225,24,15,15
+257308,Ashfield,,West Road, West Road Ashfield MA,,,10/22/1987,Domestic,New Well,160,72,,0
+257309,Ashfield,,,  Ashfield MA,,,4/6/1984,Domestic,New Well,180,37,50,50
+257310,Ashfield,2,Beldingville Road,2 Beldingville Road Ashfield MA,,,7/12/1987,Domestic,New Well,280,90,,0
+257312,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,7/4/1987,Domestic,New Well,180,14,,0
+257313,Ashfield,,Watson Spruce Corner Road, Watson Spruce Corner Road Ashfield MA,,,6/12/1987,Domestic,New Well,180,33,10,10
+257314,Ashfield,,Route 12, Route 12 Ashfield MA,,,6/15/1987,Domestic,New Well,240,7,,0
+257318,Ashfield,,Clesson Brook Road, Clesson Brook Road Ashfield MA,,,5/26/1987,Domestic,New Well,120,50,6,6
+257320,Ashfield,,Route 112, Route 112 Ashfield MA,,,4/30/1987,Domestic,New Well,160,140,10,10
+257322,Ashfield,,Lilliput Road, Lilliput Road Ashfield MA,,,4/24/1987,Domestic,New Well,240,20,10,10
+257323,Ashfield,,West Road, West Road Ashfield MA,,,4/23/1987,Domestic,New Well,140,7,9,9
+257324,Ashfield,,Stroheker Road, Stroheker Road Ashfield MA,,,2/1/1984,Domestic,New Well,150,26,,0
+257325,Ashfield,,,  Ashfield MA,,,10/1/1983,Domestic,New Well,170,12,42,42
+257326,Ashfield,20,Norton Hill,20 Norton Hill Ashfield MA,,,4/17/1987,Domestic,New Well,150,58,,0
+257327,Ashfield,,West Street, West Street Ashfield MA,,,8/1/1983,Domestic,New Well,190,125,20,20
+257328,Ashfield,,Bug Hill Road, Bug Hill Road Ashfield MA,,,8/1/1983,Domestic,New Well,235,4,15,15
+257329,Ashfield,,Cape Street, Cape Street Ashfield MA,,,8/1/1983,Domestic,New Well,160,22,15,15
+257330,Ashfield,,,  Ashfield MA,,,9/16/1982,Domestic,New Well,130,11,15,15
+257331,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,9/18/1981,Domestic,New Well,100,4,15,15
+257332,Ashfield,,Plainfield Road, Plainfield Road Ashfield MA,,,9/15/1981,Domestic,New Well,150,18,20,20
+257333,Ashfield,,E. Buckland Road, E. Buckland Road Ashfield MA,,,9/15/1981,Domestic,New Well,175,3.5,40,40
+257334,Ashfield,,Norton Hill Road, Norton Hill Road Ashfield MA,,,4/16/1987,Domestic,New Well,80,47,,0
+257335,Ashfield,,Bullitt Road, Bullitt Road Ashfield MA,,,3/2/1987,Domestic,New Well,120,90,10,10
+257336,Ashfield,,West Road, West Road Ashfield MA,,,6/29/1981,Domestic,New Well,190,,53,53
+257337,Ashfield,,Hill Road, Hill Road Ashfield MA,,,3/1/1981,Domestic,New Well,89,,,0
+257338,Ashfield,,Spruce Corner Road, Spruce Corner Road Ashfield MA,,,1/26/1981,Domestic,New Well,179,,2,2
+257339,Ashfield,,Watson Road, Watson Road Ashfield MA,,,12/12/1986,Domestic,New Well,140,16,8,8
+257340,Ashfield,,Lithia Road, Lithia Road Ashfield MA,,,10/29/1980,Domestic,New Well,300,17,20,20
+257341,Ashfield,,Buckland Road, Buckland Road Ashfield MA,,,10/6/1980,Domestic,New Well,330,7,20,20
+257342,Ashfield,,Briar Hill Road, Briar Hill Road Ashfield MA,,,9/15/1980,Domestic,New Well,184,,73,73
+257343,Ashfield,,Watson Spruce Corner Road, Watson Spruce Corner Road Ashfield MA,,,10/31/1986,Domestic,New Well,260,21,32,32
+257344,Ashfield,,Bug Hill Road, Bug Hill Road Ashfield MA,,,9/5/1980,Domestic,New Well,310,39,30,30
+257345,Ashfield,,Route 112 Cade Street, Route 112 Cade Street Ashfield MA,,,10/20/1986,Domestic,New Well,300,9,,0
+257346,Ashfield,,West Road, West Road Ashfield MA,,,5/21/1980,Domestic,New Well,140,,35,35
+257347,Ashfield,,Briar Hill Road, Briar Hill Road Ashfield MA,,,2/29/1980,Domestic,New Well,120,,18,18
+257348,Ashfield,,Bray Road, Bray Road Ashfield MA,,,9/1/1979,Domestic,New Well,180,4,,0
+257350,Ashfield,,Stonewall Drive, Stonewall Drive Ashfield MA,,,10/18/1986,Domestic,New Well,140,1,21,21
+257351,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,9/5/1986,Domestic,New Well,400,24,25,25
+257353,Ashfield,,Pine Hill Road, Pine Hill Road Ashfield MA,,,7/1/1979,Domestic,New Well,230,94,,0
+257354,Ashfield,,,  Ashfield MA,,,11/25/1978,Domestic,New Well,105,70,0,0
+257355,Ashfield,,,  Ashfield MA,,,9/1/1978,Domestic,New Well,,,,0
+257357,Ashfield,,Watson Spruce Corner Road, Watson Spruce Corner Road Ashfield MA,,,8/20/1986,Domestic,New Well,320,20,5,5
+257358,Ashfield,,,  Ashfield MA,,,12/1/1976,Domestic,New Well,365,152,,0
+257359,Ashfield,,Watson Road, Watson Road Ashfield MA,,,11/1/1975,Domestic,New Well,80,12,13,13
+257360,Ashfield,,Spruce Corner Road, Spruce Corner Road Ashfield MA,,,8/11/1986,Domestic,New Well,140,40,26,26
+257361,Ashfield,,Bellus Road, Bellus Road Ashfield MA,,,7/11/1975,Domestic,New Well,300,16,20,20
+257362,Ashfield,,Spruce Corner Road, Spruce Corner Road Ashfield MA,,,8/11/1986,Domestic,New Well,140,40,26,26
+257363,Ashfield,,,  Ashfield MA,,,10/1/1983,Domestic,New Well,225,199,,0
+257364,Ashfield,250,West Road,250 West Road Ashfield MA,,,7/31/1986,Domestic,New Well,240,15,,0
+257365,Ashfield,,West Road, West Road Ashfield MA,,,2/5/1975,Domestic,New Well,175,43,0,0
+257366,Ashfield,,West Road, West Road Ashfield MA,,,11/1/1974,Domestic,New Well,250,10,25,25
+257367,Ashfield,,,  Ashfield MA,,,10/1/1974,Domestic,New Well,140,100,,0
+257368,Ashfield,,Briar Hill Road, Briar Hill Road Ashfield MA,,,5/9/1974,Domestic,New Well,145,2.5,20,20
+257369,Ashfield,,Norton Hill Road, Norton Hill Road Ashfield MA,,,12/7/1973,Domestic,New Well,115,50,30,30
+257370,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,7/17/1986,Domestic,New Well,180,32,65,65
+257371,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,7/16/1986,Domestic,New Well,280,8,35,35
+257372,Ashfield,,Bug Hill Road, Bug Hill Road Ashfield MA,,,12/6/1973,Domestic,New Well,200,12,20,20
+257373,Ashfield,,Briar Hill Road, Briar Hill Road Ashfield MA,,,7/9/1986,Domestic,New Well,160,30,20,20
+257374,Ashfield,,,  Ashfield MA,,,7/10/1973,Domestic,New Well,300,30,15,15
+257375,Ashfield,,,  Ashfield MA,,,7/1/1973,Domestic,New Well,175,20,10,10
+257376,Ashfield,,Ashfield Road, Ashfield Road Ashfield MA,,,7/8/1986,Domestic,New Well,200,10,24,24
+257377,Ashfield,,,  Ashfield MA,,,11/1/1972,Domestic,New Well,150,4,40,40
+257378,Ashfield,,Hill Road, Hill Road Ashfield MA,,,,Domestic,New Well,200,140,30,30
+257379,Ashfield,,Stonewall Road, Stonewall Road Ashfield MA,,,5/1/1986,Domestic,New Well,180,33,15,15
+257386,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,4/30/1986,Domestic,New Well,220,5,36,36
+258665,Ashfield,,,  Ashfield MA,,,8/26/1986,Domestic,New Well,200,,20,20
+258667,Ashfield,,,  Ashfield MA,,,9/27/1988,Domestic,New Well,240,7,40,40
+258668,Ashfield,,,  Ashfield MA,,,5/17/1988,Domestic,New Well,205,3,30,30
+258669,Ashfield,,,  Ashfield MA,,,5/3/1988,Domestic,New Well,120,9,20,20
+258670,Ashfield,,,  Ashfield MA,,,4/28/1988,Domestic,New Well,500,28,100,100
+258671,Ashfield,,Marry Lyons Road, Marry Lyons Road Ashfield MA,,,4/15/1988,Domestic,New Well,280,10,,0
+258672,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,5/10/1988,Domestic,New Well,150,,20,20
+258673,Ashfield,,Ludwig Road, Ludwig Road Ashfield MA,,,8/13/1991,Domestic,New Well,102,12,15,15
+258674,Ashfield,,,  Ashfield MA,,,2/1/1982,Domestic,Deepen,150,90,,0
+258834,Ashfield,,Route 116, Route 116 Ashfield MA,,,10/19/1963,Domestic,New Well,55,17,,0
+258837,Ashfield,,Cape Street, Cape Street Ashfield MA,,,12/27/1965,Domestic,New Well,95,42,,0
+258840,Ashfield,,Burton Hill Road, Burton Hill Road Ashfield MA,,,9/2/1970,Domestic,New Well,110,,,0
+258843,Ashfield,,Williamsburg Road, Williamsburg Road Ashfield MA,,,11/19/1996,Domestic,New Well,85,14,,0
+258844,Ashfield,,Suburban Drive, Suburban Drive Ashfield MA,,,10/1/1967,Domestic,New Well,200,5,,0
+258850,Ashfield,,Baptist Corner Road, Baptist Corner Road Ashfield MA,,,11/1/1967,Domestic,New Well,100,15,,0
+258852,Ashfield,,Cape Street, Cape Street Ashfield MA,,,7/1/1963,Domestic,New Well,55,4,,0
+258854,Ashfield,,Cummington Road, Cummington Road Ashfield MA,,,8/1/1966,Domestic,New Well,150,9,,0
+258855,Ashfield,,Cape Street, Cape Street Ashfield MA,,,12/1/1981,Domestic,New Well,80,12,,0
+258856,Ashfield,,Buckland Road, Buckland Road Ashfield MA,,,7/1/1966,Domestic,New Well,100,0.5,,0
+258857,Ashfield,,Gorton Hill Road, Gorton Hill Road Ashfield MA,,,8/11/1964,Unknown,New Well,300,7,,0
+258858,Ashfield,,Buckland Road, Buckland Road Ashfield MA,,,8/19/1963,Domestic,New Well,112,1,,0
+258859,Ashfield,,Williasburg Road, Williasburg Road Ashfield MA,,,11/18/1963,Domestic,New Well,85,14,,0
+258860,Ashfield,12,Buckland Ctr,12 Buckland Ctr Ashfield MA,,,10/15/1969,Domestic,New Well,100,10,,0
+258861,Ashfield,,Steady Lane, Steady Lane Ashfield MA,,,4/30/1971,Domestic,New Well,250,30,,0
+258862,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,6/19/1970,Domestic,New Well,100,4,,0
+258863,Ashfield,,Ashfield Shelburne Road, Ashfield Shelburne Road Ashfield MA,,,10/14/1969,Domestic,New Well,250,73,,0
+258866,Ashfield,,Morton Road, Morton Road Ashfield MA,,,7/30/1971,Domestic,New Well,375,8,,0
+258867,Ashfield,,Spruce Corner Road, Spruce Corner Road Ashfield MA,,,7/1/1973,Domestic,New Well,150,12,,0
+258868,Ashfield,,Phillips Road, Phillips Road Ashfield MA,,,10/1/1971,Domestic,New Well,320,2,,0
+262709,Ashfield,,,  Ashfield MA,,,12/1/1966,Domestic,New Well,90,27,9,9
+262711,Ashfield,,,  Ashfield MA,,,3/1/1966,Domestic,New Well,65,12,9,9
+276452,Ashfield,332,Bullitt Road,332 Bullitt Road Ashfield MA,42.501633,-72.759,4/30/2010,Domestic,Replacement,145,32,20,20
+277697,Ashfield,1664,Cape Street,1664 Cape Street Ashfield MA,,,,Domestic,New Well,140,17,,0
+277703,Ashfield,686,Creamery Road,686 Creamery Road Ashfield MA,,,,Domestic,New Well,100,18,10,10
+277709,Ashfield,1379,Spruce Corner Road,1379 Spruce Corner Road Ashfield MA,,,,Domestic,New Well,100,11,10,10
+280541,Ashfield,,Ludwig Road, Ludwig Road Ashfield MA,,,8/13/1991,Domestic,New Well,102,12,15,15
+280647,Ashfield,,Hawley Road, Hawley Road Ashfield MA,,,6/15/1996,Irrigation,New Well,400,8,3,3
+312777,Ashfield,103,Hill Road,103 Hill Road Ashfield MA,0,0,8/15/2011,Domestic,New Well,182,95,35,35
+314822,Ashfield,300,Ashfield Mountain Road,300 Ashfield Mountain Road Ashfield MA,0,0,11/7/2011,Domestic,New Well,500,3,30,30
+600196,Ashfield,144,STEADY LANE,144 STEADY LANE Ashfield MA,,,9/21/2010,,,585,220,27,27
+600569,Ashfield,795,ASHFIELD MOUNTAIN ROAD,795 ASHFIELD MOUNTAIN ROAD Ashfield MA,,,10/30/2010,,,600,20,15.9,15.9
+600654,Ashfield,1281,SPRUCE CORNER ROAD,1281 SPRUCE CORNER ROAD Ashfield MA,,,2/16/2011,,,145,27,10,10
+600914,Ashfield,795,ASHFIELD MNT RD,795 ASHFIELD MNT RD Ashfield MA,,,4/18/2011,,,134,38,20,20
+608635,Ashfield,90,BUG HILL ROAD,90 BUG HILL ROAD Ashfield MA,42.5176,-72.8085,7/18/2012,,New Well,325,2,80,80
+612063,Ashfield,12,Lilliput Road,12 Lilliput Road Ashfield MA,42.52598,-72.80807,8/15/2012,,New Well,320,16,13,13
+612370,Ashfield,795,Ashfield Mountain Road,795 Ashfield Mountain Road Ashfield MA,42.55058,-72.8025,8/29/2012,,Decommission,,,32.1,32.1
+614134,Ashfield,1692,CAPE STREET,1692 CAPE STREET Ashfield MA,42.29206,-72.4854,10/17/2012,,New Well,240,8,13,13
+617345,Ashfield,1704,CAPE STREET,1704 CAPE STREET Ashfield MA,42.2906,-72.48685,11/9/2012,,New Well,440,47,45,45
+617716,Ashfield,00,BUG HILL ROAD,00 BUG HILL ROAD Ashfield MA,42.31623,-72.50512,11/29/2012,,New Well,140,26,15,15
+623622,Ashfield,376,MARCH ROAD,376 MARCH ROAD Ashfield MA,42.55892,-72.76162,4/25/2013,,New Well,485,7,240,240
+623622,Ashfield,376,MARCH ROAD,376 MARCH ROAD Ashfield MA,42.55892,-72.76162,4/25/2013,,New Well,485,7,60,60
+180,Conway,,From Rte 116  Take Elm Street 0.7 On Right, From Rte 116  Take Elm Street 0.7 On Right Conway MA,,,1/12/2001,Domestic,New Well,365,35,6,6
+549,Conway,,South Shirkshire Road, South Shirkshire Road Conway MA,,,2/15/2001,Domestic,New Well,220,8,60,60
+3850,Conway,,From Conway Road Take Ashfield Road 0.1 On Right, From Conway Road Take Ashfield Road 0.1 On Right Conway MA,,,10/23/2000,Domestic,New Well,265,15,35,35
+3851,Conway,,Hart Road, Hart Road Conway MA,,,12/19/2000,Domestic,New Well,120,46,9,9
+3852,Conway,,From Graves Road Take Boyden Road 0.1 Left, From Graves Road Take Boyden Road 0.1 Left Conway MA,,,10/28/1999,Domestic,New Well,265,6,37,37
+3853,Conway,,From Fte 116 Take Whately Road 2.4 On Right, From Fte 116 Take Whately Road 2.4 On Right Conway MA,,,5/23/2000,Domestic,New Well,445,3,6,6
+3854,Conway,,From Jct Of Pleasant Street, From Jct Of Pleasant Street Conway MA,,,9/7/2000,Domestic,New Well,385,125,30,30
+3855,Conway,,Bardwells Ferry Road, Bardwells Ferry Road Conway MA,,,10/18/2000,Domestic,New Well,200,28,14,14
+3856,Conway,,Roaring Brook Road, Roaring Brook Road Conway MA,,,10/12/2000,Domestic,New Well,440,3,40,40
+3857,Conway,,Coning W On Shlbrn Falls Road, Coning W On Shlbrn Falls Road Conway MA,,,8/17/2000,Domestic,New Well,325,8,9,9
+3858,Conway,,Going W On S Shirkshire 0.3 Of Jones Crn On Right, Going W On S Shirkshire 0.3 Of Jones Crn On Right Conway MA,,,8/16/2000,Domestic,New Well,129,72,15,15
+3859,Conway,,Going W. On Hoosac Road 0.8 W. Of, Going W. On Hoosac Road 0.8 W. Of Conway MA,,,8/14/2000,Domestic,New Well,325,83,50,50
+3860,Conway,,Fields Hill Road, Fields Hill Road Conway MA,,,8/10/2000,Domestic,New Well,200,3,14,14
+3861,Conway,,Fields Hill Road, Fields Hill Road Conway MA,,,8/10/2000,Domestic,New Well,300,6,12,12
+3862,Conway,,Going West On S. Shirkshire Drive, Going West On S. Shirkshire Drive Conway MA,,,7/24/2000,Domestic,New Well,185,9,3,3
+3863,Conway,,Bond Street, Bond Street Conway MA,,,5/30/2000,Domestic,New Well,600,418,60,60
+3864,Conway,,Williamsburg Road, Williamsburg Road Conway MA,,,4/13/2000,Domestic,New Well,302,16,15,15
+3865,Conway,,From Rte 116 Take Pleasant Street 0.3 On Left, From Rte 116 Take Pleasant Street 0.3 On Left Conway MA,,,3/1/2000,Domestic,Deepen,535,305,110,110
+3866,Conway,22,Academy Hill Road,22 Academy Hill Road Conway MA,,,12/23/1999,Domestic,New Well,280,85,10,10
+3867,Conway,,North Hill, North Hill Conway MA,,,9/28/1999,Domestic,New Well,44,,over flows,0
+3868,Conway,,From Rte 116 Take Whately Road 0.8 On Left, From Rte 116 Take Whately Road 0.8 On Left Conway MA,,,8/11/1999,Domestic,New Well,305,36,10,10
+3869,Conway,,Traveling W. On Whately Road, Traveling W. On Whately Road Conway MA,,,8/10/1999,Domestic,New Well,385,22,20,20
+3870,Conway,,Going East On Shelburne Ctr Road Bardswell Ferry, Going East On Shelburne Ctr Road Bardswell Ferry Conway MA,,,5/19/1999,Domestic,New Well,385,108,37,37
+3871,Conway,,Hoosac Road, Hoosac Road Conway MA,,,5/17/1999,Domestic,New Well,605,45,70,70
+3872,Conway,,Williamsburg Road, Williamsburg Road Conway MA,,,4/14/2000,Domestic,New Well,302,20,20,20
+6300,Conway,,Main Poland Road, Main Poland Road Conway MA,,,8/9/2000,Domestic,,220,10,10,10
+22777,Conway,,Graves Road, Graves Road Conway MA,,,3/15/2000,Domestic,New Well,400,3,21,21
+22778,Conway,,North Poland Road, North Poland Road Conway MA,,,9/2/1999,Domestic,New Well,400,6,15,15
+22779,Conway,,School House Road, School House Road Conway MA,,,7/29/1999,Public Water Supply,New Well,466,137,22,22
+100082,Conway,,Boyden Road, Boyden Road Conway MA,,,5/30/2001,Domestic,New Well,305,8,18,18
+100325,Conway,Lot 1,South Shirkshire Road,Lot 1 South Shirkshire Road Conway MA,,,1/21/2002,Domestic,New Well,242,3,20,20
+100765,Conway,800,Graves Road,800 Graves Road Conway MA,,,8/8/2001,Domestic,Deepen,500,300,30,30
+100783,Conway,596116,Rt. 116,596116 Rt. 116 Conway MA,,,10/22/2001,Domestic,New Well,500,0,25,25
+103920,Conway,399,Bardwell Ferry Road,399 Bardwell Ferry Road Conway MA,,,9/11/2001,Domestic,Replacement,265,146,overflow,0
+106130,Conway,49,Wholey Road,49 Wholey Road Conway MA,,,8/22/2001,Domestic,New Well,280,53,38,38
+106136,Conway,434,Mathews Road,434 Mathews Road Conway MA,,,8/29/2001,Domestic,New Well,220,6,40,40
+106415,Conway,Lot 2,Jones Corner,Lot 2 Jones Corner Conway MA,,,11/12/2001,Domestic,New Well,305,0,30,30
+107466,Conway,808,Shelburne Falls Road,808 Shelburne Falls Road Conway MA,,,4/11/2002,Domestic,Replacement,165,9,1,1
+109390,Conway,332,Williamsburg Road,332 Williamsburg Road Conway MA,,,2/22/2002,Domestic,New Well,240,25,18,18
+109470,Conway,112,Maple Street,112 Maple Street Conway MA,,,4/10/2002,Domestic,New Well,220,58,10,10
+111136,Conway,381,South Deerfield,381 South Deerfield Conway MA,,,8/1/2002,Domestic,New Well,380,5,20,20
+111418,Conway,39,Hickory Ridge Road,39 Hickory Ridge Road Conway MA,,,6/26/2002,Domestic,Replacement,345,8,4,4
+111423,Conway,,Maggie Bean Drive, Maggie Bean Drive Conway MA,,,7/10/2002,Domestic,New Well,325,9,18,18
+111446,Conway,,Shelburne Falls Road, Shelburne Falls Road Conway MA,,,9/24/2002,Domestic,New Well,325,2,39,39
+111467,Conway,,Boyden Road, Boyden Road Conway MA,,,11/22/2002,Domestic,New Well,485,3,full,#VALUE!
+111478,Conway,,Parson Hill Road, Parson Hill Road Conway MA,,,1/7/2003,Domestic,New Well,205,11,10,10
+114291,Conway,186,North Poland Road,186 North Poland Road Conway MA,,,7/2/2002,Domestic,New Well,280,85,272,272
+114328,Conway,88,Roaring Brook Road,88 Roaring Brook Road Conway MA,,,6/27/2002,Domestic,New Well,560,3,2,2
+115556,Conway,,Williamsburg Road, Williamsburg Road Conway MA,,,10/12/2002,Domestic,New Well,10112002,26,30,30
+115575,Conway,,Williamsburg Road, Williamsburg Road Conway MA,,,10/10/2002,Domestic,New Well,362,15,30,30
+118202,Conway,80,Baptist Hill Road,80 Baptist Hill Road Conway MA,,,10/1/2002,Domestic,New Well,120,13,5,5
+118411,Conway,86,River Street,86 River Street Conway MA,,,12/10/2002,Domestic,New Well,440,160,400,400
+120630,Conway,86,River Street,86 River Street Conway MA,,,1/16/2003,Domestic,Decommission,88,0,,0
+122476,Conway,Lot 1,Boyden Road,Lot 1 Boyden Road Conway MA,,,8/14/2003,Domestic,New Well,445,4,20,20
+122477,Conway,Lot 4,Boyden Road,Lot 4 Boyden Road Conway MA,,,9/15/2003,Domestic,New Well,265,1,20,20
+122485,Conway,Parcel 45,Wilder Hill Road,Parcel 45 Wilder Hill Road Conway MA,,,9/2/2003,Domestic,New Well,245,28,32,32
+122487,Conway,,Main Poland Road, Main Poland Road Conway MA,,,9/10/2003,Domestic,New Well,205,43,18,18
+122510,Conway,101,Whately Road,101 Whately Road Conway MA,,,12/8/2003,Domestic,Replacement,405,70,30,30
+122511,Conway,24,Main Street,24 Main Street Conway MA,,,12/9/2003,Domestic,Replacement,145,45,6,6
+122541,Conway,Lot 10,Graves Road,Lot 10 Graves Road Conway MA,,,4/30/2004,Domestic,New Well,225,108,25,25
+124208,Conway,212,Thompson Road,212 Thompson Road Conway MA,,,6/13/2003,Domestic,New Well,300,4.5,11,11
+124220,Conway,221,Roaring Brook Road,221 Roaring Brook Road Conway MA,,,7/10/2003,Irrigation,New Well,600,125,130,130
+124221,Conway,221,Roaring Brook Road,221 Roaring Brook Road Conway MA,,,7/11/2003,Domestic,New Well,180,73,30,30
+126107,Conway,,E. Guineau Road, E. Guineau Road Conway MA,,,8/18/2003,Domestic,New Well,220,28,30,30
+126714,Conway,38,Baptist Hill Road,38 Baptist Hill Road Conway MA,,,10/21/2003,Domestic,New Well,422,25,41,41
+126739,Conway,,Shelburne Falls Road, Shelburne Falls Road Conway MA,,,11/19/2003,Domestic,New Well,342,21,1,1
+127178,Conway,,Roaring Brook Road, Roaring Brook Road Conway MA,,,1/7/2004,Domestic,New Well,220,0,20,20
+127202,Conway,86,Adams Road,86 Adams Road Conway MA,,,12/31/2003,Domestic,New Well,600,103,50,50
+127223,Conway,186,Williamsburg Road,186 Williamsburg Road Conway MA,,,9/3/2004,Domestic,New Well,500,4,40,40
+127483,Conway,Lot 26,Whately Road,Lot 26 Whately Road Conway MA,,,4/20/2005,Domestic,New Well,100,10,15,15
+130087,Conway,,South Shirkshire Road, South Shirkshire Road Conway MA,,,4/23/2004,Domestic,New Well,245,5,5,5
+131264,Conway,Lot 21 & 22,Wilder Hill Road,Lot 21 & 22 Wilder Hill Road Conway MA,,,8/18/2004,Domestic,New Well,305,39,25,25
+131283,Conway,31,Hamilton Drive,31 Hamilton Drive Conway MA,,,11/2/2004,Domestic,New Well,585,18,6,6
+131285,Conway,1811,Main Poland Road,1811 Main Poland Road Conway MA,,,11/10/2004,Domestic,New Well,585,73,12,12
+131316,Conway,Lot 91-20,Bardwells Ferry Road,Lot 91-20 Bardwells Ferry Road Conway MA,,,6/28/2005,Domestic,New Well,725,145,80,80
+131344,Conway,264,S Shirkshire Road,264 S Shirkshire Road Conway MA,,,8/24/2004,Domestic,Replacement,545,4,20,20
+131346,Conway,97,Hickory Ridge,97 Hickory Ridge Conway MA,,,8/19/2004,Domestic,Replacement,345,76,35,35
+134882,Conway,Lot 26.2,Jones Corner Road,Lot 26.2 Jones Corner Road Conway MA,,,1/25/2005,Domestic,New Well,300,25,30,30
+134891,Conway,238,Bordwells Ferry Road,238 Bordwells Ferry Road Conway MA,,,11/10/2004,Domestic,New Well,260,27,20,20
+134900,Conway,254,Bardswell Ferry Road,254 Bardswell Ferry Road Conway MA,,,10/6/2004,Domestic,New Well,180,89,5,5
+138006,Conway,356,Ashfield Road,356 Ashfield Road Conway MA,,,8/1/2005,Domestic,New Well,240,75,overflowing,0
+140476,Conway,622,Bardwells Ferry Road,622 Bardwells Ferry Road Conway MA,,,6/10/2005,Domestic,Hydrofracture,0,0,220,220
+140488,Conway,5,Shirkshire Road,5 Shirkshire Road Conway MA,,,7/22/2005,Domestic,New Well,200,19,28,28
+140509,Conway,731,Shelburne Falls Road,731 Shelburne Falls Road Conway MA,,,9/30/2005,Domestic,New Well,400,20,40,40
+140532,Conway,Site #2,Eldridge Road,Site #2 Eldridge Road Conway MA,,,12/2/2005,Domestic,New Well,200,28,Overflow,0
+140549,Conway,755,Shelburne Falls Road,755 Shelburne Falls Road Conway MA,,,2/14/2006,Domestic,New Well,240,16,30,30
+141215,Conway,Assessors map # 301,Shelburne Road,Assessors map # 301 Shelburne Road Conway MA,,,12/5/2005,Domestic,New Well,245,85,20,20
+141250,Conway,86,Main Street,86 Main Street Conway MA,,,6/8/2006,Domestic,Replacement,625,3,overflowing,0
+142059,Conway,33,Main Street,33 Main Street Conway MA,,,1/4/2006,Monitoring,New Well,15,0,"9'.5""",#VALUE!
+143143,Conway,197,Shelburne Falls Road,197 Shelburne Falls Road Conway MA,,,5/1/2006,Domestic,New Well,440,45,over top,0
+145472,Conway,Lot 22,Main Poland Road,Lot 22 Main Poland Road Conway MA,,,9/27/2006,Domestic,New Well,222,27,10,10
+147764,Conway,Lot 2,Williamsburg Road,Lot 2 Williamsburg Road Conway MA,42.615633,-72.67195,1/9/2006,Domestic,New Well,165,40,10,10
+147777,Conway,3186,Shelburne Falls Road,3186 Shelburne Falls Road Conway MA,42.575233,-72.71215,1/10/2007,Domestic,New Well,405,25,.5,0.5
+147786,Conway,2800,Shelburne Falls Road,2800 Shelburne Falls Road Conway MA,42.5643,-72.71115,4/17/2007,Domestic,New Well,176,0,40,40
+147793,Conway,2077,Roaring Brook Road,2077 Roaring Brook Road Conway MA,42.467333,-72.683283,7/20/2007,Industrial,New Well,225,8,23,23
+148970,Conway,1647,Shelburne Falls Road,1647 Shelburne Falls Road Conway MA,42.536983,-72.721733,10/2/2007,Domestic,New Well,282,61,0,0
+150144,Conway,23,Boyden Road,23 Boyden Road Conway MA,42.044,-72.818467,12/21/2006,Domestic,New Well,400,5,20,20
+154290,Conway,Lot 2A,Jones Corner Road,Lot 2A Jones Corner Road Conway MA,42.55305,-72.73435,10/12/2007,Domestic,New Well,522,25,55,55
+154661,Conway,37,Baptist Hill Road,37 Baptist Hill Road Conway MA,42.51055,-72.6998,11/2/2007,Domestic,Replacement,305,25,0,0
+154675,Conway,400,North Poland Road,400 North Poland Road Conway MA,42.504117,-72.748517,3/6/2008,Domestic,Replacement,105,20,0,0
+155359,Conway,468,N. Poland Road,468 N. Poland Road Conway MA,42.50255,-72.749783,5/14/2008,Domestic,New Well,182,127,0,0
+155368,Conway,468,N. Poland Road,468 N. Poland Road Conway MA,42.50255,-72.749783,6/11/2008,Domestic,Decommission,115,,30,30
+155378,Conway,1114,Shelburne Fall Road,1114 Shelburne Fall Road Conway MA,42.539417,-72.704917,4/17/2009,Domestic,New Well,422,5,0,0
+155387,Conway,,Shirkshire Road, Shirkshire Road Conway MA,42.5602,-72.724783,7/1/2008,Domestic,New Well,282,34,30,30
+159896,Conway,367,Hoosac Road,367 Hoosac Road Conway MA,42.520683,-72.65785,10/15/2009,Domestic,Deepen,700,,8,8
+250381,Conway,,Fisher Place Rd, Fisher Place Rd Conway MA,42.5017,-72.694883,7/20/2007,Domestic,New Well,220,5,40,40
+251841,Conway,,Shelburne Falls Road, Shelburne Falls Road Conway MA,42.560867,-72.709767,6/4/2008,Domestic,New Well,245,6,overflowing,0
+251847,Conway,,Bardwell Ferry Rd, Bardwell Ferry Rd Conway MA,42.541217,-72.68485,6/10/2008,Domestic,New Well,320,4,60,60
+252078,Conway,,Roaring Brook Road, Roaring Brook Road Conway MA,42.46485,-72.68295,7/17/2008,Domestic,New Well,425,3,40,40
+252206,Conway,,South Ashfield Rd, South Ashfield Rd Conway MA,42.467317,-72.758917,7/15/2008,Domestic,New Well,440,6,80,80
+265002,Conway,78,Boyden Rd,78 Boyden Rd Conway MA,42.51755,-72.666067,9/17/2009,Domestic,New Well,300,20,60,60
+265224,Conway,697,Shelburne Falls Road,697 Shelburne Falls Road Conway MA,42.524917,-72.702983,10/2/2009,Domestic,New Well,405,32,0,0
+266231,Conway,309,Williamsburg  Rd,309 Williamsburg  Rd Conway MA,42.461933,-72.751667,10/14/2009,Domestic,New Well,440,18,30,30
+274544,Conway,745,Graves Road,745 Graves Road Conway MA,42.528067,-72.682683,4/2/2010,Domestic,New Well,485,8,0,0
+274544,Conway,745,Graves Road,745 Graves Road Conway MA,42.528067,-72.682683,4/2/2010,Domestic,New Well,485,8,485,485
+600106,Conway,114,SHELBURNE FALLS ROAD,114 SHELBURNE FALLS ROAD Conway MA,,,8/2/2010,,,445,200,20,20
+600372,Conway,1490,MAIN POLAND ROAD,1490 MAIN POLAND ROAD Conway MA,,,10/21/2010,,,145,28,0,0
+600487,Conway,419,WILLIAMSBURG RD,419 WILLIAMSBURG RD Conway MA,,,9/18/2010,,,400,9,25,25
+601700,Conway,,SHELBURNE FALL RD, SHELBURNE FALL RD Conway MA,,,8/2/2011,,,320,41,10,10
+602087,Conway,23,BOYDEN ROAD,23 BOYDEN ROAD Conway MA,,,12/12/2011,,,505,7,50,50
+604999,Conway,,MATHEWS ROAD, MATHEWS ROAD Conway MA,42.51313,-72.66645,4/18/2012,,New Well,425,10,7,7
+612031,Conway,110,Delabarre Avenue,110 Delabarre Avenue Conway MA,42.50807,-72.7077,9/4/2012,,New Well,340,81,15,15
+612045,Conway,110,Delabarre Avenue,110 Delabarre Avenue Conway MA,42.50753,-72.70773,9/4/2012,,New Well,340,80,15,15
+614615,Conway,37,ACADEMY HILL RD,37 ACADEMY HILL RD Conway MA,42.30447,-72.41836,,,Decommission,,,,0
+615061,Conway,1026,S SHIRKSHIRE RD,1026 S SHIRKSHIRE RD Conway MA,42.5662,-72.72155,11/2/2012,,New Well,485,45,32.7,32.7
+615061,Conway,1026,S SHIRKSHIRE RD,1026 S SHIRKSHIRE RD Conway MA,42.5662,-72.72155,11/2/2012,,New Well,485,45,40,40
+623758,Conway,,Matherw Road, Matherw Road Conway MA,42.5131,-72.66788,11/11/2012,,New Well,422,9,18,18
+2977,Charlemont,,From Hawks Hill Rod Take Deer Run Lane O.w On Left, From Hawks Hill Rod Take Deer Run Lane O.w On Left Charlemont MA,,,11/9/2000,Domestic,New Well,275,7,,0
+2978,Charlemont,151,West Hawley Road,151 West Hawley Road Charlemont MA,,,11/7/2000,,Decommission,140,,,0
+2979,Charlemont,151,West Howley Road,151 West Howley Road Charlemont MA,,,11/7/2000,Domestic,New Well,120,6,5,5
+2980,Charlemont,,"From Rte 2 , Take Rte 8a N. 1.7 On Left"," From Rte 2 , Take Rte 8a N. 1.7 On Left Charlemont MA",,,10/16/2000,Domestic,New Well,245,126,9,9
+2981,Charlemont,,From Rte 2 Take Rowe Road 1.7 On Left, From Rte 2 Take Rowe Road 1.7 On Left Charlemont MA,,,10/13/2000,Domestic,New Well,445,100,12,12
+2982,Charlemont,151,West Hawley Road,151 West Hawley Road Charlemont MA,,,9/25/2000,Domestic,New Well,140,13,2,2
+2983,Charlemont,215,West Oxbow Road,215 West Oxbow Road Charlemont MA,,,9/22/2000,Domestic,New Well,160,50,overflow,0
+2984,Charlemont,73,East Hawley Road,73 East Hawley Road Charlemont MA,,,8/18/2000,Domestic,New Well,440,65,20,20
+2985,Charlemont,,East Hawley Road, East Hawley Road Charlemont MA,,,8/17/2000,Domestic,New Well,280,90,0,0
+2986,Charlemont,,From Rte 8a Take Mt Road 0.5 On Left, From Rte 8a Take Mt Road 0.5 On Left Charlemont MA,,,8/21/2000,Domestic,New Well,205,28,12,12
+2987,Charlemont,193,Main Street,193 Main Street Charlemont MA,,,6/14/2000,Domestic,New Well,180,65,50,50
+2988,Charlemont,,Warfield Road, Warfield Road Charlemont MA,,,5/25/2000,Domestic,New Well,140,10,22,22
+2989,Charlemont,2,Ledge Lane,2 Ledge Lane Charlemont MA,,,3/30/2000,Domestic,New Well,440,15,70,70
+2990,Charlemont,,From Int. Rte 2 & Legate Hill Road, From Int. Rte 2 & Legate Hill Road Charlemont MA,,,3/27/2000,Domestic,New Well,345,1,10,10
+2991,Charlemont,92,Avery Brook Road,92 Avery Brook Road Charlemont MA,,,6/13/2000,Domestic,New Well,200,27,16,16
+2992,Charlemont,,Potter Road Ext 300, Potter Road Ext 300 Charlemont MA,,,12/21/1999,Domestic,New Well,440,12,32,32
+2993,Charlemont,,From Jct Rte 8a & S. River Road, From Jct Rte 8a & S. River Road Charlemont MA,,,2/9/2000,Domestic,New Well,305,165,25,25
+2994,Charlemont,,From Rte 8a Take Warriner, From Rte 8a Take Warriner Charlemont MA,,,1/6/2000,Domestic,New Well,205,22,42,42
+2995,Charlemont,,From Rte 2 Take W. Oxbow Road, From Rte 2 Take W. Oxbow Road Charlemont MA,,,8/12/1999,Domestic,New Well,165,115,15,15
+2996,Charlemont,55,Potters Road,55 Potters Road Charlemont MA,,,7/16/1999,Domestic,New Well,280,30,100,100
+2997,Charlemont,195,Main Street,195 Main Street Charlemont MA,,,6/23/1999,Domestic,New Well,160,45,10,10
+2998,Charlemont,176,Main Street,176 Main Street Charlemont MA,,,6/24/1999,Domestic,New Well,400,35,15,15
+2999,Charlemont,,From Fct Rte 8a & Warner Road, From Fct Rte 8a & Warner Road Charlemont MA,,,6/9/2000,Domestic,New Well,385,20,28,28
+3000,Charlemont,,Going North On Rte 8a Take Left On, Going North On Rte 8a Take Left On Charlemont MA,,,6/2/1999,Domestic,Deepen,365,245,80,80
+14904,Charlemont,418,Legate Hill Road,418 Legate Hill Road Charlemont MA,,,6/7/2002,Domestic,,200,4,16,16
+20687,Charlemont,2145,Main Street,2145 Main Street Charlemont MA,,,11/18/1999,Domestic,,200,130,30,30
+20688,Charlemont,712,Mohawk Trail / Route 2,712 Mohawk Trail / Route 2 Charlemont MA,,,5/30/1997,Domestic,,220,95,40,40
+20689,Charlemont,,Deer Run Lane, Deer Run Lane Charlemont MA,,,10/15/1992,Domestic,,630,4,160,160
+20690,Charlemont,,Route 8A North, Route 8A North Charlemont MA,,,5/7/1997,Domestic,,195,105,overflowing,0
+20691,Charlemont,,West Oxbow Road, West Oxbow Road Charlemont MA,,,1/13/1997,Domestic,,280,142,40,40
+20692,Charlemont,,Maxwell Road, Maxwell Road Charlemont MA,,,9/23/1996,Domestic,,415,15,20,20
+20693,Charlemont,,Hawk Hill Road, Hawk Hill Road Charlemont MA,,,8/29/1996,Domestic,,290,6,45,45
+20694,Charlemont,,West Oxbow Road, West Oxbow Road Charlemont MA,,,8/27/1996,Domestic,,170,99,flowing,0
+20695,Charlemont,,Warfield Road, Warfield Road Charlemont MA,,,6/5/1996,Public Water Supply,,400,9,1,1
+20696,Charlemont,10,Riddle Street,10 Riddle Street Charlemont MA,,,5/7/1996,Domestic,,560,0,60,60
+20697,Charlemont,,Burrington Road, Burrington Road Charlemont MA,,,12/5/1995,Domestic,,125,47,14,14
+20698,Charlemont,,Route 2, Route 2 Charlemont MA,,,3/16/1995,Public Water Supply,,440,51,8,8
+20699,Charlemont,,Potter Hill Road, Potter Hill Road Charlemont MA,,,10/27/1995,Domestic,,140,46,flowing,0
+20700,Charlemont,,East Charlemont Road, East Charlemont Road Charlemont MA,,,9/22/1995,Domestic,,100,40,2,2
+20701,Charlemont,,Warner Hill Road #2, Warner Hill Road #2 Charlemont MA,,,9/12/1995,Domestic,,475,235,100,100
+20702,Charlemont,9,North Heath Road (Route 8A),9 North Heath Road (Route 8A) Charlemont MA,,,7/25/1995,Domestic,,280,60,35,35
+20703,Charlemont,7,East Oxbow Road,7 East Oxbow Road Charlemont MA,,,7/19/1995,Monitoring,,10,0,5,5
+20704,Charlemont,,West Oxbow Road, West Oxbow Road Charlemont MA,,,7/14/1995,Domestic,,360,88,34,34
+20705,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,10/24/1994,Domestic,,195,33,22,22
+20706,Charlemont,,Route 2, Route 2 Charlemont MA,,,9/27/1994,Domestic,,500,39,.5,0.5
+20707,Charlemont,,off Route 2, off Route 2 Charlemont MA,,,8/9/1994,Domestic,,360,38,flowing,0
+20708,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,7/21/1994,Domestic,,200,6,60,60
+20709,Charlemont,,North River Road, North River Road Charlemont MA,,,4/12/1994,Domestic,,160,48,45,45
+20710,Charlemont,,North River Road, North River Road Charlemont MA,,,3/9/1994,Domestic,,340,55,60,60
+20711,Charlemont,,Harmony Hill Road, Harmony Hill Road Charlemont MA,,,1/6/1994,Domestic,,180,27,9,9
+20712,Charlemont,,Route 2, Route 2 Charlemont MA,,,12/21/1993,Domestic,,200,2,15,15
+20713,Charlemont,,Mohawk Trail / Route 2, Mohawk Trail / Route 2 Charlemont MA,,,12/9/1993,Domestic,,340,95,0,0
+20714,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,10/28/1993,Domestic,,375,69,10,10
+20715,Charlemont,,Route 2, Route 2 Charlemont MA,,,10/27/1993,Domestic,,355,20,10,10
+20716,Charlemont,,South River Road, South River Road Charlemont MA,,,9/28/1993,Domestic,,175,158,60,60
+20717,Charlemont,,Route 2 East, Route 2 East Charlemont MA,,,9/28/1993,Domestic,,240,15,19,19
+20718,Charlemont,,East Hawley Road, East Hawley Road Charlemont MA,,,1/2/1993,Domestic,,320,108,12,12
+20719,Charlemont,,Country Air Road, Country Air Road Charlemont MA,,,7/24/1993,Domestic,,255,67,15,15
+20720,Charlemont,,corner of Route 2 and Avery Road, corner of Route 2 and Avery Road Charlemont MA,,,6/1/1993,Monitoring,,25,0,15,15
+20721,Charlemont,,Hillindale Road, Hillindale Road Charlemont MA,,,4/20/1993,Domestic,,175,11,3,3
+20722,Charlemont,,Potters Road, Potters Road Charlemont MA,,,1/8/1993,Domestic,,320,29,12,12
+20723,Charlemont,,Route 2, Route 2 Charlemont MA,,,10/22/1992,Domestic,,355,95,14,14
+20724,Charlemont,,,  Charlemont MA,,,11/27/1992,Domestic,,180,127,70,70
+20725,Charlemont,Lot 2,Riddell Road,Lot 2 Riddell Road Charlemont MA,,,6/23/1992,Domestic,,365,88,40,40
+20726,Charlemont,Lot 1,Riddell Road,Lot 1 Riddell Road Charlemont MA,,,6/19/1992,Domestic,,365,50,25,25
+20727,Charlemont,Lot 49,Rice Road,Lot 49 Rice Road Charlemont MA,,,8/8/1992,Domestic,,365,77,7,7
+20728,Charlemont,Lot 48,Rice Road,Lot 48 Rice Road Charlemont MA,,,8/6/1992,Domestic,,365,78,7,7
+20729,Charlemont,Lot 42,Riddell Road,Lot 42 Riddell Road Charlemont MA,,,8/3/1992,Domestic,,365,85,23,23
+20730,Charlemont,Lot 43,Riddell Road,Lot 43 Riddell Road Charlemont MA,,,7/30/1992,Domestic,,365,80,65,65
+20731,Charlemont,Lot 44,Riddell Road,Lot 44 Riddell Road Charlemont MA,,,7/28/1992,Domestic,,405,82,12,12
+20732,Charlemont,Lot 107,Route 2 / Main Street,Lot 107 Route 2 / Main Street Charlemont MA,,,5/6/1992,Domestic,,365,89,24,24
+20733,Charlemont,Lot 103,Route 2 / Main Street,Lot 103 Route 2 / Main Street Charlemont MA,,,5/1/1992,Domestic,,365,86,33,33
+20734,Charlemont,Lot 101,Route 2 / Main Street,Lot 101 Route 2 / Main Street Charlemont MA,,,4/30/1992,Domestic,,365,102,11,11
+20735,Charlemont,Lot 102,Route 2 / Main Street,Lot 102 Route 2 / Main Street Charlemont MA,,,4/29/1992,Domestic,,365,90,54,54
+20736,Charlemont,,River Road, River Road Charlemont MA,,,3/4/1992,Cathodic Protection,,53,0,,0
+20737,Charlemont,,Hawk Hill Road, Hawk Hill Road Charlemont MA,,,2/27/1992,Domestic,,280,12,,0
+20738,Charlemont,,Hawk Hill Road, Hawk Hill Road Charlemont MA,,,2/25/1992,Domestic,,395,7,37,37
+20739,Charlemont,Lot 115,Route 2 & South Street,Lot 115 Route 2 & South Street Charlemont MA,,,10/25/1991,Domestic,,365,97,30,30
+20740,Charlemont,Lot 121,corner Route 2 & South Street,Lot 121 corner Route 2 & South Street Charlemont MA,,,9/17/1991,Domestic,,365,84,,0
+20741,Charlemont,Lot 116,South Street,Lot 116 South Street Charlemont MA,,,9/9/1991,Domestic,,365,91,,0
+20742,Charlemont,,South Street, South Street Charlemont MA,,,9/3/1991,Domestic,,365,85,,0
+20743,Charlemont,,South Street, South Street Charlemont MA,,,8/30/1991,Domestic,,365,89,,0
+20744,Charlemont,122,Route 2 / Main Street,122 Route 2 / Main Street Charlemont MA,,,8/27/1991,Domestic,,365,91,35,35
+20745,Charlemont,,Route 2, Route 2 Charlemont MA,,,7/24/1991,,,355,4,10,10
+20746,Charlemont,,Route 2 / Main Street, Route 2 / Main Street Charlemont MA,,,7/1/1991,Domestic,,365,83,11,11
+20747,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,3/13/1991,Domestic,,355,128,12,12
+20748,Charlemont,,Route 2, Route 2 Charlemont MA,,,10/26/1990,Monitoring,,10,0,5,5
+20749,Charlemont,,Warner Hill Road, Warner Hill Road Charlemont MA,,,10/10/1990,Domestic,,340,20,27,27
+20750,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,8/27/1990,Domestic,,125,9,15,15
+20751,Charlemont,,Burrington Road, Burrington Road Charlemont MA,,,8/8/1990,Domestic,,195,44,25,25
+20752,Charlemont,,Hawk Hill Road, Hawk Hill Road Charlemont MA,,,7/26/1990,Domestic,,350,1.5,100,100
+20753,Charlemont,,Heath Center Road, Heath Center Road Charlemont MA,,,7/17/1990,Domestic,,320,2,14,14
+20754,Charlemont,,Route 2, Route 2 Charlemont MA,,,7/10/1990,Domestic,,220,8,10,10
+20755,Charlemont,,Route 2, Route 2 Charlemont MA,,,2/28/1990,Monitoring,,15,0,6,6
+20756,Charlemont,,Main Street, Main Street Charlemont MA,,,1/24/1990,Domestic,,200,92,12,12
+20757,Charlemont,,Route 2, Route 2 Charlemont MA,,,1/19/1990,Domestic,,360,92,30,30
+20758,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,1/5/1990,Domestic,,200,136,20,20
+20759,Charlemont,,Harmony Lane, Harmony Lane Charlemont MA,,,10/30/1989,Domestic,,155,60,5,5
+20760,Charlemont,,Route 2, Route 2 Charlemont MA,,,10/27/1989,Domestic,,235,120,18,18
+20761,Charlemont,,Mountain Road, Mountain Road Charlemont MA,,,10/13/1989,Domestic,,155,0,24,24
+20762,Charlemont,,Burnt Hill Road, Burnt Hill Road Charlemont MA,,,10/12/1989,Domestic,,535,8,40,40
+20763,Charlemont,,Burnt Hill Road, Burnt Hill Road Charlemont MA,,,10/10/1989,Domestic,,535,130,35,35
+20764,Charlemont,,corner of Route 2 & 8A, corner of Route 2 & 8A Charlemont MA,,,8/18/1989,Domestic,,300,73,20,20
+20765,Charlemont,,Route 2, Route 2 Charlemont MA,,,8/17/1989,Domestic,,400,63,20,20
+20766,Charlemont,,East Hawley Road, East Hawley Road Charlemont MA,,,7/28/1989,Domestic,,140,29,20,20
+20767,Charlemont,,Hawk Hill Road, Hawk Hill Road Charlemont MA,,,7/27/1989,Domestic,,400,5,40,40
+20768,Charlemont,,Tower Road, Tower Road Charlemont MA,,,7/27/1989,Domestic,,180,8,32,32
+20769,Charlemont,Lot 39,Hawk Hill Road,Lot 39 Hawk Hill Road Charlemont MA,,,7/21/1989,Domestic,,400,0.5,220,220
+20770,Charlemont,,Route 2, Route 2 Charlemont MA,,,6/26/1989,Domestic,,160,125,15,15
+20771,Charlemont,,Route 2, Route 2 Charlemont MA,,,12/28/2004,Domestic,,180,18,10,10
+20772,Charlemont,,Berkshire East Ski Area, Berkshire East Ski Area Charlemont MA,,,12/21/1988,Domestic,,340,68,25,25
+20773,Charlemont,,Berkshire East Ski Area, Berkshire East Ski Area Charlemont MA,,,12/17/1988,Domestic,,440,43,37,37
+20774,Charlemont,,Berkshire East Ski Area, Berkshire East Ski Area Charlemont MA,,,12/10/1988,Domestic,,300,76,overflow,0
+20775,Charlemont,,Berkshire East Ski Area, Berkshire East Ski Area Charlemont MA,,,12/9/1988,Domestic,,440,55,overflow,0
+20776,Charlemont,,Berkshire East Ski Area, Berkshire East Ski Area Charlemont MA,,,12/7/1988,Domestic,,440,46,15,15
+20777,Charlemont,,Hawk Hill Road, Hawk Hill Road Charlemont MA,,,12/5/1988,Domestic,,140,92,flowing,0
+20778,Charlemont,,Route 2, Route 2 Charlemont MA,,,12/2/1988,Domestic,,320,81,77,77
+20779,Charlemont,,Berkshire East Ski  Area, Berkshire East Ski  Area Charlemont MA,,,11/20/1988,Domestic,,360,0,15,15
+20780,Charlemont,,Berkshire East Ski Area, Berkshire East Ski Area Charlemont MA,,,11/18/1988,Domestic,,440,14,17,17
+20781,Charlemont,,Berkshire Ski Area, Berkshire Ski Area Charlemont MA,,,10/26/1988,Domestic,,440,4,50,50
+20782,Charlemont,,Berkshire East Ski Area, Berkshire East Ski Area Charlemont MA,,,10/25/1988,Domestic,,320,7,51,51
+20783,Charlemont,,Berkshire East Ski Area, Berkshire East Ski Area Charlemont MA,,,10/21/1988,Domestic,,440,3,50,50
+20784,Charlemont,,Berkshire East Ski Area, Berkshire East Ski Area Charlemont MA,,,10/20/1988,Domestic,,440,3,50,50
+20785,Charlemont,,Route 2, Route 2 Charlemont MA,,,10/19/1988,Domestic,,275,,40,40
+20786,Charlemont,,off Thunder Mountain Road, off Thunder Mountain Road Charlemont MA,,,12/21/1988,Domestic,,600,3,52,52
+20787,Charlemont,,Tower Road, Tower Road Charlemont MA,,,9/30/1988,Domestic,,180,35,80,80
+20788,Charlemont,,Potter Road, Potter Road Charlemont MA,,,9/23/1988,Domestic,,280,1,3,3
+20789,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,9/22/1988,Domestic,,260,20,20,20
+20790,Charlemont,,Berkshire East Ski Area, Berkshire East Ski Area Charlemont MA,,,8/24/1988,Domestic,,300,11,13,13
+20791,Charlemont,,Hawk Hill Road, Hawk Hill Road Charlemont MA,,,8/19/1988,Domestic,,400,8,10,10
+20792,Charlemont,Lot 4,Mountain Road,Lot 4 Mountain Road Charlemont MA,,,8/16/1988,Domestic,,300,14,90,90
+20793,Charlemont,,Warfield Road, Warfield Road Charlemont MA,,,7/18/1988,Domestic,,320,3,20,20
+20794,Charlemont,,Moutain Road, Moutain Road Charlemont MA,,,7/15/1988,Domestic,,265,9,,0
+20795,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,7/12/1988,Domestic,,160,80,8,8
+20796,Charlemont,Lot 2,Warner Hill Road,Lot 2 Warner Hill Road Charlemont MA,,,6/20/1988,Domestic,,300,,60,60
+20797,Charlemont,,Warner Hill Road, Warner Hill Road Charlemont MA,,,6/18/1988,Domestic,,240,0,60,60
+20798,Charlemont,,off Burrington Road, off Burrington Road Charlemont MA,,,5/26/1988,Domestic,,400,0,unknown,#VALUE!
+20799,Charlemont,,Route 2, Route 2 Charlemont MA,,,5/11/1988,Domestic,,340,85,unknown,#VALUE!
+20800,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,4/8/1988,Domestic,,200,138,20,20
+20801,Charlemont,,South River Road, South River Road Charlemont MA,,,2/16/1988,Domestic,,305,0,,0
+20802,Charlemont,,Route 8A, Route 8A Charlemont MA,,,11/5/1987,Domestic,,155,0,15,15
+20803,Charlemont,,Deer Run Road, Deer Run Road Charlemont MA,,,10/23/1987,Domestic,,495,0,120?,#VALUE!
+20804,Charlemont,,Windy Hill Road, Windy Hill Road Charlemont MA,,,9/2/1987,Domestic,,180,65,25,25
+20805,Charlemont,,Warner Hill Road, Warner Hill Road Charlemont MA,,,8/19/1987,Domestic,,300,20,50,50
+20806,Charlemont,,Mohawk Trail, Mohawk Trail Charlemont MA,,,7/18/1987,Domestic,,100,72,20,20
+20807,Charlemont,,Route 2, Route 2 Charlemont MA,,,5/28/1987,Domestic,,120,0,20,20
+20808,Charlemont,,Mountain View Road, Mountain View Road Charlemont MA,,,6/6/1987,Domestic,,220,1,80,80
+20809,Charlemont,3,Rock Ledge Road,3 Rock Ledge Road Charlemont MA,,,4/24/1987,Domestic,,120,10,24,24
+20810,Charlemont,Lot 1,Heath Stage Terrace,Lot 1 Heath Stage Terrace Charlemont MA,,,12/12/1986,Domestic,,121,121,30,30
+20811,Charlemont,,Warner Hill Road, Warner Hill Road Charlemont MA,,,12/8/1986,Domestic,,220,0,,0
+20812,Charlemont,,Heath Stage Terrace, Heath Stage Terrace Charlemont MA,,,11/3/1986,Domestic,,229,55,,0
+20813,Charlemont,,Heath Stage Terrace, Heath Stage Terrace Charlemont MA,,,11/3/1986,Domestic,,130,100,,0
+20814,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,1/3/1986,Domestic,,220,11,0,0
+20815,Charlemont,,Streeter Way, Streeter Way Charlemont MA,,,9/6/1985,Domestic,,325,0,,0
+20816,Charlemont,,Route 2, Route 2 Charlemont MA,,,8/26/1985,Public Water Supply,,100,0,,0
+20817,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,8/1/1985,Domestic,,200,0,,0
+20818,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,7/30/1985,Industrial,,440,0,20,20
+20819,Charlemont,,Potter's Road, Potter's Road Charlemont MA,,,6/27/1985,Domestic,,155,0,,0
+20820,Charlemont,,North Heath Road, North Heath Road Charlemont MA,,,6/16/1985,Domestic,,260,0,,0
+20821,Charlemont,2023,Mohawk Trail,2023 Mohawk Trail Charlemont MA,,,10/2/1984,Domestic,,500,0,,0
+20822,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,10/1/1984,Domestic,,260,0,unknown,#VALUE!
+20823,Charlemont,,East Oxbow Road, East Oxbow Road Charlemont MA,,,9/6/1984,Domestic,,94,0,overflowing,0
+20824,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,9/1/1984,Domestic,,520,0,,0
+20825,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,8/21/1984,Domestic,,100,9,17,17
+20826,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,7/21/1984,Domestic,,520,106,25,25
+20827,Charlemont,,off Warner Hill Road, off Warner Hill Road Charlemont MA,,,6/13/1984,Domestic,,305,0,45,45
+20828,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,5/10/1984,Domestic,,180,37,100,100
+20829,Charlemont,,West Holly Road, West Holly Road Charlemont MA,,,2/1/1984,Domestic,,275,0,30,30
+20830,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,12/1/1982,Domestic,,200,0,20,20
+20831,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,10/16/1982,Domestic,,160,,25,25
+20832,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,,Irrigation,,300,0,8,8
+20833,Charlemont,,Main Street, Main Street Charlemont MA,,,10/1/1982,Domestic,,145,102,,0
+20834,Charlemont,,Route 2, Route 2 Charlemont MA,,,12/1/1981,Domestic,,160,0,4,4
+20835,Charlemont,,Route 2, Route 2 Charlemont MA,,,6/14/1981,Domestic,,180,0,40,40
+20836,Charlemont,,Route 2, Route 2 Charlemont MA,,,9/23/1981,Domestic,,160,0,1,1
+20837,Charlemont,,Route 2 - West, Route 2 - West Charlemont MA,,,9/2/1981,Domestic,,104,0,8,8
+20838,Charlemont,,Westfield Road, Westfield Road Charlemont MA,,,8/21/1981,,,125,0,15,15
+20839,Charlemont,,Route 2, Route 2 Charlemont MA,,,8/20/1981,Domestic,,125,0,12,12
+20840,Charlemont,263 ?,Warner Hill Road ?,263 ? Warner Hill Road ? Charlemont MA,,,3/1/1981,Domestic,,250,4,,0
+20841,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,11/14/1980,Domestic,,100,13,30,30
+20842,Charlemont,,West Oxbow Road, West Oxbow Road Charlemont MA,,,10/15/1980,Domestic,,180,25,25,25
+20843,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,6/1/1980,Domestic,,180,0,,0
+20844,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,5/2/1980,Domestic,,140,0,j20,#VALUE!
+20845,Charlemont,,Route 8A, Route 8A Charlemont MA,,,3/14/1980,Domestic,,120,0,20,20
+20846,Charlemont,,Heath Stage Road, Heath Stage Road Charlemont MA,,,10/22/1979,Public Water Supply,,145,0,overflow,0
+20847,Charlemont,,Route 2 - Mohawk Trail, Route 2 - Mohawk Trail Charlemont MA,,,9/24/1979,Domestic,,230,0,overflowing,0
+20848,Charlemont,16,Potters Road,16 Potters Road Charlemont MA,,,8/1/1979,Domestic,,205,0,,0
+20849,Charlemont,,Route 2, Route 2 Charlemont MA,,,5/16/1979,Domestic,,200,0,20,20
+20850,Charlemont,,East Oxbow Road, East Oxbow Road Charlemont MA,,,3/1/1979,Domestic,,250,0,80,80
+20851,Charlemont,,Heath Stage Terrace, Heath Stage Terrace Charlemont MA,,,2/27/1979,Domestic,,150,0,20,20
+20852,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,11/29/1978,Domestic,,425,0,60,60
+20853,Charlemont,,junction Route 2 & Route 8A, junction Route 2 & Route 8A Charlemont MA,,,2/10/1976,Domestic,,30,0,20,20
+20854,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,5/20/1975,Domestic,,125,0,20,20
+20855,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,5/20/1975,Domestic,,125,20,20,20
+20856,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,5/19/1975,Domestic,,300,1,20,20
+20857,Charlemont,,Mohawk Trail, Mohawk Trail Charlemont MA,,,10/9/1974,Domestic,,80,29,10,10
+20858,Charlemont,,Route 2, Route 2 Charlemont MA,,,12/4/1973,Domestic,,130,12,20,20
+20859,Charlemont,,Street Unknown (?), Street Unknown (?) Charlemont MA,,,7/13/1973,Domestic,,150,115,15,15
+20860,Charlemont,,Box 76, Box 76 Charlemont MA,,,6/21/1972,Domestic,,305,45,40,40
+20861,Charlemont,,Heath Stage Terrace, Heath Stage Terrace Charlemont MA,,,1/1/1970,Domestic,,175,115,15,15
+21276,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,7/8/1993,Domestic,,280,52,15,15
+21277,Charlemont,,Route 2, Route 2 Charlemont MA,,,7/12/1995,Domestic,,220,108,14,14
+100396,Charlemont,1921,Mohawk Trail,1921 Mohawk Trail Charlemont MA,,,4/27/2001,Domestic,New Well,160,0,15,15
+100790,Charlemont,165,Main Street,165 Main Street Charlemont MA,,,8/9/2001,Domestic,New Well,300,64,31,31
+102593,Charlemont,8,Avery Road,8 Avery Road Charlemont MA,,,5/25/2001,Monitoring,New Well,20,,11,11
+103922,Charlemont,2183,Mohawk Trail,2183 Mohawk Trail Charlemont MA,,,9/13/2001,Domestic,Replacement,505,42,20,20
+103938,Charlemont,104,West Oxbow Road,104 West Oxbow Road Charlemont MA,,,9/17/2001,Domestic,Replacement,205,104,overflowing,0
+108358,Charlemont,176,Avery Brook Road,176 Avery Brook Road Charlemont MA,,,12/5/2001,Domestic,New Well,125,115,7,7
+108384,Charlemont,479,East Oxbow Road,479 East Oxbow Road Charlemont MA,,,12/28/2001,Domestic,New Well,220,20,50,50
+108388,Charlemont,58,Main Street,58 Main Street Charlemont MA,,,1/2/2002,Domestic,New Well,320,65,4,4
+108390,Charlemont,376,Legate Hill,376 Legate Hill Charlemont MA,,,1/13/2002,Domestic,New Well,260,85,20,20
+109388,Charlemont,144,Avery Brook Road,144 Avery Brook Road Charlemont MA,,,2/13/2002,Domestic,New Well,200,90,overflows,0
+109483,Charlemont,87,Burnt Road,87 Burnt Road Charlemont MA,,,5/7/2002,Domestic,New Well,300,87,16,16
+109488,Charlemont,1052,Mohawk Trail,1052 Mohawk Trail Charlemont MA,,,5/22/2002,Domestic,New Well,220,93,17,17
+111436,Charlemont,28,Avery Brook Road,28 Avery Brook Road Charlemont MA,,,8/21/2002,Domestic,New Well,525,80,48,48
+111447,Charlemont,200,Avery Brook Road,200 Avery Brook Road Charlemont MA,,,9/26/2002,Domestic,New Well,145,65,overflowing,0
+111484,Charlemont,147,West Oxbow Road,147 West Oxbow Road Charlemont MA,,,2/3/2003,Domestic,Replacement,165,0,,0
+113311,Charlemont,,Cold River Road, Cold River Road Charlemont MA,,,5/1/2002,Public Water Supply,New Well,200,10,overtop,0
+113368,Charlemont,66,Main Street,66 Main Street Charlemont MA,,,8/2/2002,Domestic,New Well,180,70,15,15
+118225,Charlemont,227,Hawk Hill Road,227 Hawk Hill Road Charlemont MA,,,7/8/2003,Domestic,New Well,460,55,40,40
+118355,Charlemont,1681,Mohawk Trail,1681 Mohawk Trail Charlemont MA,,,12/10/2002,Domestic,New Well,420,0,20,20
+118494,Charlemont,247,Zoar Road,247 Zoar Road Charlemont MA,,,4/2/2003,Domestic,New Well,120,57,7,7
+120663,Charlemont,15,Burrington Road,15 Burrington Road Charlemont MA,,,5/1/2003,Domestic,New Well,420,8,80,80
+122489,Charlemont,,East Oxbow Road, East Oxbow Road Charlemont MA,,,9/11/2003,Domestic,New Well,405,105,0verflowing,0
+122504,Charlemont,28,Schaefer Way,28 Schaefer Way Charlemont MA,,,11/5/2003,Domestic,New Well,345,105,40,40
+122536,Charlemont,271,West Oxbow Road,271 West Oxbow Road Charlemont MA,,,3/22/2004,Domestic,Deepen,485,0,76.2,76.2
+124167,Charlemont,114,Tower Road,114 Tower Road Charlemont MA,,,9/11/2003,Domestic,New Well,320,16,,0
+124172,Charlemont,56,Vincent Road,56 Vincent Road Charlemont MA,,,10/7/2003,Domestic,New Well,200,7,19,19
+124174,Charlemont,29,Maxwell Road,29 Maxwell Road Charlemont MA,,,10/7/2003,Domestic,New Well,120,8,12,12
+131324,Charlemont,552,Mountain Road,552 Mountain Road Charlemont MA,,,7/25/2005,Domestic,Replacement,225,75,37,37
+131335,Charlemont,75,Deer Run Lane,75 Deer Run Lane Charlemont MA,,,8/30/2005,Domestic,New Well,425,4,40,40
+132053,Charlemont,42,High Street,42 High Street Charlemont MA,,,4/30/2004,Domestic,New Well,500,100,35,35
+134895,Charlemont,1605,Route 2,1605 Route 2 Charlemont MA,,,1/19/2005,Domestic,New Well,300,140,29,29
+134914,Charlemont,54,Ledge Lane,54 Ledge Lane Charlemont MA,,,11/15/2004,Domestic,New Well,300,15,140,140
+134915,Charlemont,9,Ledge Lane,9 Ledge Lane Charlemont MA,,,11/18/2004,Domestic,New Well,500,15,30,30
+134924,Charlemont,52,Cherry Pierson Road,52 Cherry Pierson Road Charlemont MA,,,11/16/2004,Domestic,New Well,200,20,30,30
+135517,Charlemont,1645,Route 2,1645 Route 2 Charlemont MA,,,10/25/2006,Domestic,New Well,240,168,20,20
+135522,Charlemont,44,Avery Brook Road,44 Avery Brook Road Charlemont MA,42.3537,-72.805417,10/31/2006,Domestic,New Well,400,80,45,45
+135652,Charlemont,239,West Hawley Road,239 West Hawley Road Charlemont MA,,,12/1/2004,Domestic,New Well,220,70,80,80
+135656,Charlemont,231,West Hawley Road,231 West Hawley Road Charlemont MA,,,11/30/2004,Domestic,New Well,440,66,40,40
+140502,Charlemont,188D,Warner Hill Road,188D Warner Hill Road Charlemont MA,,,10/19/2005,Domestic,New Well,120,20,15,15
+141224,Charlemont,187,Main Street,187 Main Street Charlemont MA,,,2/2/2006,Domestic,Replacement,445,50,40,40
+143041,Charlemont,42,Thunder Mountain Road,42 Thunder Mountain Road Charlemont MA,,,10/11/2005,Domestic,New Well,220,85,30,30
+143107,Charlemont,454,South River Road,454 South River Road Charlemont MA,,,2/24/2006,Domestic,New Well,420,90,10,10
+143145,Charlemont,Lot 70.5,Maxwell Road,Lot 70.5 Maxwell Road Charlemont MA,,,5/9/2006,Domestic,New Well,220,22,15,15
+144984,Charlemont,199,Avery Brook Road,199 Avery Brook Road Charlemont MA,,,6/28/2006,Domestic,New Well,320,98,15,15
+145662,Charlemont,607,Legate Hill Road,607 Legate Hill Road Charlemont MA,,,6/27/2006,Domestic,Deepen,485,0,20,20
+145663,Charlemont,495,Mountain Road,495 Mountain Road Charlemont MA,42.627783,-72.833583,8/10/2006,Domestic,Replacement,205,6,0,0
+147758,Charlemont,24,South Heath Road,24 South Heath Road Charlemont MA,42.643533,-72.850583,9/28/2006,Domestic,Replacement,405,6,45,45
+147767,Charlemont,48,South Heath Road,48 South Heath Road Charlemont MA,42.6457,-72.85125,11/15/2006,Domestic,Replacement,445,13,,0
+147770,Charlemont,336,West Oxbow Road,336 West Oxbow Road Charlemont MA,42.643183,-72.12725,12/8/2006,Domestic,Replacement,108,80,overflow 8 gpm,0
+149012,Charlemont,129,Main Street,129 Main Street Charlemont MA,42.6284,-72.873233,11/1/2006,Domestic,New Well,500,88,50,50
+150676,Charlemont,300,Zoar Road,300 Zoar Road Charlemont MA,42.645683,-72.9247,9/21/2007,Industrial,New Well,300,3,0,0
+151222,Charlemont,283,Legate Hill Road,283 Legate Hill Road Charlemont MA,42.652883,-72.8992,6/27/2007,Domestic,New Well,122,7,65,65
+153735,Charlemont,1903,Mohawk Trail,1903 Mohawk Trail Charlemont MA,42.62315,-72.780133,6/12/2007,Domestic,New Well,200,47,14,14
+154663,Charlemont,526,Zoar Road,526 Zoar Road Charlemont MA,42.65845,-72.938,12/6/2007,Domestic,New Well,545,12,4,4
+155358,Charlemont,200,Legate Hill Road,200 Legate Hill Road Charlemont MA,42.645417,-72.89635,5/12/2008,Domestic,Decommission,251,0,25,25
+155367,Charlemont,15,North Street,15 North Street Charlemont MA,42.629033,-72.87685,5/21/2008,Domestic,New Well,322,77,10,10
+157693,Charlemont,24,Mt. View Drive,24 Mt. View Drive Charlemont MA,42.662483,-72.896333,4/10/2009,Domestic,Deepen,240,,30,30
+157696,Charlemont,7,Mohawk Trail,7 Mohawk Trail Charlemont MA,42.629017,-72.88655,4/27/2009,Domestic,New Well,503,2,0,0
+157701,Charlemont,7,Mohawk Trail,7 Mohawk Trail Charlemont MA,42.6288,-72.885217,9/3/2009,Domestic,New Well,403,7,0,0
+159916,Charlemont,,Burrington Road, Burrington Road Charlemont MA,42.621117,-72.829733,2/8/2010,Domestic,New Well,402,26,20,20
+161607,Charlemont,7,Mohawk Trail,7 Mohawk Trail Charlemont MA,42.628433,-72.88305,7/22/2010,Domestic,New Well,1002,5,80,80
+250449,Charlemont,355,Harris Mountain Rd,355 Harris Mountain Rd Charlemont MA,42.635817,-72.844317,8/8/2007,Domestic,New Well,220,80,40,40
+251927,Charlemont,,Maxwell Road, Maxwell Road Charlemont MA,42.670183,-72.880517,6/28/2008,Domestic,New Well,405,25,25,25
+252210,Charlemont,1451,Mohawk Trail,1451 Mohawk Trail Charlemont MA,42.619283,-72.8168,5/8/2008,Domestic,New Well,440,6,10,10
+253616,Charlemont,372 ,Maxwell Road,372  Maxwell Road Charlemont MA,42.668367,-72.881683,9/17/2008,Domestic,New Well,225,6,30,30
+263771,Charlemont,104,Main Street,104 Main Street Charlemont MA,42.6276,-72.87565,8/19/2009,Domestic,Replacement,485,85,20,20
+269784,Charlemont,,Route 8A, Route 8A Charlemont MA,,,9/19/1969,Domestic,New Well,145,100,,0
+269809,Charlemont,,River Road, River Road Charlemont MA,,,9/4/1997,Domestic,Hydrofracture,475,130,6,6
+269810,Charlemont,,Vincent Road, Vincent Road Charlemont MA,,,9/1/1970,Domestic,New Well,300,15,50,50
+271961,Charlemont,,Mohawk Trail, Mohawk Trail Charlemont MA,,,12/17/1998,Domestic,New Well,727,6,200,200
+271962,Charlemont,,Warner Hill Road, Warner Hill Road Charlemont MA,,,10/30/1998,Domestic,New Well,260,6,40,40
+271963,Charlemont,9,Rice Fort Road,9 Rice Fort Road Charlemont MA,,,10/29/1998,Domestic,New Well,140,83,30,30
+271964,Charlemont,4,East Hawley Road,4 East Hawley Road Charlemont MA,,,3/5/1998,Domestic,New Well,440,134,20,20
+271965,Charlemont,,Burrington Road, Burrington Road Charlemont MA,,,9/12/1997,Domestic,New Well,275,21,38,38
+271967,Charlemont,24,Windy Hill Road,24 Windy Hill Road Charlemont MA,,,8/4/1997,Domestic,New Well,200,70,105,105
+271968,Charlemont,,Route 2, Route 2 Charlemont MA,,,12/30/1971,Domestic,New Well,300,95,20,20
+271969,Charlemont,,Route 8A, Route 8A Charlemont MA,,,12/27/1971,Domestic,New Well,110,15,5,5
+271970,Charlemont,,Zoar Road, Zoar Road Charlemont MA,,,6/24/1971,Domestic,New Well,205,52,,0
+271971,Charlemont,,East Hawley Road, East Hawley Road Charlemont MA,,,1/1/1971,Domestic,New Well,130,36,35,35
+271973,Charlemont,,,  Charlemont MA,,,12/10/1970,Domestic,New Well,125,10,,0
+271974,Charlemont,,,  Charlemont MA,,,11/10/1970,Domestic,New Well,105,45,20,20
+271976,Charlemont,,West Oxbow Road, West Oxbow Road Charlemont MA,,,11/9/1970,Domestic,New Well,100,,10,10
+271977,Charlemont,,West Oxbow Road, West Oxbow Road Charlemont MA,,,11/6/1970,Domestic,New Well,130,107,,0
+271980,Charlemont,,Route 2, Route 2 Charlemont MA,,,10/21/1970,Domestic,New Well,62,,8,8
+271981,Charlemont,,Route 8A, Route 8A Charlemont MA,,,10/7/1970,Domestic,New Well,100,8,20,20
+271983,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,7/7/1970,Domestic,New Well,150,20,,0
+271984,Charlemont,,Route 2, Route 2 Charlemont MA,,,4/16/1970,Domestic,New Well,105,83,,0
+271986,Charlemont,,Mohawk Trail, Mohawk Trail Charlemont MA,,,3/25/1970,Domestic,New Well,255,65,,0
+271987,Charlemont,,Route 8A, Route 8A Charlemont MA,,,11/10/1969,Domestic,New Well,300,65,30,30
+271988,Charlemont,,Heath Road, Heath Road Charlemont MA,,,10/1/1969,Domestic,New Well,170,73,30,30
+271990,Charlemont,,West Oxbow Road, West Oxbow Road Charlemont MA,,,9/6/1969,Domestic,New Well,155,115,22,22
+271992,Charlemont,,East Hawley Road, East Hawley Road Charlemont MA,,,8/11/1969,Domestic,New Well,200,135,90,90
+271993,Charlemont,,Judd Road, Judd Road Charlemont MA,,,7/7/1969,Domestic,New Well,125,6,20,20
+271994,Charlemont,,Tower Road, Tower Road Charlemont MA,,,7/29/1968,Domestic,New Well,145,90,22,22
+271995,Charlemont,,Warfield Road, Warfield Road Charlemont MA,,,7/25/1968,Domestic,New Well,145,40,,0
+271996,Charlemont,,Warfield Road, Warfield Road Charlemont MA,,,7/22/1968,Domestic,New Well,395,40,15,15
+271997,Charlemont,,Legate Hill Road, Legate Hill Road Charlemont MA,,,6/29/1967,Domestic,New Well,100,50,,0
+271998,Charlemont,,,  Charlemont MA,,,6/13/1967,Domestic,New Well,129,119,,0
+271999,Charlemont,,Zoar Road, Zoar Road Charlemont MA,,,12/16/1966,Domestic,New Well,91,,30,30
+272000,Charlemont,,,  Charlemont MA,,,7/13/1966,Domestic,New Well,185,13,,0
+272001,Charlemont,,Route 2, Route 2 Charlemont MA,,,1/29/1966,Domestic,New Well,150,80,,0
+272002,Charlemont,,Mohawk Trail, Mohawk Trail Charlemont MA,,,9/7/1965,Domestic,New Well,200,115,185,185
+272003,Charlemont,,Warner Hill Road, Warner Hill Road Charlemont MA,,,7/20/1965,Domestic,New Well,145,16,,0
+272004,Charlemont,,Main Street, Main Street Charlemont MA,,,7/10/1965,Domestic,New Well,115,89,30,30
+272005,Charlemont,,,  Charlemont MA,,,6/26/1965,Domestic,New Well,100,61,,0
+272006,Charlemont,,,  Charlemont MA,,,6/9/1965,Domestic,New Well,80,15,13,13
+272007,Charlemont,,Mohawk Trail, Mohawk Trail Charlemont MA,,,5/30/1965,Domestic,New Well,156,70,1.66666666,1.66666666
+272008,Charlemont,,Mohawk Trail, Mohawk Trail Charlemont MA,,,5/30/1965,Domestic,New Well,175,30,30,30
+272009,Charlemont,,Main Street, Main Street Charlemont MA,,,10/9/1964,Domestic,New Well,63,,,0
+272010,Charlemont,,Main Street, Main Street Charlemont MA,,,5/1/1964,Domestic,New Well,102,,45,45
+272011,Charlemont,,East Hawley Road, East Hawley Road Charlemont MA,,,10/1/1963,Domestic,New Well,138,6,13,13
+272012,Charlemont,,Route 2, Route 2 Charlemont MA,,,9/7/1963,Select,New Well,130,82,15,15
+272217,Charlemont,9,East Harmony Lane,9 East Harmony Lane Charlemont MA,,,2/5/1971,Domestic,New Well,200,97,,0
+303884,Charlemont,32,Avery Brook Road,32 Avery Brook Road Charlemont MA,42.621367,-72.803367,4/30/2011,Domestic,New Well,440,38,15,15
+304395,Charlemont,32,Avery Brook Road,32 Avery Brook Road Charlemont MA,42.621367,-72.803367,4/30/2011,Domestic,New Well,440,38,15,15
+316941,Charlemont,10,Thunder Lane,10 Thunder Lane Charlemont MA,0,0,12/22/2011,Domestic,New Well,242,45,4,4
+600256,Charlemont,,SCHAEFER WAY, SCHAEFER WAY Charlemont MA,,,10/29/2010,,,245,20,30,30
+600441,Charlemont,65,EAST HAWLEY RD,65 EAST HAWLEY RD Charlemont MA,,,11/18/2010,,,240,94,35,35
+605978,Charlemont,502,SOUTH RIVER ROAD,502 SOUTH RIVER ROAD Charlemont MA,42.61655,-72.84008,4/26/2012,,Replacement,265,133,30,30
+610512,Charlemont,55,LEDGE LANE,55 LEDGE LANE Charlemont MA,42.64277,-72.90853,8/14/2012,,Replacement,225,8,60,60
+612052,Charlemont,456,Zoar Road,456 Zoar Road Charlemont MA,42.65345,-72.93243,8/14/2012,,New Well,600,58,35,35
+612665,Charlemont,1753,MOHAWK TRAIL,1753 MOHAWK TRAIL Charlemont MA,42.62677,-72.79715,9/22/2012,,Replacement,125,10,20,20
+612729,Charlemont,77,ROWE ROAD,77 ROWE ROAD Charlemont MA,42.66067,-72.93545,9/20/2012,,Replacement,485,64,20,20
+612737,Charlemont,77,ROWE ROAD,77 ROWE ROAD Charlemont MA,42.66067,-72.93562,,,Decommission,,,,0
+613907,Charlemont,00,OFF BOSRAH ROAD,00 OFF BOSRAH ROAD Charlemont MA,42.36565,-72.52216,9/21/2012,,New Well,600,4,65,65
+617738,Charlemont,14,Thunder Lane,14 Thunder Lane Charlemont MA,42.62033,-72.88071,10/20/2012,,New Well,320,34,6,6
+2809,Buckland,,Going West On Bray Road 1.2, Going West On Bray Road 1.2 Buckland MA,,,6/27/2000,Domestic,New Well,405,8,12,12
+4070,Buckland,60,Purington Road,60 Purington Road Buckland MA,,,11/22/2000,Domestic,New Well,260,115,22,22
+4071,Buckland,,From Ctr Of Shelvurne Take Elm Street, From Ctr Of Shelvurne Take Elm Street Buckland MA,,,10/20/2000,Domestic,New Well,315,100,23,23
+4072,Buckland,,Going South On Bray Road 0.1, Going South On Bray Road 0.1 Buckland MA,,,4/19/2000,Domestic,New Well,445,138,2,2
+4073,Buckland,,From Jct Hog Hollow Road & E. Buckland Road Take, From Jct Hog Hollow Road & E. Buckland Road Take Buckland MA,,,10/11/1999,Domestic,New Well,345,8,33,33
+4074,Buckland,,From Rte 112 Take Cresson Brook Road To Labelle, From Rte 112 Take Cresson Brook Road To Labelle Buckland MA,,,10/8/1999,Domestic,New Well,405,105,,0
+4075,Buckland,58,Upper Street,58 Upper Street Buckland MA,,,9/1/1999,Domestic,New Well,200,10,40,40
+4076,Buckland,,From Main Street Take Crittendon Hill 1.6 On Right, From Main Street Take Crittendon Hill 1.6 On Right Buckland MA,,,8/23/1999,Domestic,New Well,225,6,12,12
+4077,Buckland,33,Avery Road,33 Avery Road Buckland MA,,,6/28/1999,Domestic,New Well,140,44,10,10
+4967,Buckland,326,East Buckland Road,326 East Buckland Road Buckland MA,,,6/28/2001,Domestic,New Well,100,10,12,12
+17472,Buckland,,Upper Street, Upper Street Buckland MA,,,6/16/2000,Domestic,,240,13,14,14
+107438,Buckland,,Crittendon Hill Road, Crittendon Hill Road Buckland MA,,,1/10/2002,Domestic,New Well,305,3,120,120
+109453,Buckland,180,Lower Street,180 Lower Street Buckland MA,,,3/12/2002,Domestic,New Well,240,78,flowing,0
+111410,Buckland,Lot 13,Hog Hollow Road,Lot 13 Hog Hollow Road Buckland MA,,,5/23/2002,Domestic,New Well,445,7,80,80
+111429,Buckland,8,Goodnow Road,8 Goodnow Road Buckland MA,,,8/1/2002,Domestic,New Well,285,37,flowing,0
+111453,Buckland,52,Bray Road,52 Bray Road Buckland MA,,,10/9/2002,Domestic,New Well,185,60,40,40
+111481,Buckland,145,South River Road,145 South River Road Buckland MA,,,1/9/2003,Domestic,New Well,205,69,40,40
+111485,Buckland,298,Ashfield Road,298 Ashfield Road Buckland MA,,,2/5/2003,Domestic,New Well,165,38,10,10
+111498,Buckland,188,Lower Street,188 Lower Street Buckland MA,,,3/20/2003,Domestic,New Well,285,85,flowing,0
+118476,Buckland,58,Clesson Brook Road,58 Clesson Brook Road Buckland MA,,,9/25/2002,Domestic,New Well,200,70,0,0
+118478,Buckland,179,Lower Road,179 Lower Road Buckland MA,,,9/26/2002,Domestic,Replacement,260,64,3,3
+122503,Buckland,15,Purinton Road,15 Purinton Road Buckland MA,,,11/3/2003,Domestic,Replacement,345,55,60,60
+122514,Buckland,29,Upper Street,29 Upper Street Buckland MA,,,1/30/2004,Domestic,Replacement,365,45,50,50
+122517,Buckland,33,Avery Road,33 Avery Road Buckland MA,,,2/5/2004,Domestic,New Well,345,15,23,23
+122531,Buckland,136,Bray Road,136 Bray Road Buckland MA,,,3/15/2004,Domestic,New Well,125,25,0 (full),#VALUE!
+127209,Buckland,142,East Buckland Road,142 East Buckland Road Buckland MA,,,5/3/2004,Domestic,New Well,200,68,35,35
+131273,Buckland,19,Purinton Road,19 Purinton Road Buckland MA,,,9/16/2004,Domestic,Replacement,265,100,45,45
+131303,Buckland,18,Nilman Road,18 Nilman Road Buckland MA,,,3/14/2005,Domestic,New Well,245,60,80,80
+131318,Buckland,207,Lower Street,207 Lower Street Buckland MA,,,4/6/2005,Industrial,Replacement,485,58,overflowing,0
+131348,Buckland,133,North Street,133 North Street Buckland MA,,,7/9/2004,Domestic,New Well,365,13,65,65
+132041,Buckland,6,Depot Road,6 Depot Road Buckland MA,,,6/28/2004,Domestic,New Well,280,118,30,30
+134887,Buckland,18,East Buckland Road,18 East Buckland Road Buckland MA,,,4/24/2005,Domestic,New Well,400,2,60,60
+134913,Buckland,48,Hog Hollow Road,48 Hog Hollow Road Buckland MA,,,11/12/2004,Domestic,New Well,500,1,40,40
+135658,Buckland,142,Bray Road,142 Bray Road Buckland MA,,,12/9/2004,Domestic,New Well,220,7,50,50
+136970,Buckland,66,Upper Street,66 Upper Street Buckland MA,,,7/22/2005,Domestic,New Well,382,30,100,100
+140523,Buckland,35,Avery Road,35 Avery Road Buckland MA,,,11/14/2005,Domestic,New Well,260,3,Flowing,0
+146291,Buckland,28,Shepard Road,28 Shepard Road Buckland MA,,,5/31/2006,Domestic,New Well,90,76,0,0
+148206,Buckland,43,W. Brown Road,43 W. Brown Road Buckland MA,42.561767,-70.427233,11/22/2006,Domestic,New Well,220,9,4,4
+149008,Buckland,202,Lower Street,202 Lower Street Buckland MA,42.586767,-72.7914,7/19/2007,Domestic,New Well,161,87,Flowing,0
+149054,Buckland,27,Orcutt Hill Road,27 Orcutt Hill Road Buckland MA,42.58555,-72.80685,11/14/2006,Domestic,New Well,120,78,overflow,0
+154640,Buckland,131,Charlemont Road,131 Charlemont Road Buckland MA,42.613033,-72.814067,6/27/2007,Domestic,Replacement,265,60,27,27
+154649,Buckland,Lot 2,Avery Road,Lot 2 Avery Road Buckland MA,42.596033,-72.8197,10/21/2007,Domestic,New Well,445,8,17,17
+155391,Buckland,133,Clesson Brook Road,133 Clesson Brook Road Buckland MA,42.583533,-72.836667,7/22/2008,Domestic,New Well,162,78,0,0
+157673,Buckland,2,Clesson Brook Road,2 Clesson Brook Road Buckland MA,42.565233,-72.803383,1/19/2009,Domestic,New Well,202,49,15,15
+157681,Buckland,64,Charlemont Road,64 Charlemont Road Buckland MA,42.60055,-72.8015,4/10/2009,Domestic,New Well,403,18,20,20
+159917,Buckland,,Nilman Road, Nilman Road Buckland MA,42.586133,-72.761,1/10/2010,Domestic,New Well,403,105,30,30
+250498,Buckland,185,Bray Rd,185 Bray Rd Buckland MA,42.5667,-72.761917,8/17/2007,Domestic,New Well,440,54,23,23
+251524,Buckland,7,Martin Rd,7 Martin Rd Buckland MA,42.585667,-72.790467,5/6/2008,Domestic,New Well,220,57,150,150
+263885,Buckland,2,Old Upper Street,2 Old Upper Street Buckland MA,42.59085,-72.793383,8/31/2009,Domestic,Replacement,205,10,30,30
+265449,Buckland,57,Bray Rd,57 Bray Rd Buckland MA,42.589167,-72.7449,10/16/2009,Domestic,New Well,523,20,60,60
+277716,Buckland,86,Bray Road,86 Bray Road Buckland MA,,,,Domestic,New Well,320,8,8,8
+600052,Buckland,30,UPPER STREET,30 UPPER STREET Buckland MA,,,6/24/2010,,,345,40,48,48
+600098,Buckland,11,CLESSON BROOK ROAD,11 CLESSON BROOK ROAD Buckland MA,,,8/4/2010,,,225,60,20,20
+601156,Buckland,,BRAY ROAD, BRAY ROAD Buckland MA,,,6/11/2011,,,355,5,40,40
+606834,Buckland,1,Creamery Lane,1 Creamery Lane Buckland MA,42.26643,73.05018,11/19/2010,,Decommission,,,0,0
+611704,Buckland,26,UPPER STREET,26 UPPER STREET Buckland MA,42.59148,-72.79247,9/4/2012,,Replacement,385,35,40,40
+611722,Buckland,44,ASHFIELD ROAD,44 ASHFIELD ROAD Buckland MA,42.6142,-72.75928,8/30/2012,,Replacement,245,95,10,10
+612793,Buckland,,FORGETTE ROAD, FORGETTE ROAD Buckland MA,42.58047,-72.84205,9/20/2012,,New Well,385,4,27,27
+623126,Buckland,,Stone Road, Stone Road Buckland MA,,,5/3/1999,,Hydrofracture,405,,80,80
+623127,Buckland,,Martin Road, Martin Road Buckland MA,,,3/19/1999,,New Well,165,66,,0
+623128,Buckland,,Goodnow Road, Goodnow Road Buckland MA,,,2/23/1999,,New Well,220,15,13,13
+623129,Buckland,,Stone Road, Stone Road Buckland MA,,,12/21/1998,,New Well,425,,15,15
+623130,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,10/7/1998,,New Well,260,58,14,14
+623131,Buckland,,Nilman Road, Nilman Road Buckland MA,,,10/8/1998,,New Well,160,,16,16
+623132,Buckland,,Hodgen Road, Hodgen Road Buckland MA,,,11/10/1998,,New Well,15,,8,8
+623133,Buckland,,Hodgen Road, Hodgen Road Buckland MA,,,2/10/1998,,New Well,12,,5,5
+623134,Buckland,,Hodgen Road, Hodgen Road Buckland MA,,,9/11/1997,,New Well,54.5,,47.5,47.5
+623136,Buckland,,Bray Road, Bray Road Buckland MA,,,8/4/1997,,New Well,200,76,4,4
+623137,Buckland,,Hog Hollow Road, Hog Hollow Road Buckland MA,,,6/27/1997,,New Well,275,,30,30
+623138,Buckland,,Clesson Brook Road, Clesson Brook Road Buckland MA,,,6/5/1997,,New Well,275,102,24,24
+623143,Buckland,,Goodnow Road, Goodnow Road Buckland MA,,,9/3/1996,,New Well,275,8,20,20
+623144,Buckland,,Goodnow Road, Goodnow Road Buckland MA,,,9/4/1996,,New Well,275,45,32,32
+623145,Buckland,,Route 112, Route 112 Buckland MA,,,8/7/1996,,Hydrofracture,395,28,28,28
+623146,Buckland,,Route 112, Route 112 Buckland MA,,,6/18/1996,,New Well,235,58,10,10
+623147,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,5/7/1996,,New Well,340,8,46,46
+623148,Buckland,,Nilman Road, Nilman Road Buckland MA,,,9/2/5199,,New Well,200,103,14,14
+623149,Buckland,,Upper Street, Upper Street Buckland MA,,,9/25/1995,,New Well,200,78,20,20
+623150,Buckland,,Hog Hollow Road, Hog Hollow Road Buckland MA,,,9/21/1995,,New Well,500,3,10,10
+623151,Buckland,1,Creamery Avenue,1 Creamery Avenue Buckland MA,,,8/31/1995,,New Well,25,,17.5,17.5
+623152,Buckland,119,Clesson Brook Road,119 Clesson Brook Road Buckland MA,,,8/28/1995,,New Well,108,90,0,0
+623153,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,8/2/1995,,New Well,235,155,22,22
+623154,Buckland,,Route 112, Route 112 Buckland MA,,,7/13/1995,,New Well,275,65,10,10
+623155,Buckland,,Upper Street, Upper Street Buckland MA,,,8/7/1995,,New Well,340,18,20,20
+623156,Buckland,,Route 112, Route 112 Buckland MA,,,7/11/1995,,New Well,160,36,21,21
+623157,Buckland,,Route 112, Route 112 Buckland MA,,,7/10/1995,,New Well,220,38,16,16
+623158,Buckland,,Route 112, Route 112 Buckland MA,,,6/17/1995,,New Well,160,45,10,10
+623159,Buckland,,Bray Road, Bray Road Buckland MA,,,6/8/1995,,New Well,300,6,30,30
+623160,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,2/20/1995,,New Well,125,62,5,5
+623161,Buckland,,Depot Road, Depot Road Buckland MA,,,12/1/1994,,New Well,300,95,14,14
+623162,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,11/21/1994,,New Well,195,61,14,14
+623163,Buckland,,,  Buckland MA,,,11/18/1994,,New Well,20,,15,15
+623164,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,6/23/1994,,New Well,160,,65,65
+623166,Buckland,,Cross Street, Cross Street Buckland MA,,,6/23/1994,,New Well,200,33,35,35
+623167,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,6/8/1994,,New Well,120,8,14,14
+623169,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,6/7/1994,,Deepen,515,,45,45
+623170,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,6/6/1994,,New Well,140,99,,0
+623171,Buckland,,Upper Street, Upper Street Buckland MA,,,5/31/1994,,New Well,195,65,22,22
+623172,Buckland,,Hodgen Road, Hodgen Road Buckland MA,,,5/18/1994,,New Well,140,21,20,20
+623173,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,5/12/1994,,New Well,200,20,,0
+623174,Buckland,,Route 112, Route 112 Buckland MA,,,4/13/1994,,New Well,180,70,25,25
+623176,Buckland,,Depot Road, Depot Road Buckland MA,,,12/9/1993,,New Well,20,,15,15
+623177,Buckland,,Dodge Road, Dodge Road Buckland MA,,,12/8/1993,,New Well,125,17,15,15
+623178,Buckland,,Route 112, Route 112 Buckland MA,,,12/1/1993,,New Well,400,66,16,16
+623180,Buckland,,Hog Hollow Road, Hog Hollow Road Buckland MA,,,11/24/1993,,New Well,240,28,12,12
+623181,Buckland,,Hog Hollow Road, Hog Hollow Road Buckland MA,,,10/22/1993,,New Well,170,14,10,10
+623182,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,10/18/1993,,New Well,200,18,14,14
+623183,Buckland,,Route 112, Route 112 Buckland MA,,,10/14/1993,,New Well,200,74,1,1
+623184,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,8/20/1993,,New Well,255,120,40,40
+623185,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,8/10/1993,,New Well,385,82,15,15
+623186,Buckland,,Goodnow Road, Goodnow Road Buckland MA,,,7/26/1993,,New Well,380,8,100,100
+623187,Buckland,,Elm Street, Elm Street Buckland MA,,,5/25/1993,,New Well,275,117,35,35
+623188,Buckland,,Shephard Road, Shephard Road Buckland MA,,,5/24/1993,,New Well,100,42,3,3
+623189,Buckland,66,Ashfield Road,66 Ashfield Road Buckland MA,,,5/19/1993,,New Well,245,70,6,6
+623190,Buckland,,Route 112, Route 112 Buckland MA,,,11/2/1992,,New Well,275,,10,10
+623191,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,10/23/1992,,New Well,195,57,37,37
+623192,Buckland,,Route 112, Route 112 Buckland MA,,,10/22/1992,,New Well,364,4,35,35
+623193,Buckland,,Crittenden Hill Road, Crittenden Hill Road Buckland MA,,,10/20/1992,,New Well,416,7,278,278
+623194,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,8/13/1992,,New Well,275,25,20,20
+623195,Buckland,,South Cemetery Road, South Cemetery Road Buckland MA,,,7/24/1992,,New Well,200,140,0,0
+623196,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,6/9/1992,,New Well,275,22,,0
+623197,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,6/8/1992,,New Well,355,17,60,60
+623198,Buckland,,Bray Road, Bray Road Buckland MA,,,3/16/1992,,New Well,200,4,15,15
+623199,Buckland,,Elm Street, Elm Street Buckland MA,,,11/27/1991,,New Well,355,55,40,40
+623200,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,9/16/1991,,Hydrofracture,500,20,100,100
+623201,Buckland,,Mary Lyon Road, Mary Lyon Road Buckland MA,,,10/4/1991,,New Well,600,4,10,10
+623202,Buckland,,Clesson Brook Road, Clesson Brook Road Buckland MA,,,7/8/1991,,New Well,125,45,,0
+623203,Buckland,,Howes Road, Howes Road Buckland MA,,,6/28/1991,,New Well,200,45,20,20
+623204,Buckland,,Labelle Road, Labelle Road Buckland MA,,,5/31/1991,,New Well,150,38,15,15
+623205,Buckland,,Bray Road, Bray Road Buckland MA,,,5/29/1991,,New Well,275,29,20,20
+623207,Buckland,,Ashfield Road, Ashfield Road Buckland MA,,,10/3/1990,,New Well,275,110,40,40
+623208,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,8/24/1990,,Hydrofracture,535,28,15,15
+623209,Buckland,,Lower Street, Lower Street Buckland MA,,,8/17/1990,,New Well,220,100,65,65
+623210,Buckland,,Stone Road, Stone Road Buckland MA,,,6/15/1990,,New Well,275,32,40,40
+623211,Buckland,,Martin Road, Martin Road Buckland MA,,,5/2/1990,,New Well,355,20,2,2
+623212,Buckland,,Route 112, Route 112 Buckland MA,,,5/1/1990,,New Well,235,,20,20
+623213,Buckland,,Route 112, Route 112 Buckland MA,,,4/30/1990,,New Well,275,70,30,30
+623214,Buckland,,Cross Street, Cross Street Buckland MA,,,3/9/1990,,New Well,80,31,,0
+623216,Buckland,,South Cemetery Road, South Cemetery Road Buckland MA,,,1/4/1990,,New Well,100,16,20,20
+623218,Buckland,,Elm Street, Elm Street Buckland MA,,,1/3/1990,,New Well,125,,40,40
+623222,Buckland,,Labelle Road, Labelle Road Buckland MA,,,9/28/1989,,New Well,155,12,15,15
+623224,Buckland,5,Woodward Road,5 Woodward Road Buckland MA,,,7/24/1989,,New Well,380,39,15,15
+623225,Buckland,17,Upper Street,17 Upper Street Buckland MA,,,7/20/1989,,New Well,,34,89,89
+623228,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,7/19/1989,,New Well,260,25,20,20
+623229,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,7/18/1989,,New Well,570,5,85,85
+623230,Buckland,,Purinton Road, Purinton Road Buckland MA,,,2/25/1989,,New Well,200,49,20,20
+623231,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,11/25/1988,,New Well,100,22,10,10
+623232,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,10/4/1988,,New Well,225,91,62,62
+623233,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,8/18/1988,,New Well,120,60,60,60
+623234,Buckland,,Howes Road, Howes Road Buckland MA,,,8/11/1988,,New Well,455,3,,0
+623235,Buckland,,Brown Road, Brown Road Buckland MA,,,8/5/1988,,New Well,240,5,,0
+623236,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,6/9/1988,,New Well,302,,36,36
+623237,Buckland,,Avery Road, Avery Road Buckland MA,,,4/1/1988,,New Well,300,0,,0
+623238,Buckland,,,  Buckland MA,,,4/13/1988,,New Well,220,,20,20
+623239,Buckland,,Howes Road, Howes Road Buckland MA,,,4/1/1988,,New Well,455,4,300,300
+623240,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,5/27/1987,,New Well,140,,20,20
+623241,Buckland,,Hodgen Road, Hodgen Road Buckland MA,,,11/1/1987,,New Well,360,90,30,30
+623243,Buckland,,Birch Road, Birch Road Buckland MA,,,9/4/1987,,New Well,315,114,20,20
+623244,Buckland,,Martin Road, Martin Road Buckland MA,,,7/14/1987,,New Well,180,55,3,3
+623245,Buckland,,Route 2, Route 2 Buckland MA,,,6/24/1987,,New Well,180,25,30,30
+623247,Buckland,,,  Buckland MA,,,4/29/1987,,Deepen,300,12,40,40
+623248,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,3/9/1987,,New Well,255,13,22,22
+623249,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,3/6/1987,,New Well,105,18,10,10
+623250,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,11/6/1986,,New Well,280,102,15,15
+623251,Buckland,,Howes Road, Howes Road Buckland MA,,,11/4/1986,,New Well,200,6,20,20
+623252,Buckland,,Howes Road, Howes Road Buckland MA,,,10/30/1986,,New Well,220,10,30,30
+623255,Buckland,,Howes Road, Howes Road Buckland MA,,,10/31/1986,,New Well,140,10,30,30
+623256,Buckland,,Crittenden Hill Road, Crittenden Hill Road Buckland MA,,,8/26/1986,,New Well,240,3,70,70
+623257,Buckland,,Route 112, Route 112 Buckland MA,,,8/24/1986,,New Well,200,52,10,10
+623259,Buckland,,Bray Road, Bray Road Buckland MA,,,8/15/1986,,New Well,405,,80,80
+623260,Buckland,,Howes Road, Howes Road Buckland MA,,,5/13/1986,,New Well,280,3,33,33
+623261,Buckland,,Howes Road, Howes Road Buckland MA,,,5/13/1986,,New Well,280,3,33,33
+623263,Buckland,,,  Buckland MA,,,4/23/1986,,New Well,340,6,,0
+623264,Buckland,,,  Buckland MA,,,3/13/1986,,New Well,160,19,,0
+623265,Buckland,,Hog Hollow Road, Hog Hollow Road Buckland MA,,,9/30/1985,,New Well,380,10,25,25
+623266,Buckland,,,  Buckland MA,,,8/23/1985,,New Well,260,10,20,20
+623267,Buckland,,Apple Valley Road, Apple Valley Road Buckland MA,,,5/5/1985,,New Well,205,5,10,10
+623268,Buckland,,,  Buckland MA,,,7/30/1984,,New Well,260,6,,0
+623270,Buckland,,,  Buckland MA,,,7/24/1984,,New Well,120,14,20,20
+623271,Buckland,,,  Buckland MA,,,6/4/1984,,New Well,360,86,20,20
+623272,Buckland,,Old Hawley Road, Old Hawley Road Buckland MA,,,2/1/1984,,New Well,100,,,0
+623274,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,3/15/1983,,New Well,,65,24,24
+623276,Buckland,,,  Buckland MA,,,10/19/1982,,New Well,380,32,8,8
+623277,Buckland,,,  Buckland MA,,,10/1/1982,,New Well,240,76,,0
+623278,Buckland,,,  Buckland MA,,,8/18/1982,,New Well,160,8,20,20
+623280,Buckland,,Bray Road, Bray Road Buckland MA,,,12/1/1981,,New Well,360,8,60,60
+623281,Buckland,,Nilman Road, Nilman Road Buckland MA,,,12/1/1981,,New Well,140,62,,0
+623282,Buckland,,Route 112, Route 112 Buckland MA,,,10/29/1981,,New Well,140,,15,15
+623283,Buckland,,Old Hawley Road, Old Hawley Road Buckland MA,,,9/21/1981,,New Well,80,,5,5
+623284,Buckland,,Route 2, Route 2 Buckland MA,,,8/19/1981,,New Well,225,16,0,0
+623285,Buckland,,Ashfield Road, Ashfield Road Buckland MA,,,5/23/1981,,New Well,160,98,20,20
+623286,Buckland,,Orcutt Hill Road, Orcutt Hill Road Buckland MA,,,4/28/1981,,New Well,360,12,15,15
+623287,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,4/23/1981,,New Well,340,,15,15
+623288,Buckland,,Orcutt Hill Road, Orcutt Hill Road Buckland MA,,,3/1/1981,,New Well,340,16,,0
+623289,Buckland,,Hog Hollow Road, Hog Hollow Road Buckland MA,,,3/1/1981,,New Well,410,10,,0
+623290,Buckland,,Route 112, Route 112 Buckland MA,,,2/26/1981,,New Well,120,41,10,10
+623294,Buckland,,Route 112, Route 112 Buckland MA,,,2/25/1981,,New Well,140,82,20,20
+623295,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,1/23/1981,,New Well,280,15,150,150
+623296,Buckland,,Depot Road, Depot Road Buckland MA,,,11/25/1980,,New Well,300,48,30,30
+623297,Buckland,,Bray Road, Bray Road Buckland MA,,,10/24/1980,,New Well,100,8,22,22
+623298,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,10/21/1980,,New Well,170,7,20,20
+623299,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,8/29/1980,,New Well,280,43,20,20
+623300,Buckland,,Old Hawley Road, Old Hawley Road Buckland MA,,,7/29/1980,,New Well,85,26,10,10
+623301,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,7/2/1980,,New Well,255,100,35,35
+623302,Buckland,,Mary Lyon Road, Mary Lyon Road Buckland MA,,,5/16/1980,,New Well,120,2,,0
+623303,Buckland,,Upper Street, Upper Street Buckland MA,,,11/19/1979,,New Well,200,,40,40
+623304,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,1/1/1979,,New Well,,,,0
+623305,Buckland,,Elm Street, Elm Street Buckland MA,,,9/28/1978,,New Well,255,145,70,70
+623306,Buckland,,Bray Road, Bray Road Buckland MA,,,6/7/1979,,New Well,280,16,50,50
+623307,Buckland,,,  Buckland MA,,,8/1/1978,,New Well,,,,0
+623308,Buckland,,Stone Road, Stone Road Buckland MA,,,6/2/1975,,New Well,,,30,30
+623309,Buckland,,Route 112, Route 112 Buckland MA,,,5/21/1975,,New Well,150,50,10,10
+623311,Buckland,,,  Buckland MA,,,12/19/1974,,New Well,155,128,,0
+623312,Buckland,,,  Buckland MA,,,12/17/1974,,New Well,275,175,80,80
+623313,Buckland,,Ashfield Road, Ashfield Road Buckland MA,,,9/23/1974,,New Well,155,,15,15
+623314,Buckland,,,  Buckland MA,,,8/30/1974,,New Well,305,27,50,50
+623315,Buckland,,,  Buckland MA,,,7/30/1974,,New Well,180,100,40,40
+623316,Buckland,,Old Hawley Road, Old Hawley Road Buckland MA,,,12/9/1971,,New Well,325,80,12,12
+623317,Buckland,,Old Hawley Road, Old Hawley Road Buckland MA,,,5/25/1971,,New Well,100,,,0
+623318,Buckland,,Mary Lyon Road, Mary Lyon Road Buckland MA,,,4/28/1971,,New Well,200,120,25,25
+623319,Buckland,,,  Buckland MA,,,12/24/1970,,New Well,185,20,60,60
+623320,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,11/12/1970,,New Well,180,107,30,30
+623321,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,10/29/1970,,New Well,165,100,40,40
+623322,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,7/14/1970,,New Well,240,48,15,15
+623323,Buckland,,Bray Road, Bray Road Buckland MA,,,5/26/1970,,New Well,220,185,,0
+623325,Buckland,,Ashfield Road, Ashfield Road Buckland MA,,,1/17/1970,,New Well,275,20,25,25
+623326,Buckland,,East Buckland Road, East Buckland Road Buckland MA,,,11/5/1969,,New Well,250,60,30,30
+623327,Buckland,,Route 112, Route 112 Buckland MA,,,5/6/1969,,New Well,190,110,,0
+623328,Buckland,,Elm Street, Elm Street Buckland MA,,,3/7/1969,,New Well,128,38,30,30
+623329,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,7/1/1968,,New Well,160,10,10,10
+623330,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,7/8/1968,,New Well,295,4,20,20
+623331,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,7/3/1968,,New Well,129,10,20,20
+623332,Buckland,,Old Hawley Road, Old Hawley Road Buckland MA,,,6/24/1968,,New Well,110,68,20,20
+623333,Buckland,,Avery Road, Avery Road Buckland MA,,,6/22/1968,,New Well,115,20,10,10
+623334,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,6/8/1967,,New Well,115,15,20,20
+623335,Buckland,,Route 112, Route 112 Buckland MA,,,9/1/1965,,New Well,400,75,38,38
+623336,Buckland,,Hog Hollow Road, Hog Hollow Road Buckland MA,,,9/1/1965,,New Well,300,12,62,62
+623337,Buckland,,Shephard Road, Shephard Road Buckland MA,,,8/30/1965,,New Well,120,100,110,110
+623339,Buckland,,Route 112, Route 112 Buckland MA,,,8/24/1965,,New Well,127,55,100,100
+623340,Buckland,,Cross Street, Cross Street Buckland MA,,,8/23/1965,,New Well,85,35,75,75
+623341,Buckland,,Purinton Road, Purinton Road Buckland MA,,,11/12/1964,,New Well,218,63,51,51
+623343,Buckland,,Purinton Road, Purinton Road Buckland MA,,,10/1/1963,,New Well,195,93,,0
+623345,Buckland,,Conway Street, Conway Street Buckland MA,,,4/16/1991,,New Well,23,13,6,6
+623346,Buckland,,Stone Road, Stone Road Buckland MA,,,10/7/1986,,New Well,230,36,35,35
+623347,Buckland,,South Street, South Street Buckland MA,,,7/28/1986,,New Well,230,19,20,20
+623348,Buckland,,Bray Road, Bray Road Buckland MA,,,10/31/1984,,New Well,105,6,10,10
+623349,Buckland,,Bray Road, Bray Road Buckland MA,,,12/4/1984,,New Well,130,,20,20
+623350,Buckland,,Charlemont Road, Charlemont Road Buckland MA,,,1/3/1974,,New Well,180,100,36,36
+8845,Shelburne,1033,Mohawk Trail,1033 Mohawk Trail Shelburne MA,,,5/13/1999,Domestic,,780,13,22,22
+8846,Shelburne,686,Little Mohawk Road,686 Little Mohawk Road Shelburne MA,,,8/18/2000,Domestic,,180,10,12,12
+8847,Shelburne,307,Patten Road,307 Patten Road Shelburne MA,,,8/15/2000,Domestic,,600,5,19,19
+8848,Shelburne,1176,Mohawk Trail,1176 Mohawk Trail Shelburne MA,,,5/17/1999,Domestic,,440,4,25,25
+10549,Shelburne,,Little Mohawk Road, Little Mohawk Road Shelburne MA,,,8/31/1999,Domestic,,380,4,20,20
+100752,Shelburne,690,Little Mohawk Road,690 Little Mohawk Road Shelburne MA,42.636667,-72.684972,7/2/2001,Domestic,New Well,500,28,flowing .50,0
+100771,Shelburne,241,Colrain Road,241 Colrain Road Shelburne MA,,,8/1/2001,Domestic,New Well,140,26,7,7
+103874,Shelburne,80,Bardwells Ferry Road,80 Bardwells Ferry Road Shelburne MA,,,8/10/2001,Domestic,New Well,440,35,3,3
+107424,Shelburne,891,Mohawk Trail,891 Mohawk Trail Shelburne MA,,,10/22/2001,Domestic,Repair,165,12,10,10
+107436,Shelburne,79,East Buckland Road,79 East Buckland Road Shelburne MA,,,12/31/2001,Domestic,Replacement,445,55,full,#VALUE!
+107471,Shelburne,104,Frank Williams Road,104 Frank Williams Road Shelburne MA,,,1/24/2002,Domestic,Replacement,445,26,20,20
+109479,Shelburne,307,Patten Road,307 Patten Road Shelburne MA,,,5/1/2002,Domestic,New Well,600,4,10,10
+111434,Shelburne,115,Little Mohawk Road,115 Little Mohawk Road Shelburne MA,,,8/8/2002,Domestic,New Well,185,47,33,33
+111448,Shelburne,739,Mohawk Trail,739 Mohawk Trail Shelburne MA,,,9/24/2002,Domestic,Replacement,425,6,32.8,32.8
+111479,Shelburne,,Colrain-Shelburne Road, Colrain-Shelburne Road Shelburne MA,,,1/15/2003,Domestic,New Well,425,3,10,10
+111480,Shelburne,1498,Mohawk Trail,1498 Mohawk Trail Shelburne MA,,,1/16/2003,Domestic,New Well,425,12,40,40
+118221,Shelburne,14,Copper Lane,14 Copper Lane Shelburne MA,,,7/30/2003,,New Well,220,0,overflowing,0
+118353,Shelburne,178,Paten Road,178 Paten Road Shelburne MA,,,12/12/2002,Domestic,New Well,320,12,20,20
+118479,Shelburne,652,Patten Hill Road,652 Patten Hill Road Shelburne MA,,,9/27/2002,Domestic,Replacement,300,45,21,21
+118548,Shelburne,50,State Street,50 State Street Shelburne MA,,,2/28/2003,Monitoring,New Well,24,0,15,15
+122459,Shelburne,10,Guy Manners Road,10 Guy Manners Road Shelburne MA,,,7/2/2003,Domestic,New Well,145,4,28,28
+122518,Shelburne,1394,Mohawk Trail,1394 Mohawk Trail Shelburne MA,,,2/11/2004,Domestic,Replacement,485,89,20,20
+122540,Shelburne,,Skinner Road, Skinner Road Shelburne MA,,,4/28/2004,Domestic,New Well,485,10,24,24
+124186,Shelburne,12,Skinner Road,12 Skinner Road Shelburne MA,,,11/4/2003,Domestic,Replacement,400,17,20,20
+126144,Shelburne,609,Mohawk Trail,609 Mohawk Trail Shelburne MA,,,7/14/2003,Domestic,New Well,700,150,50,50
+131265,Shelburne,61,Frank Williams Road,61 Frank Williams Road Shelburne MA,,,8/23/2004,Domestic,Replacement,585,0,38,38
+131290,Shelburne,685,Mohawk Trail,685 Mohawk Trail Shelburne MA,,,12/4/2004,Domestic,New Well,485,7,10,10
+131325,Shelburne,62,Frank Williams Road,62 Frank Williams Road Shelburne MA,,,7/22/2005,Domestic,Replacement,405,20,7,7
+140508,Shelburne,636,Little Mohawk Road,636 Little Mohawk Road Shelburne MA,,,9/29/2005,Domestic,New Well,400,6,44,44
+141206,Shelburne,1443,Rte 2,1443 Rte 2 Shelburne MA,,,9/30/2005,Domestic,Replacement,445,15,35,35
+141207,Shelburne,76,Frank Williams Road,76 Frank Williams Road Shelburne MA,,,9/29/2005,Domestic,Replacement,145,70,Overflow,0
+141226,Shelburne,11,Old Greenfield Road,11 Old Greenfield Road Shelburne MA,,,2/17/2006,Domestic,Replacement,335,25,30,30
+141241,Shelburne,1,Little Mohawk Road,1 Little Mohawk Road Shelburne MA,,,3/11/2006,Domestic,Replacement,325,35,35,35
+145664,Shelburne,373,Little Mohawk Road,373 Little Mohawk Road Shelburne MA,42.612067,-72.68525,8/18/2006,Domestic,New Well,545,4,20,20
+147372,Shelburne,438,Taylor Road,438 Taylor Road Shelburne MA,,,9/12/2006,Domestic,New Well,160,30,10,10
+147759,Shelburne,386,Colrain-Shelburne Road,386 Colrain-Shelburne Road Shelburne MA,42.634683,-72.672283,11/14/2006,Domestic,New Well,665,65,5,5
+147768,Shelburne,188,Skinner Road,188 Skinner Road Shelburne MA,42.60855,-72.6771,11/11/2006,Domestic,New Well,445,3,30,30
+147774,Shelburne,635,Mohawk Trail,635 Mohawk Trail Shelburne MA,42.5836,-72.702533,4/17/2007,Industrial,Hydrofracture,500,0,14,14
+147790,Shelburne,30,Colrain-Shelburne Road,30 Colrain-Shelburne Road Shelburne MA,42.612067,-72.67265,5/9/2007,Domestic,Replacement,485,60,25,25
+147806,Shelburne,125,Bardwell Ferry Road,125 Bardwell Ferry Road Shelburne MA,42.578483,-72.686533,8/10/2007,Domestic,Replacement,345,59,20,20
+149013,Shelburne,200,Old Albany Road,200 Old Albany Road Shelburne MA,42.575167,-72.641333,11/23/2006,Domestic,New Well,430,1,0,0
+149029,Shelburne,989,Mowhawk Trail,989 Mowhawk Trail Shelburne MA,42.596283,-72.673717,11/6/2007,Domestic,New Well,220,5,0,0
+154644,Shelburne,297,Bardwell's Ferry Road,297 Bardwell's Ferry Road Shelburne MA,42.569983,-72.67725,9/21/2007,Domestic,Replacement,385,40,35,35
+154652,Shelburne,Lot 3.1,Tower Road,Lot 3.1 Tower Road Shelburne MA,42.610983,-72.699233,10/2/2007,Domestic,New Well,325,2,221,221
+154662,Shelburne,240,Colrain-Shelburne Road,240 Colrain-Shelburne Road Shelburne MA,42.625717,-72.672267,11/29/2007,Domestic,Hydrofracture,445,0,37.6,37.6
+161626,Shelburne,72,Shelburne Center Road,72 Shelburne Center Road Shelburne MA,42.58295,-72.697417,10/26/2010,Domestic,New Well,220,5,30,30
+255552,Shelburne,1A,Little Mohawk Road,1A Little Mohawk Road Shelburne MA,42.592733,-72.687333,11/17/2008,Domestic,Replacement,465,48,20,20
+256069,Shelburne,1147,Mohawk Trail,1147 Mohawk Trail Shelburne MA,42.6055,-72.67205,10/30/2008,Industrial,Replacement,425,11,10,10
+257990,Shelburne,,Shelbourne Road, Shelbourne Road Shelburne MA,,,,Domestic,New Well,160,33,120,120
+263835,Shelburne,,Skinner Road, Skinner Road Shelburne MA,42.611483,-72.67495,8/10/2009,Domestic,New Well,325,8,30,30
+600005,Shelburne,430,MOHAWK TRAIL,430 MOHAWK TRAIL Shelburne MA,,,5/14/2010,,,625,20,120,120
+600008,Shelburne,80,BASSETT ROAD,80 BASSETT ROAD Shelburne MA,,,5/10/2010,,,485,20,0,0
+600197,Shelburne,336,PATTEN ROAD,336 PATTEN ROAD Shelburne MA,,,10/1/2010,,,485,8,27,27
+600199,Shelburne,73,BROOK ROAD,73 BROOK ROAD Shelburne MA,,,10/6/2010,,,420,27,57,57
+600563,Shelburne,3,TAYLOR ROAD,3 TAYLOR ROAD Shelburne MA,,,12/29/2010,,,450,,0,0
+604517,Shelburne,246,Main Street,246 Main Street Shelburne MA,,,10/3/2011,,New Well,280,67,15,15
+611819,Shelburne,232,MAIN,232 MAIN Shelburne MA,42.62069,-72.73651,8/14/2012,,New Well,20,,15,15
+615134,Shelburne,97,LUCY FISKE ROAD,97 LUCY FISKE ROAD Shelburne MA,42.58345,-72.66192,10/31/2012,,New Well,185,19,11,11
+615137,Shelburne,97,LUCY FISKE ROAD,97 LUCY FISKE ROAD Shelburne MA,42.58343,-72.66201,,,Decommission,,,,0
+617252,Shelburne,441,MOHAWK TRAIL,441 MOHAWK TRAIL Shelburne MA,42.58835,-72.71869,12/10/2012,,Replacement,485,60,485,485
+617252,Shelburne,441,MOHAWK TRAIL,441 MOHAWK TRAIL Shelburne MA,42.58835,-72.71869,12/10/2012,,Replacement,485,60,89,89
+621473,Shelburne,,ALLEN ROAD, ALLEN ROAD Shelburne MA,42.5821,-72.68943,3/1/2013,,New Well,285,6,30,30
+7848,Monroe,147,Wales Road,147 Wales Road Monroe MA,,,4/11/2000,Irrigation,,422,20,70,70
+7853,Monroe,154,Butler Road,154 Butler Road Monroe MA,,,9/13/1999,Domestic,,282,15,40,40
+7855,Monroe,48,Lake Shore Drive,48 Lake Shore Drive Monroe MA,,,9/29/1999,Domestic,,142,5,18,18
+7858,Monroe,80,Reimers Road,80 Reimers Road Monroe MA,,,11/17/1999,Domestic,,262,70,30,30
+7862,Monroe,226,Lower Hampden Road,226 Lower Hampden Road Monroe MA,,,7/13/2000,Domestic,,225,8,35,35
+17398,Monroe,,Monely Phelps Road, Monely Phelps Road Monroe MA,,,7/8/2003,Domestic,,300,1,20,20
+143255,Monroe,Lot 20,Davis Road,Lot 20 Davis Road Monroe MA,42.7343,-72.9697,2/14/2006,Domestic,New Well,340,3,30,30
+150628,Monroe,Lot 55.1,Corner of Gore Road & Thayer Road,Lot 55.1 Corner of Gore Road & Thayer Road Monroe MA,42.723183,-72.125967,10/12/2007,Domestic,New Well,500,15,200,200
+278722,Monroe,,Readsboro Road, Readsboro Road Monroe MA,,,6/27/1995,Monitoring,New Well,15,,13,13
+278723,Monroe,,Main Road, Main Road Monroe MA,,,7/10/1993,Domestic,New Well,300,20,30,30
+278724,Monroe,,North Road and Raycroft Road, North Road and Raycroft Road Monroe MA,,,5/18/1990,Domestic,New Well,420,40,20,20
+278725,Monroe,,Moore's Road, Moore's Road Monroe MA,,,7/22/1988,Domestic,New Well,205,20,,0
+278726,Monroe,,Moore's Road, Moore's Road Monroe MA,,,7/21/1988,Domestic,New Well,55,,,0
+278727,Monroe,,,  Monroe MA,,,4/3/1987,Domestic,New Well,340,30,50,50
+278728,Monroe,,,  Monroe MA,,,4/1/1987,Domestic,New Well,380,5,20,20
+278729,Monroe,,,  Monroe MA,,,6/16/1984,Domestic,New Well,705,29,560,560
+278730,Monroe,,,  Monroe MA,,,11/6/1982,Domestic,New Well,180,2,15,15
+278731,Monroe,,Davis Road, Davis Road Monroe MA,,,10/27/1982,Domestic,New Well,380,11,8,8
+278732,Monroe,,,  Monroe MA,,,9/27/1972,Domestic,New Well,275,11,35,35
+278733,Monroe,,,  Monroe MA,,,4/11/1973,Industrial,New Well,275,0,,0
+300780,Monroe,,Main Road, Main Road Monroe MA,,,8/28/1998,Domestic,New Well,500,7,300,300
+300781,Monroe,,,  Monroe MA,,,5/28/1971,Industrial,New Well,400,50,30,30
+100087,Rowe,154,Leshure Road,154 Leshure Road Rowe MA,,,6/8/2001,Domestic,Replacement,105,,overflowing,0
+103939,Rowe,300,Zoar Road,300 Zoar Road Rowe MA,,,6/11/2001,Domestic,Replacement,405,,12,12
+105310,Rowe,49,Yankee Road,49 Yankee Road Rowe MA,,,8/31/2001,Monitoring,New Well,30,,23,23
+111474,Rowe,Lot 2,Cyrus Stage Road,Lot 2 Cyrus Stage Road Rowe MA,,,12/19/2002,Domestic,New Well,425,50,40,40
+111475,Rowe,64,Dell Road,64 Dell Road Rowe MA,,,12/27/2002,Domestic,Replacement,305,38,25,25
+111497,Rowe,Lot 18,Old Cyrus Stage Road,Lot 18 Old Cyrus Stage Road Rowe MA,,,3/18/2003,Domestic,New Well,165,3,10,10
+114303,Rowe,76,Davis Mine Road,76 Davis Mine Road Rowe MA,,,9/23/2002,Domestic,New Well,220,70,9,9
+116103,Rowe,,Monroe Hill Road, Monroe Hill Road Rowe MA,,,12/5/2003,Monitoring,Decommission,,0,,0
+122498,Rowe,87,Potter Hill Road,87 Potter Hill Road Rowe MA,,,10/21/2003,Domestic,Replacement,425,4,10,10
+122499,Rowe,60,Pond Road,60 Pond Road Rowe MA,,,10/22/2003,Domestic,Replacement,345,7,overflowing,0
+122516,Rowe,171,Zoar Road,171 Zoar Road Rowe MA,,,2/4/2004,Domestic,Replacement,445,25,25,25
+124229,Rowe,478,Tunnel Road,478 Tunnel Road Rowe MA,,,7/23/2003,Domestic,New Well,200,44,6,6
+131255,Rowe,228,Zoar Road,228 Zoar Road Rowe MA,,,6/16/2004,Domestic,Replacement,245,26,overflowing,0
+131263,Rowe,Lot 33,Ford Hill Road,Lot 33 Ford Hill Road Rowe MA,,,8/17/2004,Domestic,New Well,545,45,35,35
+131281,Rowe,377,Tunnell Road,377 Tunnell Road Rowe MA,,,9/8/2004,Domestic,New Well,245,39,22,22
+131302,Rowe,,Old Cyrus Stage Road, Old Cyrus Stage Road Rowe MA,,,3/5/2005,Domestic,New Well,305,80,12,12
+131322,Rowe,169,Ford Hill Road,169 Ford Hill Road Rowe MA,,,7/13/2005,Domestic,New Well,385,3,4,4
+135479,Rowe,86,Pond Road,86 Pond Road Rowe MA,,,6/8/2005,Public Water Supply,New Well,280,30,30,30
+145656,Rowe,Lot 56,Cyrus Stage Road,Lot 56 Cyrus Stage Road Rowe MA,42.710067,-71.884733,7/15/2006,Domestic,New Well,200,95,10,10
+152193,Rowe,,Monroe Hill Road, Monroe Hill Road Rowe MA,42.719583,-72.9358,11/30/2006,Public Water Supply,Decommission,396,320,168.2,168.2
+161618,Rowe,202,Leshures Road,202 Leshures Road Rowe MA,42.734,-72.878467,8/17/2010,Domestic,New Well,500,12,45,45
+162964,Rowe,63,Tatro Road,63 Tatro Road Rowe MA,42.674117,-72.890717,12/20/2010,Domestic,New Well,420,12,20,20
+260740,Rowe,123,Davis Mine Road,123 Davis Mine Road Rowe MA,42.689217,-72.864833,5/18/2009,Domestic,New Well,165,12,20,20
+276600,Rowe,124,Zoar Road,124 Zoar Road Rowe MA,42.678533,-72.9247,5/5/2010,Domestic,Replacement,245,45,20,20
+314767,Rowe,34,Stone Hill Road,34 Stone Hill Road Rowe MA,0,0,7/13/2011,Domestic,New Well,220,7,30,30
+601963,Rowe,14,POTTER ROAD,14 POTTER ROAD Rowe MA,,,11/17/2011,,,485,1,26,26
+606828,Rowe,49,YANKEE ROAD,49 YANKEE ROAD Rowe MA,42.7277,-72.92826,,,Decommission,,,,0
+14951,Heath,35,Mile Marker Bl,35 Mile Marker Bl Heath MA,,,8/21/2000,Domestic,,160,35,17,17
+14952,Heath,96,Taylor Brook Road,96 Taylor Brook Road Heath MA,,,10/25/1999,Domestic,,120,37,17,17
+14953,Heath,17,Shawnee Drive,17 Shawnee Drive Heath MA,,,8/31/1999,Domestic,,200,5,12,12
+22977,Heath,,Number Nine Road, Number Nine Road Heath MA,,,7/28/2000,Domestic,,140,48,12,12
+22978,Heath,,Knot Road, Knot Road Heath MA,,,6/29/1999,Domestic,,180,70,11,11
+22979,Heath,,Schoolhouse Road, Schoolhouse Road Heath MA,,,9/22/2000,Domestic,,205,17,50,50
+22980,Heath,,Rowe Road, Rowe Road Heath MA,,,10/3/2000,Domestic,,185,7,60,60
+22981,Heath,,Route 8A, Route 8A Heath MA,,,8/22/2000,Domestic,,125,18,,0
+22982,Heath,4,Vincent Road,4 Vincent Road Heath MA,,,7/13/2000,Domestic,,180,116,9,9
+22984,Heath,,Number Nine Road, Number Nine Road Heath MA,,,3/8/2000,Domestic,,225,88,25,25
+22985,Heath,1,East Main Street,1 East Main Street Heath MA,,,11/16/1999,,,65,33,10,10
+22986,Heath,Lot 9,Cheyanne Drive,Lot 9 Cheyanne Drive Heath MA,,,10/18/1999,Domestic,,,0,,0
+22987,Heath,,Jacobs Road, Jacobs Road Heath MA,,,8/13/1999,Domestic,,245,17,15,15
+22988,Heath,,Underwood Hill Road, Underwood Hill Road Heath MA,,,7/28/1999,Domestic,,225,3,20,20
+22989,Heath,,Route 8A, Route 8A Heath MA,,,7/28/1999,Domestic,,,0,,0
+22990,Heath,,Number Nine Road, Number Nine Road Heath MA,,,6/2/1999,Domestic,,285,32,overflow @ 1 gpm,0
+28185,Heath,,South Road, South Road Heath MA,,,5/8/1998,,,120,25,8,8
+28186,Heath,Lot 23-25,Cascade Drive,Lot 23-25 Cascade Drive Heath MA,,,7/29/1997,Domestic,,200,10,20,20
+28187,Heath,,Route 8A, Route 8A Heath MA,,,5/1/1971,Domestic,,115,8,,0
+28188,Heath,,Route 8A, Route 8A Heath MA,,,6/1/1971,Domestic,,170,14,,0
+28189,Heath,,Route 8A, Route 8A Heath MA,,,5/10/1971,Domestic,New Well,175,10,5,5
+28190,Heath,,Mohawk Estates, Mohawk Estates Heath MA,,,5/29/1971,Domestic,,200,8,,0
+28191,Heath,,Rowe Road, Rowe Road Heath MA,,,8/10/1966,Domestic,,85,14,20,20
+28192,Heath,Lot 6,Mowhalk Estate,Lot 6 Mowhalk Estate Heath MA,,,12/10/1970,Domestic,,125,10,,0
+28193,Heath,Lot 17,Flag Hill Road,Lot 17 Flag Hill Road Heath MA,,,12/1/1970,Domestic,,140,2,,0
+28194,Heath,,Fair Grounds, Fair Grounds Heath MA,,,12/12/1970,Irrigation,,150,8,15,15
+28195,Heath,,Dell Road, Dell Road Heath MA,,,10/30/1970,,,105,10,,0
+28196,Heath,,Route 8A, Route 8A Heath MA,,,9/25/1970,Domestic,,100,10,,0
+28197,Heath,,South Road, South Road Heath MA,,,8/13/1970,Domestic,,155,36,,0
+28198,Heath,,Tunnel Road, Tunnel Road Heath MA,,,8/9/1966,Domestic,,145,10,25,25
+28199,Heath,,Route 8A, Route 8A Heath MA,,,5/29/1970,,,75,20,,0
+28200,Heath,,Avery Brook Road, Avery Brook Road Heath MA,,,11/10/1969,Domestic,,125,12,10,10
+28201,Heath,,Avery Brook Road, Avery Brook Road Heath MA,,,11/7/1969,Domestic,,75,4,,0
+28202,Heath,,Rogue Road, Rogue Road Heath MA,,,6/18/1970,Domestic,,100,6,,0
+28203,Heath,,Route 8A, Route 8A Heath MA,,,3/19/1968,Domestic,,100,16,20,20
+28204,Heath,,,  Heath MA,,,6/25/1965,Domestic,,300,109,,0
+28205,Heath,,Route 8A, Route 8A Heath MA,,,8/16/1971,Domestic,,100,5,,0
+28206,Heath,,Fair Ground Road, Fair Ground Road Heath MA,,,8/4/1966,Domestic,,175,20,35,35
+28207,Heath,,Avery Brook Road, Avery Brook Road Heath MA,,,6/30/1997,Domestic,,156,28,28,28
+28208,Heath,24,Chipewa Drive,24 Chipewa Drive Heath MA,,,9/29/1997,Domestic,,240,6,20,20
+28209,Heath,265,Number Nine Road,265 Number Nine Road Heath MA,,,8/13/1997,Domestic,,300,16,31,31
+28210,Heath,,Sadago Road, Sadago Road Heath MA,,,7/1/1997,Domestic,,175,22,15,15
+28211,Heath,,Town Hill Road, Town Hill Road Heath MA,,,7/28/1997,Domestic,,145,6,10,10
+28212,Heath,,Ben Road, Ben Road Heath MA,,,6/15/1998,Domestic,,160,17,15,15
+28213,Heath,,Number Nine Road, Number Nine Road Heath MA,,,5/19/1998,Domestic,,225,88,20,20
+28214,Heath,,Number Nine Road, Number Nine Road Heath MA,,,8/19/1998,Domestic,,505,22,18,18
+28215,Heath,,Jct. Route 8A & Jacobs [Roads], Jct. Route 8A & Jacobs [Roads] Heath MA,,,4/1/1999,Domestic,,265,8,.5,0.5
+28216,Heath,,Royer Road, Royer Road Heath MA,,,4/6/1999,Domestic,,305,25,10,10
+28217,Heath,,Branch Hill Road, Branch Hill Road Heath MA,,,5/21/1997,Domestic,,255,14,10,10
+28218,Heath,,E. Colrain Road, E. Colrain Road Heath MA,,,4/15/1997,Domestic,,150,3,25,25
+28219,Heath,,Branch Hill Road, Branch Hill Road Heath MA,,,11/1/1996,Domestic,,195,38,16,16
+28220,Heath,,South Road, South Road Heath MA,,,10/25/1996,Domestic,,215,26,30,30
+28221,Heath,,Route 8A, Route 8A Heath MA,,,9/6/1996,Domestic,,275,8,20,20
+28222,Heath,,Route 8A, Route 8A Heath MA,,,7/2/1996,Domestic,,125,18,5,5
+28223,Heath,,Sumner & Stetson Roads, Sumner & Stetson Roads Heath MA,,,10/27/1995,Domestic,,150,4,20,20
+28224,Heath,,Colrain Stage Road, Colrain Stage Road Heath MA,,,7/8/1995,Domestic,,280,7,8,8
+100085,Heath,68,Rowe Road,68 Rowe Road Heath MA,,,6/6/2001,Domestic,Replacement,165,,30,30
+100086,Heath,208,Taylor Brook Road,208 Taylor Brook Road Heath MA,,,6/7/2001,Domestic,Replacement,105,,Overflowing,0
+103907,Heath,29,East Main Street,29 East Main Street Heath MA,,,6/6/2001,Domestic,Replacement,105,10,10,10
+103909,Heath,21,Rowe Road,21 Rowe Road Heath MA,,,7/25/2001,Domestic,Replacement,485,16,6,6
+103935,Heath,20,Flagg Hill Branch Road,20 Flagg Hill Branch Road Heath MA,,,7/25/2001,Domestic,New Well,165,22,20,20
+103940,Heath,11,Ledges Road,11 Ledges Road Heath MA,,,6/8/2001,Domestic,Replacement,105,,10,10
+107203,Heath,110,Burrington Road,110 Burrington Road Heath MA,,,2/8/2002,Domestic,New Well,300,52,,0
+109379,Heath,120,Burrington Road,120 Burrington Road Heath MA,,,2/14/2002,Domestic,New Well,180,35,30,30
+111427,Heath,21,Bassett Road,21 Bassett Road Heath MA,,,7/17/2002,Domestic,Replacement,265,20,18,18
+111494,Heath,1a,Brunelle Road,1a Brunelle Road Heath MA,,,3/12/2003,Domestic,New Well,365,65,65,65
+118249,Heath,30,Waterfall Dr.,30 Waterfall Dr. Heath MA,,,11/5/2002,Domestic,New Well,140,80,9,9
+118480,Heath,14,Apachie Drive,14 Apachie Drive Heath MA,,,11/8/2002,Domestic,New Well,220,110,16,16
+122452,Heath,19,Sadaga Road,19 Sadaga Road Heath MA,,,6/10/2003,Domestic,New Well,245,50,30,30
+122467,Heath,52,Avery Brook Road,52 Avery Brook Road Heath MA,,,7/31/2003,Domestic,Replacement,145,18,32,32
+122468,Heath,Lot 5A,Flagg Hill Road,Lot 5A Flagg Hill Road Heath MA,,,7/30/2003,Domestic,New Well,485,0,39,39
+122501,Heath,10,Rowe Road,10 Rowe Road Heath MA,,,10/24/2003,Domestic,New Well,465,7,60,60
+122502,Heath,11,Shawnee Drive,11 Shawnee Drive Heath MA,,,10/23/2003,Domestic,Replacement,200,5,25,25
+122528,Heath,221,Number Nine Road,221 Number Nine Road Heath MA,,,3/3/2004,Domestic,Replacement,485,25,overflowing,0
+124152,Heath,51A,Taylor Brook Road,51A Taylor Brook Road Heath MA,,,8/25/2003,Domestic,New Well,120,15,10,10
+124207,Heath,4,Lakeview Drive,4 Lakeview Drive Heath MA,,,6/12/2003,Domestic,New Well,160,2,8,8
+124227,Heath,6,Westbrook Street,6 Westbrook Street Heath MA,,,7/22/2003,Domestic,New Well,200,1,40,40
+124228,Heath,9,West Brook Drive,9 West Brook Drive Heath MA,,,7/22/2003,Domestic,New Well,240,1.5,40,40
+131464,Heath,,Barrington Road, Barrington Road Heath MA,,,10/12/2004,Vapor,New Well,7,0,5,5
+133538,Heath,29,Judd Road,29 Judd Road Heath MA,,,9/29/2004,Domestic,New Well,160,25,22,22
+134883,Heath,23,Route 8A,23 Route 8A Heath MA,,,1/25/2005,Domestic,New Well,240,2,15,15
+134884,Heath,250,South Road,250 South Road Heath MA,,,1/31/2005,Domestic,Replacement,160,1,20,20
+135488,Heath,64,Long Hill Road,64 Long Hill Road Heath MA,,,6/6/2005,Domestic,New Well,120,5,5,5
+141219,Heath,142,Branch Hill Road,142 Branch Hill Road Heath MA,,,1/19/2006,Domestic,Decommission,,0,,0
+141220,Heath,142,Branch Hill Road,142 Branch Hill Road Heath MA,,,1/13/2006,Domestic,Replacement,265,85,Overflowing,0
+141221,Heath,238,Route 8A,238 Route 8A Heath MA,,,1/20/2006,Domestic,New Well,325,15,20,20
+141222,Heath,136,South Road,136 South Road Heath MA,,,1/26/2006,Domestic,Replacement,105,0,20,20
+141248,Heath,37,Sherman Drive,37 Sherman Drive Heath MA,,,6/1/2006,Domestic,Replacement,225,42,20,20
+144998,Heath,112,Long Hill Road,112 Long Hill Road Heath MA,42.682983,-72.83475,7/24/2006,Domestic,New Well,,0,10,10
+145655,Heath,89,Number Nine Road,89 Number Nine Road Heath MA,,,6/15/2006,Domestic,New Well,245,78,60,60
+145673,Heath,Lot 4-2,Avery Brook Road,Lot 4-2 Avery Brook Road Heath MA,42.649633,-72.812633,9/28/2006,Domestic,New Well,325,12,40,40
+149021,Heath,332,Route 8A,332 Route 8A Heath MA,42.72625,-72.814317,3/2/2007,Domestic,New Well,300,28,50,50
+149026,Heath,42,Shawnee Drive,42 Shawnee Drive Heath MA,42.66975,-72.791117,11/28/2006,Domestic,New Well,120,3,20,20
+151223,Heath,15,South Road,15 South Road Heath MA,42.67215,-72.820917,6/18/2007,Domestic,New Well,320,17,10,10
+154655,Heath,37,Sherman Drive,37 Sherman Drive Heath MA,42.680267,-72.8511,9/29/2007,Domestic,New Well,325,29,40,40
+159895,Heath,11,Long Hill Road,11 Long Hill Road Heath MA,42.680167,-72.835533,11/2/2009,Domestic,New Well,300,17,80,80
+251494,Heath,37,Underwood Hill Road,37 Underwood Hill Road Heath MA,42.725283,-72.83275,4/28/2008,Irrigation,New Well,325,6,29,29
+251632,Heath,9,Road,9 Road Heath MA,,,7/9/1995,Domestic,New Well,180,58,12,12
+251633,Heath,,Chippewa Drive, Chippewa Drive Heath MA,,,5/22/1995,Domestic,New Well,220,1.5,4,4
+251634,Heath,,Mohawk Beach Drive, Mohawk Beach Drive Heath MA,,,5/20/1995,Domestic,New Well,400,65,,0
+251635,Heath,,Jacobs Road, Jacobs Road Heath MA,,,11/16/1994,Public Water Supply,New Well,500,42,25,25
+251636,Heath,,Burrington Road, Burrington Road Heath MA,,,8/29/1994,Domestic,New Well,300,1,30,30
+251637,Heath,,Colrain Brook Road, Colrain Brook Road Heath MA,,,11/20/1994,Domestic,New Well,140,108,24,24
+251638,Heath,,Summer Stetson Road, Summer Stetson Road Heath MA,,,8/25/1993,Domestic,New Well,220,2,18,18
+251641,Heath,,Jackson Hill Road (Route 8A), Jackson Hill Road (Route 8A) Heath MA,,,7/26/1995,Domestic,New Well,320,61,15,15
+251642,Heath,,Route 8A, Route 8A Heath MA,,,7/7/1993,Domestic,New Well,180,68,1.5,1.5
+251643,Heath,,Under Hill Road, Under Hill Road Heath MA,,,9/15/1993,Domestic,New Well,380,9,0,0
+251644,Heath,,Avery Brook Road, Avery Brook Road Heath MA,,,9/25/1991,Domestic,New Well,200,10,15,15
+251645,Heath,,South Road, South Road Heath MA,,,11/2/1991,Domestic,New Well,7,100,9,9
+251647,Heath,,Sadoga Road, Sadoga Road Heath MA,,,11/23/1991,Domestic,New Well,120,8,8,8
+251648,Heath,,Colrain Stage Road, Colrain Stage Road Heath MA,,,11/2/1993,Select,Select,275,0,20,20
+251649,Heath,,Main Street, Main Street Heath MA,,,10/1/1993,Domestic,New Well,275,26,18,18
+251650,Heath,,Avery Brook Road, Avery Brook Road Heath MA,,,9/30/1993,Domestic,New Well,215,86,10,10
+251651,Heath,,Colrain Road, Colrain Road Heath MA,,,5/31/1994,Domestic,New Well,195,12,30,30
+251652,Heath,,Wigwam Drive, Wigwam Drive Heath MA,,,8/31/1994,Domestic,New Well,140,1,15,15
+251653,Heath,,Route 8A, Route 8A Heath MA,,,10/6/1994,Domestic,New Well,100,17,8,8
+251654,Heath,,Avery Road, Avery Road Heath MA,,,9/13/1994,Domestic,New Well,125,4,12,12
+251655,Heath,,Route 8A, Route 8A Heath MA,,,6/2/1995,Domestic,New Well,195,16,18,18
+251656,Heath,,Long Hill Road, Long Hill Road Heath MA,,,6/2/1995,Domestic,New Well,125,38,10,10
+251664,Heath,,Sadoga Road, Sadoga Road Heath MA,,,10/22/1994,Select,Decommission,280,10,3,3
+251665,Heath,,Summer Stetson Road, Summer Stetson Road Heath MA,,,10/10/1992,Domestic,New Well,160,8,9,9
+251666,Heath,,Cyprus Stage Road, Cyprus Stage Road Heath MA,,,5/2/1992,Domestic,New Well,125,24,20,20
+251667,Heath,,East Brook Drive, East Brook Drive Heath MA,,,9/25/1992,Domestic,New Well,100,25,30,30
+251668,Heath,,Ben Road, Ben Road Heath MA,,,11/4/1992,Domestic,New Well,140,19,15,15
+251669,Heath,,Brook Road, Brook Road Heath MA,,,6/9/1993,Domestic,New Well,200,4,25,25
+251670,Heath,,Madoc Street, Madoc Street Heath MA,,,7/9/1993,Domestic,New Well,120,6,14,14
+251673,Heath,,Colrain Brook Road, Colrain Brook Road Heath MA,,,8/24/1991,Domestic,New Well,275,5,25,25
+251675,Heath,,Cascade Drive, Cascade Drive Heath MA,,,6/12/1991,Domestic,New Well,200,5,20,20
+251682,Heath,,Water Fall Road, Water Fall Road Heath MA,,,6/4/1991,Domestic,New Well,140,114,5,5
+251683,Heath,,Rowe Road, Rowe Road Heath MA,,,12/11/1990,Domestic,New Well,140,8,10,10
+251684,Heath,,Route 8A, Route 8A Heath MA,,,10/31/1990,Monitoring,New Well,8,,5,5
+251685,Heath,,Bray Road, Bray Road Heath MA,,,8/25/1990,Domestic,New Well,120,40,5,5
+251686,Heath,,Colrain Mountain Road, Colrain Mountain Road Heath MA,,,7/26/1990,Domestic,New Well,215,5,34,34
+251687,Heath,,East Brook Road, East Brook Road Heath MA,,,6/23/1990,Domestic,New Well,220,5,10,10
+251688,Heath,,Main Street, Main Street Heath MA,,,6/16/1990,Domestic,New Well,175,45,8,8
+251689,Heath,,Cascade Road, Cascade Road Heath MA,,,3/25/1990,Domestic,New Well,100,7,,0
+251690,Heath,,Avery Brook Road, Avery Brook Road Heath MA,,,10/27/1989,Domestic,New Well,130,6,28,28
+251691,Heath,,Burnt Hill Road, Burnt Hill Road Heath MA,,,10/27/1989,Domestic,New Well,175,7,28,28
+251692,Heath,,Rowe Road, Rowe Road Heath MA,,,10/26/1989,Domestic,New Well,100,0,5.5,5.5
+251694,Heath,71 & 72,Colrain Road,71 & 72 Colrain Road Heath MA,,,9/9/1989,Domestic,New Well,100,14,20,20
+251695,Heath,,Wigwam Street, Wigwam Street Heath MA,,,9/6/1989,Domestic,New Well,320,6,,0
+251696,Heath,,Burrington Hill Road, Burrington Hill Road Heath MA,,,8/1/1989,Domestic,New Well,180,6,20,20
+251697,Heath,,Mohawk Beach Road, Mohawk Beach Road Heath MA,,,7/18/1989,Domestic,New Well,260,20,20,20
+251698,Heath,,Flagg Hill Road, Flagg Hill Road Heath MA,,,7/6/1989,Domestic,New Well,360,25,,0
+251702,Heath,,Rowe Road, Rowe Road Heath MA,,,6/4/1989,Domestic,New Well,145,85,,0
+251703,Heath,2,Colrain Stage Road,2 Colrain Stage Road Heath MA,,,6/12/1989,Domestic,New Well,220,4,,0
+251704,Heath,,Town Farm Road, Town Farm Road Heath MA,,,5/27/1989,Domestic,New Well,235,4,28,28
+251707,Heath,,Hosmer Road, Hosmer Road Heath MA,,,5/22/1989,Domestic,New Well,260,2,50,50
+251708,Heath,,Rowe Road, Rowe Road Heath MA,,,5/20/1989,Domestic,New Well,300,15,20,20
+251709,Heath,,Rowe Road, Rowe Road Heath MA,,,4/29/1989,Domestic,New Well,220,21,20,20
+251710,Heath,,Underwood Hill Road, Underwood Hill Road Heath MA,,,4/13/1989,Domestic,New Well,220,7,20,20
+251711,Heath,,Shawnee Lane, Shawnee Lane Heath MA,,,3/22/1989,Domestic,New Well,400,3,20,20
+251713,Heath,,Skyline Farm Road, Skyline Farm Road Heath MA,,,3/16/1989,Domestic,New Well,320,4.5,17,17
+251715,Heath,,Route 8A, Route 8A Heath MA,,,3/15/1989,Domestic,New Well,160,8,20,20
+251716,Heath,,Ben Road, Ben Road Heath MA,,,3/9/1989,Domestic,New Well,120,8,10,10
+251720,Heath, ,Nine Road,  Nine Road Heath MA,,,3/10/1989,Domestic,New Well,120,62,20,20
+251721,Heath,,Nine Road, Nine Road Heath MA,,,3/9/1989,Domestic,New Well,120,50,10,10
+251723,Heath,,Nine Road, Nine Road Heath MA,,,3/8/1989,Domestic,New Well,120,51,flowing,0
+251725,Heath,,Route 8A, Route 8A Heath MA,,,3/9/1989,Domestic,New Well,140,65,,0
+251726,Heath,,Ben Road, Ben Road Heath MA,,,11/7/1988,Domestic,New Well,220,3,flowing,0
+251727,Heath,,Route 8A, Route 8A Heath MA,,,11/17/1988,Domestic,New Well,220,17,36,36
+251728,Heath,,MOhawk Estates, MOhawk Estates Heath MA,,,9/23/1988,Domestic,New Well,280,72,10,10
+251729,Heath,,Burrington Road, Burrington Road Heath MA,,,9/22/1988,Domestic,New Well,160,48,2,2
+251730,Heath,,Road #9, Road #9 Heath MA,,,9/5/1988,Domestic,New Well,200,86,,0
+251731,Heath,,Route 8A, Route 8A Heath MA,,,8/29/1988,Domestic,New Well,340,34,20,20
+251732,Heath,,Cherokee Road, Cherokee Road Heath MA,,,8/23/1988,Domestic,New Well,160,11,11,11
+251733,Heath,,corner of Deer Run, corner of Deer Run Heath MA,,,8/24/1988,Domestic,New Well,200,8,6,6
+251734,Heath,,South Road, South Road Heath MA,,,7/19/1988,Domestic,New Well,130,15,15,15
+251736,Heath,,Route 2, Route 2 Heath MA,,,6/1/1988,Domestic,New Well,80,10,10,10
+251737,Heath,,Ben Road, Ben Road Heath MA,,,6/1/1988,Domestic,New Well,130,6,15,15
+251738,Heath,,Deer Run Path, Deer Run Path Heath MA,,,6/6/1988,Domestic,New Well,400,10,,0
+251739,Heath,,Sumner Stetson Road, Sumner Stetson Road Heath MA,,,6/2/1988,Domestic,New Well,160,38,,0
+251740,Heath,,Clearwater Drive, Clearwater Drive Heath MA,,,6/1/1988,Domestic,New Well,260,27,,0
+251741,Heath,,Bassett Road, Bassett Road Heath MA,,,5/10/1988,Domestic,New Well,100,29,,0
+251742,Heath,,Colrain Brook Road, Colrain Brook Road Heath MA,,,4/23/1988,Domestic,New Well,130,25,22,22
+251743,Heath,,Sadoga Road, Sadoga Road Heath MA,,,2/26/1988,Domestic,New Well,190,6,,0
+251744,Heath,,Nine Road, Nine Road Heath MA,,,11/17/1988,Domestic,New Well,200,50,15,15
+251745,Heath,,Chippewa Drive, Chippewa Drive Heath MA,,,11/7/1987,Domestic,New Well,180,5,5,5
+251746,Heath,,Town Farm Road, Town Farm Road Heath MA,,,5/30/1987,Domestic,New Well,130,2,15,15
+251747,Heath,,South Road, South Road Heath MA,,,4/22/1987,Domestic,New Well,205,,25,25
+251748,Heath,,Knot Hill Road, Knot Hill Road Heath MA,,,10/10/1986,Domestic,New Well,140,29,20,20
+251749,Heath,,Burrington Road, Burrington Road Heath MA,,,4/17/1986,Domestic,New Well,205,2,17,17
+251750,Heath,,Bratt Road, Bratt Road Heath MA,,,7/7/1984,Domestic,New Well,75,9,15,15
+251751,Heath,,Upper Road, Upper Road Heath MA,,,2/1/1984,Domestic,New Well,400,33,25,25
+251753,Heath,,Burnt Hill Road, Burnt Hill Road Heath MA,,,8/7/1983,Domestic,New Well,127,15,34,34
+251755,Heath,,Mohawk Estates, Mohawk Estates Heath MA,,,10/14/1982,Domestic,New Well,245,20,,0
+251756,Heath,,Mohawk Estates, Mohawk Estates Heath MA,,,10/13/1982,Domestic,New Well,350,20,,0
+251757,Heath,,Route 8A, Route 8A Heath MA,,,10/2/1982,Domestic,New Well,100,12,26,26
+251758,Heath,,Summer Stetson Road, Summer Stetson Road Heath MA,,,10/6/1981,Domestic,New Well,240,24,20,20
+251759,Heath,,Noduc Drive, Noduc Drive Heath MA,,,5/1/1981,Domestic,New Well,180,5,20,20
+251760,Heath,,Rowe Road, Rowe Road Heath MA,,,3/10/1981,Domestic,New Well,180,2,,0
+251761,Heath,,Nine Road, Nine Road Heath MA,,,2/3/1981,Domestic,New Well,380,131,,0
+251762,Heath,,Papouse Road, Papouse Road Heath MA,,,1/15/1981,Domestic,New Well,200,4,20,20
+251763,Heath,,Ceasar Drive, Ceasar Drive Heath MA,,,12/5/1980,Domestic,New Well,200,32,,0
+251764,Heath,,Colrain State Road, Colrain State Road Heath MA,,,10/14/1980,Domestic,New Well,220,5,20,20
+251765,Heath,,Colrain Brook Road, Colrain Brook Road Heath MA,,,10/13/1980,Domestic,New Well,175,95,15,15
+251766,Heath,,Route 8A, Route 8A Heath MA,,,10/10/1980,Domestic,New Well,65,23,10,10
+251767,Heath,,Route 8A, Route 8A Heath MA,,,9/16/1980,Domestic,New Well,140,15,,0
+251768,Heath,,Sumner Stetson Road, Sumner Stetson Road Heath MA,,,5/30/1980,Domestic,New Well,350,2,,0
+251769,Heath,,West Branch Road, West Branch Road Heath MA,,,5/13/1980,Domestic,New Well,180,26,5,5
+251770,Heath,,A.L. Stetson Road, A.L. Stetson Road Heath MA,,,1/4/1980,Domestic,New Well,210,10,,0
+251771,Heath,,Royer Road, Royer Road Heath MA,,,10/16/1979,Domestic,New Well,65,11,,0
+251773,Heath,,Sumner Stetson Road, Sumner Stetson Road Heath MA,,,9/18/1979,Domestic,New Well,280,4,,0
+251774,Heath,,Royer Road, Royer Road Heath MA,,,9/1/1979,Domestic,New Well,180,1.5,30,30
+251775,Heath,,Jacksonville Stage Road, Jacksonville Stage Road Heath MA,,,9/10/1979,Domestic,New Well,190,10,30,30
+251776,Heath,,Fly Hill Road, Fly Hill Road Heath MA,,,8/14/1979,Domestic,New Well,180,10,30,30
+251777,Heath,,Bray Road, Bray Road Heath MA,,,8/11/1979,Public Water Supply,New Well,150,30,15,15
+251778,Heath,,Burrington Hill Road, Burrington Hill Road Heath MA,,,8/9/1979,Domestic,New Well,130,33,,0
+251779,Heath,,Road # 9, Road # 9 Heath MA,,,7/31/1979,Domestic,New Well,230,40,20,20
+251780,Heath,,Route 8A, Route 8A Heath MA,,,7/30/1979,Domestic,New Well,217,33,,0
+251781,Heath,,Route 8A, Route 8A Heath MA,,,6/20/1979,Domestic,New Well,155,16,10,10
+251782,Heath,,Sadoga Road, Sadoga Road Heath MA,,,5/23/1979,Domestic,New Well,105,16,10,10
+251783,Heath,,Route 8A, Route 8A Heath MA,,,5/22/1979,Domestic,New Well,205,40,10,10
+251784,Heath,,Route 8A, Route 8A Heath MA,,,4/27/1979,Domestic,New Well,60,,20,20
+251785,Heath,,Colrain Brook Road, Colrain Brook Road Heath MA,,,10/27/1978,Domestic,New Well,105,,overflow,0
+251786,Heath,,Dell Road, Dell Road Heath MA,,,10/26/1978,Domestic,New Well,255,42,10,10
+251787,Heath,,Mohawk Ranch Estates, Mohawk Ranch Estates Heath MA,,,8/28/1978,Domestic,New Well,,,,0
+251788,Heath,,Jacksonville Stage Road, Jacksonville Stage Road Heath MA,,,8/28/1978,Domestic,New Well,,,,0
+251789,Heath,,Mohawk Beach Estates, Mohawk Beach Estates Heath MA,,,8/28/1978,Domestic,New Well,,,,0
+251790,Heath,,Mohawk Beach Estates, Mohawk Beach Estates Heath MA,,,8/28/1978,Domestic,New Well,,,,0
+251791,Heath,,Mohawk Beach Estates, Mohawk Beach Estates Heath MA,,,8/28/1978,Domestic,New Well,,,,0
+251792,Heath,,Mohawk Beach Estates, Mohawk Beach Estates Heath MA,,,8/28/1978,Domestic,New Well,,,,0
+251794,Heath,,Mohawk Beach Estates, Mohawk Beach Estates Heath MA,,,8/10/1978,Domestic,New Well,,,20,20
+251795,Heath,,Mohawk Beach Estates, Mohawk Beach Estates Heath MA,,,8/8/1978,Domestic,New Well,,,2,2
+251796,Heath,,Mohawk Beach Estates, Mohawk Beach Estates Heath MA,,,8/4/1978,Domestic,New Well,,,20,20
+251798,Heath,,Mohawk Beach Estates, Mohawk Beach Estates Heath MA,,,7/31/1978,Domestic,New Well,,,15,15
+251799,Heath,,Mohawk Estates Beach House, Mohawk Estates Beach House Heath MA,,,7/22/1978,Public Water Supply,New Well,,,20,20
+251800,Heath,,Rowe Road, Rowe Road Heath MA,,,10/13/1974,Domestic,New Well,155,123,25,25
+251801,Heath,,Burrington Road, Burrington Road Heath MA,,,8/27/1974,Domestic,New Well,155,55,40,40
+251802,Heath,,Brunelle Road, Brunelle Road Heath MA,,,7/12/1974,Domestic,New Well,180,40,20,20
+251803,Heath,,Main Street, Main Street Heath MA,,,10/23/1973,Domestic,New Well,130,25,20,20
+251804,Heath,,Swamp Road, Swamp Road Heath MA,,,9/22/1972,Domestic,New Well,100,11,20,20
+251805,Heath,,Avery Brook Road, Avery Brook Road Heath MA,,,9/1/1972,Domestic,New Well,135,0,,0
+251807,Heath,,Ben Road, Ben Road Heath MA,,,4/23/1988,Domestic,New Well,275,0,overflow,0
+251871,Heath,,Route 8A, Route 8A Heath MA,,,11/21/1983,Domestic,New Well,170,4,,0
+251917,Heath,103,Avery Brook Road,103 Avery Brook Road Heath MA,42.658167,-72.814167,6/19/2008,Domestic,Replacement,145,8,24,24
+257415,Heath,68,Burrington Road,68 Burrington Road Heath MA,42.651517,-72.825017,1/22/2009,Domestic,Replacement,205,9,10,10
+262639,Heath,63,Waterfall Drive,63 Waterfall Drive Heath MA,42.674083,-72.7903,7/2/2009,Domestic,New Well,160,104,35,35
+263599,Heath,120,Taylor Brook Road,120 Taylor Brook Road Heath MA,42.674617,-72.796233,8/4/2009,Domestic,Deepen,425,,0,0
+267948,Heath,274,8A North,274 8A North Heath MA,42.719167,-72.815317,11/23/2009,Domestic,New Well,240,6,50,50
+600440,Heath,17,COLRAIN STAGE ROAD,17 COLRAIN STAGE ROAD Heath MA,,,12/14/2010,,,165,45,20,20
+600455,Heath,93,AVERY BROOK ROAD,93 AVERY BROOK ROAD Heath MA,,,12/20/2010,,,225,9,0,0
+600533,Heath,113,NUMBER NINE ROAD,113 NUMBER NINE ROAD Heath MA,,,12/7/2010,,,325,70,25,25
+601943,Heath,120,BURRINGTON HILL ROAD,120 BURRINGTON HILL ROAD Heath MA,,,10/26/2011,,,245,7,20,20
+602422,Heath,,JACKSONVILLE STAGE ROAD, JACKSONVILLE STAGE ROAD Heath MA,,,2/16/2012,,,205,15,6,6
+607346,Heath,70,UNDERWOOD HILL ROAD,70 UNDERWOOD HILL ROAD Heath MA,42.72208,-72.82902,6/18/2012,,New Well,225,4,17,17
+610564,Heath,206,SUMNER-STETSON RD,206 SUMNER-STETSON RD Heath MA,42.72957,-72.8384,8/10/2012,,New Well,405,4,50,50
+3914,Colrain,20,Old County Road,20 Old County Road Colrain MA,,,11/28/2000,Domestic,New Well,400,15,18,18
+3915,Colrain,113,Main Street,113 Main Street Colrain MA,,,10/27/2000,Domestic,New Well,140,10,14,14
+3916,Colrain,,E Colrain Road, E Colrain Road Colrain MA,,,10/17/2000,Domestic,New Well,500,5,22,22
+3917,Colrain,,Going South On Smead Road O.1 S Of Graves Road On, Going South On Smead Road O.1 S Of Graves Road On Colrain MA,,,9/7/1999,Domestic,New Well,325,6,20,20
+3918,Colrain,,From Colrain- Shleburne Road, From Colrain- Shleburne Road Colrain MA,,,8/9/2000,Domestic,New Well,445,137,overflow 1gt/min,0
+3919,Colrain,,From Rte 112 Take Thompson Hill Road, From Rte 112 Take Thompson Hill Road Colrain MA,,,4/27/2000,Domestic,New Well,305,47,overflow 1qt/min,0
+3946,Colrain,310,West Leyden Road,310 West Leyden Road Colrain MA,,,9/14/2000,Domestic,New Well,360,15,8,8
+4868,Colrain,62,Adamsville Road,62 Adamsville Road Colrain MA,,,4/16/2001,Domestic,New Well,260,12,0,0
+12946,Colrain,318,Green River Road,318 Green River Road Colrain MA,,,1/30/2002,Domestic,,160,37,20,20
+15032,Colrain,94,Catamount,94 Catamount Colrain MA,,,7/18/2002,Irrigation,,220,26,flowing,0
+22781,Colrain,,Parington Road, Parington Road Colrain MA,,,8/7/1999,Domestic,New Well,400,6,17,17
+22782,Colrain,,South on Route 112, South on Route 112 Colrain MA,,,3/10/2000,Domestic,New Well,285,20,,0
+100068,Colrain,96,Jurek Road,96 Jurek Road Colrain MA,,,4/4/2001,Domestic,Replacement,205,,22,22
+103919,Colrain,38,Adams Place Road,38 Adams Place Road Colrain MA,,,,Domestic,Replacement,445,6,160,160
+104458,Colrain,,Main Road (enclay Road -along River), Main Road (enclay Road -along River) Colrain MA,,,1/10/2002,Monitoring,New Well,15,0,4,4
+107196,Colrain,258,Shelburne Line Road,258 Shelburne Line Road Colrain MA,,,1/2/2002,Domestic,New Well,120,10,8,8
+107202,Colrain,186,Ed Clark Road,186 Ed Clark Road Colrain MA,,,2/8/2002,Domestic,New Well,200,40,7,7
+107433,Colrain,159,Adamsville Road,159 Adamsville Road Colrain MA,,,12/12/2001,Domestic,Replacement,525,15,5,5
+107442,Colrain,26,Van Neiss Road,26 Van Neiss Road Colrain MA,,,1/23/2002,Domestic,New Well,305,3,10,10
+107443,Colrain,206,East Colrain Road,206 East Colrain Road Colrain MA,,,1/22/2002,Domestic,Replacement,205,5,31,31
+107447,Colrain,,Franklin Hill Road, Franklin Hill Road Colrain MA,,,2/20/2002,Domestic,New Well,445,7,80,80
+107448,Colrain,162,Thompson Road,162 Thompson Road Colrain MA,,,2/21/2002,Domestic,New Well,165,9,20,20
+109456,Colrain,152,Wilson Hill Road,152 Wilson Hill Road Colrain MA,,,3/17/2002,Domestic,New Well,200,3,11,11
+109464,Colrain,,Nelson Road, Nelson Road Colrain MA,,,7/1/2002,Domestic,New Well,400,30,20,20
+109466,Colrain,419,Main Road,419 Main Road Colrain MA,,,4/3/2002,Domestic,New Well,400,92,16,16
+109477,Colrain,267,East Colrain Road,267 East Colrain Road Colrain MA,,,4/29/2002,Domestic,,,0,13,13
+109498,Colrain,25,Coburn Street,25 Coburn Street Colrain MA,,,3/14/2002,Domestic,New Well,320,116,10,10
+111419,Colrain,,Franklin Hill Road, Franklin Hill Road Colrain MA,,,7/2/2002,Domestic,New Well,405,7,8,8
+111420,Colrain,,Franklin Hill Road, Franklin Hill Road Colrain MA,,,7/3/2002,Domestic,New Well,145,7,14,14
+111428,Colrain,150,Franklin Hill Road,150 Franklin Hill Road Colrain MA,,,7/18/2002,Domestic,New Well,445,8,40,40
+111433,Colrain,,East Colrain Road, East Colrain Road Colrain MA,,,8/13/2002,Domestic,New Well,225,130,98,98
+111470,Colrain,57,West Leyden Road,57 West Leyden Road Colrain MA,,,12/9/2002,Domestic,New Well,225,45,6,6
+111471,Colrain,205,Greenfield Road,205 Greenfield Road Colrain MA,,,12/6/2002,Domestic,New Well,305,36,overflowing,0
+111476,Colrain,7,Shearer Road,7 Shearer Road Colrain MA,,,12/30/2002,Domestic,Replacement,345,8,20,20
+111483,Colrain,34,Adamsville Road,34 Adamsville Road Colrain MA,,,1/3/2003,Domestic,Replacement,125,38,15,15
+113914,Colrain,,Factory Site- Rt. 112, Factory Site- Rt. 112 Colrain MA,,,6/21/2001,Monitoring,New Well,18,0,11,11
+114283,Colrain,341,Main Road,341 Main Road Colrain MA,,,5/24/2002,Domestic,New Well,200,53,23,23
+118201,Colrain,415,Main Road,415 Main Road Colrain MA,,,9/30/2002,Domestic,Replacement,520,48,14,14
+118373,Colrain,110,Calvin Combs Road,110 Calvin Combs Road Colrain MA,,,10/25/2002,Domestic,New Well,280,3,30,30
+121259,Colrain,416,Main Road,416 Main Road Colrain MA,,,8/3/2005,Domestic,,440,78,31,31
+122461,Colrain,15,Green River Lane,15 Green River Lane Colrain MA,,,6/25/2003,Domestic,Replacement,485,17,14,14
+122469,Colrain,303,Thompson Road,303 Thompson Road Colrain MA,,,7/24/2003,Domestic,New Well,305,17,10,10
+122483,Colrain,185,East Colrain Road,185 East Colrain Road Colrain MA,,,9/21/2003,Domestic,New Well,345,30,34,34
+122484,Colrain,193,East Colrain Road,193 East Colrain Road Colrain MA,,,9/22/2003,Domestic,New Well,385,1,42,42
+122509,Colrain,108,Thompson Hill Road,108 Thompson Hill Road Colrain MA,,,12/1/2003,Domestic,Replacement,245,145,Overflowing,0
+122513,Colrain,18,Franklin Hill Road,18 Franklin Hill Road Colrain MA,,,1/29/2004,Domestic,Replacement,245,25,10,10
+122543,Colrain,251,Jacksonville Road,251 Jacksonville Road Colrain MA,,,5/11/2004,Domestic,New Well,525,60,8,8
+124185,Colrain,246,West Lyden Road,246 West Lyden Road Colrain MA,,,11/3/2003,Domestic,New Well,200,17,0,0
+124218,Colrain,151,Ed Clark Road,151 Ed Clark Road Colrain MA,,,7/7/2003,Domestic,New Well,300,2,30,30
+124237,Colrain,25,Stranahan Road,25 Stranahan Road Colrain MA,,,7/1/2003,Domestic,New Well,220,76,40,40
+127776,Colrain,116,Heath Road,116 Heath Road Colrain MA,,,9/23/2003,Domestic,New Well,140,65,50,50
+131260,Colrain,141,Franklin Hill Road,141 Franklin Hill Road Colrain MA,,,8/2/2004,Domestic,New Well,485,8,67.2,67.2
+131286,Colrain,197,Adamsville Road,197 Adamsville Road Colrain MA,,,11/8/2004,Domestic,Replacement,325,8,overflowing,0
+131295,Colrain,232,Thompson Road,232 Thompson Road Colrain MA,,,1/31/2005,Domestic,New Well,165,24,12,12
+131297,Colrain,105,Van Nuys Road,105 Van Nuys Road Colrain MA,,,2/8/2005,Domestic,New Well,485,45,20,20
+131310,Colrain,107,Hillman Road,107 Hillman Road Colrain MA,,,5/17/2005,Domestic,New Well,445,445,40,40
+131323,Colrain,114,New County Road,114 New County Road Colrain MA,,,7/21/2005,Domestic,New Well,365,20,7,7
+131326,Colrain,413,Main Road,413 Main Road Colrain MA,,,7/6/2005,Domestic,Replacement,285,25,27,27
+131333,Colrain,40,Ed Clark Road,40 Ed Clark Road Colrain MA,,,8/26/2005,Domestic,New Well,165,25,90.8,90.8
+135484,Colrain,12,Dwight Cross Road,12 Dwight Cross Road Colrain MA,,,5/23/2005,Domestic,New Well,160,77,Of .5GPM,0
+135651,Colrain,21,Leon Herzig Road,21 Leon Herzig Road Colrain MA,,,11/28/2004,Domestic,New Well,360,55,5,5
+139549,Colrain,237,Main Road,237 Main Road Colrain MA,,,6/22/2005,Monitoring,New Well,60,0,42,42
+140507,Colrain,107,Prolorich Road,107 Prolorich Road Colrain MA,,,9/27/2005,Domestic,New Well,200,4.5,40,40
+140514,Colrain,415,Main Road,415 Main Road Colrain MA,,,7/20/2005,Domestic,New Well,200,49,25,25
+140535,Colrain,32,Ed Clark Road,32 Ed Clark Road Colrain MA,,,6/15/2006,Domestic,New Well,80,8,45,45
+140546,Colrain,115,N. Green River Road,115 N. Green River Road Colrain MA,,,4/10/2006,Domestic,New Well,240,0,10,10
+141223,Colrain,69,Thomson Hill Road,69 Thomson Hill Road Colrain MA,,,1/30/2006,Domestic,New Well,245,164,,0
+141238,Colrain,92,East Colrain Road,92 East Colrain Road Colrain MA,,,4/18/2006,Domestic,New Well,345,3,10,10
+141239,Colrain,127,West Leyden Road,127 West Leyden Road Colrain MA,,,4/17/2006,Domestic,Replacement,300,45,10,10
+143975,Colrain,96,E. ColrainRoad,96 E. ColrainRoad Colrain MA,,,8/5/2005,Domestic,Replacement,440,20,40,40
+144991,Colrain,Lot 3,Ed Clark Road,Lot 3 Ed Clark Road Colrain MA,,,8/21/2006,Domestic,New Well,420,0,80,80
+145257,Colrain,,Green River Road, Green River Road Colrain MA,42.685967,-72.157983,,Domestic,New Well,545,10,over 1 gpm,0
+145334,Colrain,237,Main Road,237 Main Road Colrain MA,,,5/12/2006,Monitoring,New Well,39,0,25,25
+145657,Colrain,427,Main Street,427 Main Street Colrain MA,,,7/10/2006,Domestic,New Well,81,0,22,22
+145661,Colrain,82,Ed Clark Road,82 Ed Clark Road Colrain MA,,,7/11/2006,Domestic,New Well,445,8,20,20
+145666,Colrain,54,New County Road,54 New County Road Colrain MA,42.7193,-72.67655,9/12/2006,Domestic,New Well,385,6,35,35
+147766,Colrain,78,Colrain-Shelburne Road,78 Colrain-Shelburne Road Colrain MA,42.6156,-72.67195,11/9/2006,Domestic,Replacement,445,20,35.7,35.7
+147773,Colrain,8,Shattuckville Road,8 Shattuckville Road Colrain MA,42.741483,-72.62535,12/22/2006,Domestic,Replacement,265,20,20,20
+147788,Colrain,17,Charlemont Road,17 Charlemont Road Colrain MA,42.638583,-72.733683,4/29/2007,Domestic,New Well,185,45,0,0
+147794,Colrain,310,Jacksonville Road,310 Jacksonville Road Colrain MA,42.711033,-72.7043,5/30/2007,Domestic,Replacement,265,50,10,10
+147795,Colrain,429,Main Road,429 Main Road Colrain MA,42.638717,-72.729517,5/30/2007,Domestic,New Well,345,8,80,80
+147798,Colrain,39,New County Road,39 New County Road Colrain MA,42.71715,-72.673417,7/9/2007,Domestic,New Well,445,7,32,32
+147801,Colrain,66,Ed Clark Road,66 Ed Clark Road Colrain MA,42.699667,-72.76225,7/11/2007,Domestic,New Well,225,21,50,50
+147802,Colrain,64,Ed Clark Road,64 Ed Clark Road Colrain MA,42.699017,-72.762417,7/11/2007,Domestic,New Well,225,25,50,50
+149037,Colrain,28,Ed Clark Road,28 Ed Clark Road Colrain MA,42.694233,-72.760317,11/9/2006,Domestic,New Well,120,0,20,20
+150642,Colrain,238,Wilson Hill Road,238 Wilson Hill Road Colrain MA,42.7051,-72.738167,6/12/2008,Domestic,New Well,180,23,10,10
+150684,Colrain,126,Main Road,126 Main Road Colrain MA,42.67115,-72.716433,9/11/2008,Irrigation,New Well,200,35,5,5
+154659,Colrain,26,Greenfield Road,26 Greenfield Road Colrain MA,42.6727,-72.692683,11/9/2007,Domestic,Replacement,385,45,30,30
+154664,Colrain,327,W. Leydon Road,327 W. Leydon Road Colrain MA,42.69545,-72.6647,11/20/2007,Domestic,Replacement,245,22,15,15
+155395,Colrain,57,East Colrain Road,57 East Colrain Road Colrain MA,42.668533,-72.657917,8/11/2008,Domestic,Deepen,442,2,30,30
+155402,Colrain,1,Gilbert Drive,1 Gilbert Drive Colrain MA,42.7014,-72.775683,4/17/2009,Domestic,New Well,300,10,90,90
+157680,Colrain,51,Heath Road,51 Heath Road Colrain MA,42.679217,-72.739633,1/19/2009,Domestic,New Well,122,13,3,3
+159899,Colrain,6-A,Dunnell Drive,6-A Dunnell Drive Colrain MA,42.70185,-72.775817,10/28/2009,Domestic,New Well,410,10,70,70
+159900,Colrain,9,Dunnell Drive,9 Dunnell Drive Colrain MA,42.702767,-72.77525,10/16/2009,Domestic,New Well,140,15,10,10
+159933,Colrain,29,Fort Lucas Road,29 Fort Lucas Road Colrain MA,42.665983,-72.673167,6/13/2010,Domestic,New Well,600,9,46,46
+161628,Colrain,9,Dunnell Drive,9 Dunnell Drive Colrain MA,42.703267,-72.776,11/15/2010,Domestic,New Well,300,23,0,0
+250749,Colrain,259,Wilson Hill Rd,259 Wilson Hill Rd Colrain MA,42.712333,-72.7437,11/1/2007,Domestic,New Well,320,15,20,20
+251403,Colrain,48,Nelson Road,48 Nelson Road Colrain MA,42.6611,-72.635783,4/7/2008,Domestic,Replacement,245,46,20,20
+251662,Colrain,,Nelson Rd, Nelson Rd Colrain MA,42.656362,-72.629319,5/14/2008,Domestic,New Well,460,4,45,45
+252270,Colrain,17,Coombs Hill Road,17 Coombs Hill Road Colrain MA,42.641583,-72.67665,8/1/2008,Domestic,Deepen,560,,20,20
+253443,Colrain,81,Wilson Hill Road,81 Wilson Hill Road Colrain MA,42.69095,-72.73615,9/2/2008,Domestic,Replacement,325,8,20,20
+255216,Colrain,53,Adamsville Road,53 Adamsville Road Colrain MA,42.663033,-72.720133,11/5/2008,Domestic,New Well,325,67,20,20
+261299,Colrain,2,Coombs Hill Road,2 Coombs Hill Road Colrain MA,42.64285,-72.674583,6/4/2009,Domestic,Deepen,605,,500,500
+261299,Colrain,2,Coombs Hill Road,2 Coombs Hill Road Colrain MA,42.64285,-72.674583,6/4/2009,Domestic,Deepen,605,,52,52
+265944,Colrain,56,East Colrain Road,56 East Colrain Road Colrain MA,42.66945,-72.655233,10/26/2009,Domestic,Hydrofracture,305,,18,18
+267111,Colrain,87,Franklin Hill Road,87 Franklin Hill Road Colrain MA,42.7175,-72.697283,11/12/2009,Domestic,New Well,305,7,2,2
+267794,Colrain,,Christian Hill Road, Christian Hill Road Colrain MA,42.724367,-72.758433,11/25/2009,Domestic,New Well,205,3,20,20
+268222,Colrain,13,Bennett Galipo Drive,13 Bennett Galipo Drive Colrain MA,42.6588,-72.718383,11/19/2009,Monitoring,New Well,60,,43,43
+600107,Colrain,22,VAN NUYS ROAD,22 VAN NUYS ROAD Colrain MA,,,8/23/2010,,,245,12,30,30
+600117,Colrain,,CHRISTIAN HILL ROAD, CHRISTIAN HILL ROAD Colrain MA,,,8/1/2010,,,345,20,20,20
+600209,Colrain,237,MAIN ROAD,237 MAIN ROAD Colrain MA,,,,,,,,,0
+600360,Colrain,11,MERRIFIELD LANE,11 MERRIFIELD LANE Colrain MA,,,11/16/2010,,,545,7,13,13
+600360,Colrain,11,MERRIFIELD LANE,11 MERRIFIELD LANE Colrain MA,,,11/16/2010,,,545,7,27,27
+600958,Colrain,237,MAIN ROAD,237 MAIN ROAD Colrain MA,,,,,,,,,0
+607701,Colrain,12,THIBODEAU DRIVE,12 THIBODEAU DRIVE Colrain MA,42.67003,-72.76542,6/18/2012,,Replacement,245,65,0,0
+607743,Colrain,14,STACEY ROAD,14 STACEY ROAD Colrain MA,42.63867,-72.7351,6/20/2012,,New Well,185,32,51,51
+617157,Colrain,299,JACKSONVILLE ROAD,299 JACKSONVILLE ROAD Colrain MA,42.7098,-72.70257,11/30/2012,,Replacement,305,31,30,30
+617695,Colrain,,Dunnell Drive, Dunnell Drive Colrain MA,42.700818,-72.77575,12/15/2012,,New Well,222,27,20,20
+623785,Colrain,14,Crosier Lane,14 Crosier Lane Colrain MA,42.70282,-72.77417,1/8/2013,,New Well,202,10,21,21
