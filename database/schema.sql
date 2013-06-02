@@ -28,9 +28,9 @@ CREATE TABLE users (
 	email			varchar(100) UNIQUE,
 	first_name		varchar(100),
 	last_name		varchar(100),
-	created_on  		date not null default CURRENT_DATE,
+	created_on  		timestamp not null default CURRENT_DATE,
 	created_by  		integer null,
-	modified_on  		date not null default CURRENT_DATE,
+	modified_on  		timestamp not null default CURRENT_DATE,
 	modified_by  		integer null
 );
 
@@ -41,27 +41,27 @@ CREATE TABLE users (
 CREATE TABLE municipalities (
 	id			SERIAL PRIMARY KEY,
 	name			varchar(100),
-	created_on  		date not null default CURRENT_DATE,
+	created_on  		timestamp not null default CURRENT_DATE,
 	created_by  		integer references users(id) not null,
-	modified_on  		date not null default CURRENT_DATE,
+	modified_on  		timestamp not null default CURRENT_DATE,
 	modified_by  		integer references users(id) not null
 );
 
 CREATE TABLE wells_types (
 	id			SERIAL PRIMARY KEY,
 	name			varchar(100) null,
-	created_on  		date not null default CURRENT_DATE,
+	created_on  		timestamp not null default CURRENT_DATE,
 	created_by  		integer references users(id) not null,
-	modified_on  		date not null default CURRENT_DATE,
+	modified_on  		timestamp not null default CURRENT_DATE,
 	modified_by  		integer references users(id) not null
 );
 
 CREATE TABLE measurements_types (
 	id			SERIAL PRIMARY KEY,
 	name			varchar(100) not null,
-	created_on  		date not null default CURRENT_DATE,
+	created_on  		timestamp not null default CURRENT_DATE,
 	created_by  		integer references users(id) not null,
-	modified_on  		date not null default CURRENT_DATE,
+	modified_on  		timestamp not null default CURRENT_DATE,
 	modified_by  		integer references users(id) not null
 );
 
@@ -95,9 +95,9 @@ CREATE TABLE wells (
 	field_notes		text,
 	municipalities_id	integer references municipalities(id),
 	well_types_id		integer references wells_types(id),
-	created_on  		date not null default CURRENT_DATE,
+	created_on  		timestamp not null default CURRENT_DATE,
 	created_by  		integer references users(id) not null,
-	modified_on  		date not null default CURRENT_DATE,
+	modified_on  		timestamp not null default CURRENT_DATE,
 	modified_by  		integer references users(id) not null
 );
 
@@ -108,9 +108,9 @@ CREATE TABLE wells_yields (
 	rate			float not null,
 	description		text,
 	wells_id		integer not null references wells(id),
-	created_on  		date not null default CURRENT_DATE,
+	created_on  		timestamp not null default CURRENT_DATE,
 	created_by  		integer references users(id) not null,
-	modified_on  		date not null default CURRENT_DATE,
+	modified_on  		timestamp not null default CURRENT_DATE,
 	modified_by  		integer references users(id) not null
 );
 
@@ -121,9 +121,9 @@ CREATE TABLE wells_yields (
 CREATE TABLE water_quality_reports (
 	id			SERIAL PRIMARY KEY,
 	wells_id		integer not null references wells(id),
-	created_on  		date not null default CURRENT_DATE,
+	created_on  		timestamp not null default CURRENT_DATE,
 	created_by  		integer references users(id) not null,
-	modified_on  		date not null default CURRENT_DATE,
+	modified_on  		timestamp not null default CURRENT_DATE,
 	modified_by  		integer references users(id) not null
 );
 
@@ -131,9 +131,9 @@ CREATE TABLE water_quality_reports_measurements (
 	id				SERIAL PRIMARY KEY,
 	measurements_types_id		integer not null references measurements_types(id),
 	water_quality_reports_id	integer not null references water_quality_reports(id),
-	created_on  			date not null default CURRENT_DATE,
+	created_on  			timestamp not null default CURRENT_DATE,
 	created_by  			integer references users(id) not null,
-	modified_on  			date not null default CURRENT_DATE,
+	modified_on  			timestamp not null default CURRENT_DATE,
 	modified_by  			integer references users(id) not null
 );
 
@@ -149,9 +149,9 @@ CREATE TABLE xref_users_municipalities (
 	id			SERIAL PRIMARY KEY,
 	users_id		integer references users(id),
 	municipalities_id	integer references municipalities(id),
-	created_on  		date not null default CURRENT_DATE,
+	created_on  		timestamp not null default CURRENT_DATE,
 	created_by  		integer references users(id) not null,
-	modified_on  		date not null default CURRENT_DATE,
+	modified_on  		timestamp not null default CURRENT_DATE,
 	modified_by  		integer references users(id) not null
 );
 
