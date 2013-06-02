@@ -4,3 +4,4 @@ Werkzeug==0.8.3
 gunicorn==0.17.2
 Flask-SQLAlchemy==0.16
 psycopg2
+flask-wtf
