@@ -6,7 +6,7 @@ from .models import (
 
 
 class WellAdmin(admin.ModelAdmin):
-    list_display = ('deep_well_id', 'well_type', 'municipality', 'latitude', 'longitude')
+    list_display = ('dep_well_id', 'well_type', 'municipality', 'latitude', 'longitude')
     list_filter = ['created_on', 'modified_on', 'well_type', 'municipality']
     list_editable = ['well_type', 'municipality']
 admin.site.register(Well, WellAdmin)
@@ -24,14 +24,17 @@ class WellYieldAdmin(admin.ModelAdmin):
     list_editable = ['date', 'rate', 'well']
 admin.site.register(WellYield, WellYieldAdmin)
 
-class WaterQualityReportAdmin(admin.ModelAdmin):
-    pass
-admin.site.register(WaterQualityReport, WaterQualityReportAdmin)
-
-class WaterQualityMeasurementAdmin(admin.ModelAdmin):
-    pass
-admin.site.register(WaterQualityMeasurement, WaterQualityMeasurementAdmin)
-    
 class WaterQualityMeasurementTypeAdmin(admin.ModelAdmin):
     pass
 admin.site.register(WaterQualityMeasurementType, WaterQualityMeasurementTypeAdmin)
+
+class WaterQualityMeasurementReportAdminInline(admin.TabularInline):
+    model = WaterQualityMeasurement
+
+class WaterQualityReportAdmin(admin.ModelAdmin):
+    inlines = [
+        WaterQualityMeasurementReportAdminInline
+    ]
+
+admin.site.register(WaterQualityReport, WaterQualityReportAdmin)
+

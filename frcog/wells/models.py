@@ -56,7 +56,7 @@ class Well(models.Model):
         verbose_name_plural = _('Wells')
 
     def __unicode__(self):
-        return unicode(self.deep_well_id)
+        return unicode(self.dep_well_id)
 
 
 class WellYield(models.Model):
@@ -81,8 +81,14 @@ class WaterQualityReport(models.Model):
     well = models.ForeignKey('Well')
     date = models.DateField()
 
+    def __unicode__(self):
+        return '%s - %s' % (self.well, self.date)
+
 class WaterQualityMeasurementType(models.Model):
     name = models.CharField(max_length=100)
+
+    def __unicode__(self):
+        return unicode(self.name)
 
 class WaterQualityMeasurement(models.Model):
     quality_report = models.ForeignKey('WaterQualityReport')
