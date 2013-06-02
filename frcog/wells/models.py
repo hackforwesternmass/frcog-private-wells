@@ -22,7 +22,7 @@ class WellType(models.Model):
 
 
 class Well(models.Model):
-    deep_well_id = models.IntegerField()
+    dep_well_id = models.IntegerField()
     owner_name = models.CharField(max_length=100, blank=True)
     owner_street_1 = models.CharField(max_length=100, blank=True)
     owner_street_2 = models.CharField(max_length=100, blank=True)
@@ -37,18 +37,18 @@ class Well(models.Model):
     depth_to_bedrock = models.IntegerField()
     assessors_map = models.CharField(max_length=10, blank=True)
     assessors_lot = models.CharField(max_length=10, blank=True)
-    boh_date_issues = models.DateField(null=True, blank=True)
+    boh_date_issued = models.DateField(null=True, blank=True)
     boh_permit = models.CharField(max_length=10, blank=True)
     comments = models.TextField(blank=True)
     wc_date = models.DateField(null=True, blank=True)
     firm = models.CharField(max_length=100, blank=True)
     supervising_driller = models.CharField(max_length=100, blank=True)
     field_notes = models.TextField(blank=True)
-    municipality = models.ForeignKey(Municipality)
-    well_type = models.ForeignKey(WellType)
-    created_on = models.DateTimeField(auto_now_add=True)
+    municipality = models.ForeignKey(Municipality, db_column='municipalities_id')
+    well_type = models.ForeignKey(WellType, db_column='well_types_id')
+    created_on = models.DateTimeField(auto_now_add=True, db_column='created_on_id')
     created_by = models.ForeignKey(User, related_name='well_created_by')
-    modified_on = models.DateTimeField(auto_now=True)
+    modified_on = models.DateTimeField(auto_now=True, db_column='modified_on_id')
     modified_by = models.ForeignKey(User, related_name='well_modified_by')
 
     class Meta:
