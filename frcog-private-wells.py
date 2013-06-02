@@ -1,7 +1,8 @@
 import os, ConfigParser, logging, sys
 from flask import Flask, render_template
-from dbmanager import DatabaseManager
 from logging.handlers import RotatingFileHandler
+from flask.ext.sqlalchemy import SQLAlchemy
+from models import *
 
 file_handler = RotatingFileHandler('private-wells.log', maxBytes=1024 * 1024 * 100, backupCount=20)
 file_handler.setLevel(logging.ERROR)
@@ -22,9 +23,22 @@ if not os.environ.get('FRCOG_PASSWORD'):
                   " Please set this on the command line.")
     sys.exit(15)
 
-dbmanager = DatabaseManager(parser.get('Database', 'Host'), parser.get('Database', 'Catalog'), 
-                            parser.get('Database', 'Port'), parser.get('Database', 'User'), 
-                            os.environ["FRCOG_PASSWORD"])
+host = parser.get('Database', 'Host')
+catalog = parser.get('Database', 'Catalog')
+port = parser.get('Database', 'Port')
+user = parser.get('Database', 'User')
+password = os.environ["FRCOG_PASSWORD"]
+
+database_url = ("postgresql://{user}:{password}@{host}:{port}/{catalog}"
+                .format(user=user, password=password, host=host, 
+                                        port=port, catalog=catalog))
+
+app.config['SQLALCHEMY_DATABASE_URI'] = database_url
+db = SQLAlchemy(app)
+db_session = scoped_session(sessionmaker(autocommit=False, autoflush=False, bind=db))
+
+Base = declarative_base()
+Base.query = db_session.query_property()
 
 @app.route('/')
 def home():
@@ -35,16 +49,17 @@ def map():
     return render_template('map.html')
 
 @app.route('/wells')
-def wells():
-    wells = dbmanager.get_wells_view()
-    print("{0}".format(wells))
-    return render_template('well-list.html', wells=wells)
+def well_index():
+    results = db.session.query(wells).all()
+    print("{0}".format(results))
+    return render_template('well-list.html', wells=results)
 
 @app.route('/wells/edit', methods=['GET', 'POST'])
 def edit_well():
     if request.method == "POST":
-        return render_template('edit-well.html')
+        return render_template('well-list.html')
     else:
+        #template_to_edit
         return render_template('edit-well.html')
 
 @app.route('/reports', methods=['GET'])
