@@ -1,5 +1,8 @@
 from django.contrib import admin
-from .models import WellType, Well, WellYield
+from .models import (
+    WellType, Well, WellYield,
+    WaterQualityReport, WaterQualityMeasurement, WaterQualityMeasurementType
+)
 
 
 class WellAdmin(admin.ModelAdmin):
@@ -20,3 +23,15 @@ class WellYieldAdmin(admin.ModelAdmin):
     list_filter = ['created_on', 'modified_on', 'date']
     list_editable = ['date', 'rate', 'well']
 admin.site.register(WellYield, WellYieldAdmin)
+
+class WaterQualityReportAdmin(admin.ModelAdmin):
+    pass
+admin.site.register(WaterQualityReport, WaterQualityReportAdmin)
+
+class WaterQualityMeasurementAdmin(admin.ModelAdmin):
+    pass
+admin.site.register(WaterQualityMeasurement, WaterQualityMeasurementAdmin)
+    
+class WaterQualityMeasurementTypeAdmin(admin.ModelAdmin):
+    pass
+admin.site.register(WaterQualityMeasurementType, WaterQualityMeasurementTypeAdmin)
