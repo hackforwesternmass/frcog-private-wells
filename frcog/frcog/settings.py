@@ -117,6 +117,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.admin',
+    'csvimport', # added by hjw to ease importing dep data to db
     'wells',
     'municipalities',
     'reports'

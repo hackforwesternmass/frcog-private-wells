@@ -1,0 +1,30 @@
+static_data/
+contains data to populate the municipalities and the data to populate the well types
+are both static and should be imported into the db as soon as it is created.
+
+django-csvimport is an extension that exists, but is finicky.
+There can be no leading/trailing spaces for the column names in the first row.
+  ie:  name, created_by_id    will not work but
+       name,created_by_id     will work.
+
+Additionally there should be no blank lines at the end of the csv file and 
+there are posts about the module not handling eol discrepencies well so if
+you are trying to create a new csv file to import and it looks exactly like
+our other files which work, check your line endings.
+
+**** the django-csvimport module creates a copy of the csv data and puts
+it in a csv directory in the main project. It does this every time you run
+an import adding a # tag to the filename. I suppose it does this as an
+audit trail but in reallity I find it confusing and unclear.
+
+django-csvimport could be rewritten/improved upon so that better error 
+messages were thrown, and so that the csv data files were not duplicated to 
+a csv directory in the main project, or at least the duplicate was marked with
+an import time/something comprable. The project exists on github at:
+git@github.com:edcrewe/django-csvimport.git
+
+The sql directory, inside the static data directory contains the code that
+russ wrote to do the table inserts via sql commands. I have archived it because
+it might be helpful in the future, but while we are using django, importing 
+through the django api is more robust.
+HJW 2013/6/4

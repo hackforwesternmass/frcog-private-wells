@@ -1,0 +1,12 @@
+INSERT INTO wells_types(name, created_by_id, modified_by_id, created_on, modified_on) VALUES ('Cathodic Protection',1,1,date('now'),date('now'));
+INSERT INTO wells_types(name, created_by_id, modified_by_id, created_on, modified_on) VALUES ('Domestic',1,1,date('now'),date('now'));
+INSERT INTO wells_types(name, created_by_id, modified_by_id, created_on, modified_on) VALUES ('Geoconstruction',1,1,date('now'),date('now'));
+INSERT INTO wells_types(name, created_by_id, modified_by_id, created_on, modified_on) VALUES ('Geothermal Closed Loop',1,1,date('now'),date('now'));
+INSERT INTO wells_types(name, created_by_id, modified_by_id, created_on, modified_on) VALUES ('Geothermal Open Loop',1,1,date('now'),date('now'));
+INSERT INTO wells_types(name, created_by_id, modified_by_id, created_on, modified_on) VALUES ('Industrial',1,1,date('now'),date('now'));
+INSERT INTO wells_types(name, created_by_id, modified_by_id, created_on, modified_on) VALUES ('Cathodic Protection',1,1,date('now'),date('now'));
+INSERT INTO wells_types(name, created_by_id, modified_by_id, created_on, modified_on) VALUES ('Domestic',1,1,date('now'),date('now'));
+INSERT INTO wells_types(name, created_by_id, modified_by_id, created_on, modified_on) VALUES ('Geoconstruction',1,1,date('now'),date('now'));
+INSERT INTO wells_types(name, created_by_id, modified_by_id, created_on, modified_on) VALUES ('Geothermal Closed Loop',1,1,date('now'),date('now'));
+INSERT INTO wells_types(name, created_by_id, modified_by_id, created_on, modified_on) VALUES ('Geothermal Open Loop',1,1,date('now'),date('now'));
+INSERT INTO wells_types(name, created_by_id, modified_by_id, created_on, modified_on) VALUES ('Industrial',1,1,date('now'),date('now'));

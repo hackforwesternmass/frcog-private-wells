@@ -1,0 +1,10 @@
+data/
+Contains various raw well-data files received from Glenn.
+The original files from Glenn were missing plenty of lat/longs and were fed
+through a geocoder to get that info. DO NOT USE THE ORIGINAL FILES, INSTEAD
+USE THE FILES CREATED FROM A DUMP OF THE OLD DB (WHICH HAD LAT/LONGS UPDATED)
+The csv file is the file that David put together for the google fusion tables
+solution. It may contain extra wells that Glenn is not interested in, and it
+may be missings some data that Glenn is interested in...not sure
+
+hjw 2013/6/4
