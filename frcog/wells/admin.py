@@ -1,7 +1,6 @@
 from django.contrib import admin
 from .models import (
     WellType, Well, WellYield,
-    WaterQualityReport, WaterQualityMeasurement, WaterQualityMeasurementType
 )
 
 
@@ -23,18 +22,4 @@ class WellYieldAdmin(admin.ModelAdmin):
     list_filter = ['created_on', 'modified_on', 'date']
     list_editable = ['date', 'rate', 'well']
 admin.site.register(WellYield, WellYieldAdmin)
-
-class WaterQualityMeasurementTypeAdmin(admin.ModelAdmin):
-    pass
-admin.site.register(WaterQualityMeasurementType, WaterQualityMeasurementTypeAdmin)
-
-class WaterQualityMeasurementReportAdminInline(admin.TabularInline):
-    model = WaterQualityMeasurement
-
-class WaterQualityReportAdmin(admin.ModelAdmin):
-    inlines = [
-        WaterQualityMeasurementReportAdminInline
-    ]
-
-admin.site.register(WaterQualityReport, WaterQualityReportAdmin)
 

@@ -118,7 +118,8 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django.contrib.admin',
     'wells',
-    'municipalities'
+    'municipalities',
+    'reports'
 )
 
 # A sample logging configuration. The only tangible logging

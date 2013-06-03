@@ -80,28 +80,3 @@ class WellYield(models.Model):
         return '%s: %s - %s' % (self.well, self.date, self.rate)
 
 
-class WaterQualityReport(models.Model):
-    well = models.ForeignKey('Well')
-    date = models.DateField()
-
-    class Meta:
-      db_table = 'water_quality_reports'
-
-    def __unicode__(self):
-        return '%s - %s' % (self.well, self.date)
-
-class WaterQualityMeasurementType(models.Model):
-    name = models.CharField(max_length=100)
-
-    class Meta:
-      db_table = 'measurements_types'
-      
-    def __unicode__(self):
-        return unicode(self.name)
-
-class WaterQualityMeasurement(models.Model):
-    quality_report = models.ForeignKey('WaterQualityReport')
-    measurement_type = models.ForeignKey('WaterQualityMeasurementType')
-    value = models.CharField(max_length=100) # Could be int or string, this is just the easiest for right now
-    class Meta:
-      db_table = 'water_quality_reports_measurements'
