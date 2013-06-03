@@ -11,6 +11,7 @@ class Municipality(models.Model):
     modified_by = models.ForeignKey(User, related_name='municiplaity_modified_by')
 
     class Meta:
+        db_table = 'municipalities'
         verbose_name = _('Municipality')
         verbose_name_plural = _('Municipalities')
 
