@@ -62,10 +62,10 @@ class Well(models.Model):
 
 
 class WellYield(models.Model):
+    well = models.ForeignKey('Well')
     date = models.DateField(blank=True, null=True)
     rate = models.FloatField()
     description = models.TextField()
-    well = models.ForeignKey('Well')
     created_on = models.DateTimeField(auto_now_add=True)
     created_by = models.ForeignKey(User, related_name='well_yield_created_by')
     modified_on = models.DateTimeField(auto_now=True)
