@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block body %}
+<h2>Search</h2>
+<p>Enter the DEP Well ID of the Well:</p>
+<form action="">
+    <label for="dep_id">
+    <input name="dep_id" type="text"></input>
+
+    <input type="submit"/>
+    <p>{{ error }}</p>
+</form>
+
+{% if well %}
+    <h2>Well Info</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dep Well ID:</td><td>{{ well.dep_well_id }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    {% if reports %}
+    <h2>Water Quality Reports</h2>
+        {% for report in reports %}
+            <h3>{{ report.date }}</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Measurement</th>
+                        <th>Value</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>Measurement</th>
+                        <th>Value</th>
+                    </tr>
+                </tbody>
+            </table>
+        {% endfor %}
+    {% endif %}
+
+{% endif %}
+
+{% endblock body %}
