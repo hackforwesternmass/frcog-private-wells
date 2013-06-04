@@ -39,10 +39,12 @@
                     </tr>
                 </thead>
                 <tbody>
+                    {% for measurement in report.waterqualitymeasurement_set.all %}
                     <tr>
-                        <th>Measurement</th>
-                        <th>Value</th>
+                        <td>{{ measurement.measurement_type.name }}</td>
+                        <td>{{ measurement.value }}</td>
                     </tr>
+                    {% endfor %}
                 </tbody>
             </table>
         {% endfor %}

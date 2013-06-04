@@ -20,7 +20,7 @@ def wells(request):
     if dep_id:
         try:
             well = template_vars['well'] = Well.objects.get(dep_well_id=dep_id)
-            template_vars['reports'] = []
+            template_vars['reports'] = well.waterquality_set.all()
 
         except Well.DoesNotExist:
             template_vars['error'] = 'Well {0} not found'.format(dep_id)
