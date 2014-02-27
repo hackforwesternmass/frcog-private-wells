@@ -1,7 +1,9 @@
 FRCOG Town Well Mapping
 =======================
 
-Instructions for setting up a process to get private well data from the MA DEP, updating it via the web or via Android device, and mapping it.
+This document contains instructions for setting up a process to get private well data from the MA DEP, updating it via the web or via Android device, and mapping it.
+
+You can view a map of the well locations [here](http://hackforwesternmass.github.io/frcog-private-wells/well_map).
 
 Setting up a New Town
 -------------------------
